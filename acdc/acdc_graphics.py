@@ -106,7 +106,7 @@ def build_colorscheme(correspondence, colorscheme: str = "Pastel2", show_full_in
         colors[get_node_name(node, show_full_index=show_full_index)] = generate_random_color(colorscheme)
     return colors
 
-if SHOW_GRAPHs:
+if SHOW_GRAPHS:
     def show(
         correspondence: TLACDCCorrespondence,
         fname=None,
