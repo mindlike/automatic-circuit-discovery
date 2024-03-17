@@ -19,8 +19,15 @@ import networkx as nx
 from acdc.TLACDCCorrespondence import TLACDCCorrespondence
 from acdc.TLACDCInterpNode import TLACDCInterpNode
 from acdc.acdc_utils import EdgeType
-import pygraphviz as pgv
 from pathlib import Path
+
+try:
+    import pygraphviz as pgv
+    SHOW_GRAPHS = True
+except Exception as e:
+    SHOW_GRAPHS = False
+    print(f"GraphViz not imported")
+
 
 EDGE_TYPE_COLORS = {
     EdgeType.ADDITION.value: "#FF0000", # Red

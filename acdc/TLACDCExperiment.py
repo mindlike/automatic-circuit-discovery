@@ -7,7 +7,6 @@ from typing import Callable, Optional, Literal, List, Dict, Any, Tuple, Union, S
 import random
 from dataclasses import dataclass
 import torch
-from acdc.acdc_graphics import show
 from torch import nn
 from torch.nn import functional as F
 from acdc.TLACDCInterpNode import TLACDCInterpNode
@@ -20,7 +19,7 @@ import wandb
 from acdc.acdc_utils import extract_info, shuffle_tensor
 from acdc.TLACDCEdge import (
     TorchIndex,
-    Edge, 
+    Edge,
     EdgeType,
 )  # these introduce several important classes !!!
 from collections import OrderedDict
@@ -655,11 +654,6 @@ class TLACDCExperiment:
 
         if is_this_node_used and self.current_node.incoming_edge_type.value != EdgeType.PLACEHOLDER.value:
             fname = f"ims/img_new_{self.step_idx}.png"
-            show(
-                self.corr,
-                fname=fname,
-                show_full_index=self.show_full_index,
-            )
             if self.using_wandb:
                 try:
                     wandb.log(
