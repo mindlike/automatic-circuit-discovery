@@ -106,118 +106,118 @@ def build_colorscheme(correspondence, colorscheme: str = "Pastel2", show_full_in
         colors[get_node_name(node, show_full_index=show_full_index)] = generate_random_color(colorscheme)
     return colors
 
-
-def show(
-    correspondence: TLACDCCorrespondence,
-    fname=None,
-    colorscheme: Union[Dict, str] = "Pastel2",
-    minimum_penwidth: float = 0.3,
-    show_full_index: bool = True,
-    remove_self_loops: bool = True,
-    remove_qkv: bool = False,
-    layout: str="dot",
-    edge_type_colouring: bool = False,
-    show_placeholders: bool = False,
-    seed: Optional[int] = None
-) -> pgv.AGraph:
-    """
-    Colorscheme: a color for each node name, or a string corresponding to a cmapy color scheme
-    """
-    g = pgv.AGraph(directed=True, bgcolor="transparent", overlap="false", splines="true", layout=layout)
-
-    if seed is not None:
-        np.random.seed(seed)
-
-    groups = {}
-    if isinstance(colorscheme, str):
-        colors = build_colorscheme(correspondence, colorscheme, show_full_index=show_full_index)
-    else:
-        colors = colorscheme
-        for name, color in colors.items():
-            if color not in groups:
-                groups[color] = [name]
-            else:
-                groups[color].append(name)
-
-    node_pos = {}
-    if fname is not None:
-        base_fname = ".".join(str(fname).split(".")[:-1])
-
-        base_path = Path(base_fname)
-        fpath = base_path / "layout.gv"
-        if fpath.exists():
-            g_pos = pgv.AGraph()
-            g_pos.read(fpath)
-            for node in g_pos.nodes():
-                node_pos[node.name] = node.attr["pos"]
-
-    # create all nodes
-    for child_hook_name in correspondence.edges:
-        for child_index in correspondence.edges[child_hook_name]:
-            for parent_hook_name in correspondence.edges[child_hook_name][child_index]:
-                for parent_index in correspondence.edges[child_hook_name][child_index][parent_hook_name]:
-                    edge = correspondence.edges[child_hook_name][child_index][parent_hook_name][parent_index]
-
-                    parent = correspondence.graph[parent_hook_name][parent_index]
-                    child = correspondence.graph[child_hook_name][child_index]
-
-                    parent_name = get_node_name(parent, show_full_index=show_full_index)
-                    child_name = get_node_name(child, show_full_index=show_full_index)
-
-                    if remove_qkv:
-                        parent_name = parent_name.replace("_q>", ">").replace("_k>", ">").replace("_v>", ">")
-                        child_name = child_name.replace("_q>", ">").replace("_k>", ">").replace("_v>", ">")
-
-                    if remove_self_loops and parent_name == child_name:
-                        # Important this go after the qkv removal
-                        continue
-
-                    if (edge.present and edge.effect_size is not None) and (edge.edge_type != EdgeType.PLACEHOLDER or show_placeholders):
-                        for node_name in [parent_name, child_name]:
-                            maybe_pos = {}
-                            if node_name in node_pos:
-                                maybe_pos["pos"] = node_pos[node_name]
-                            g.add_node(
-                                node_name,
-                                fillcolor=colors[node_name],
-                                color="black",
-                                style="filled, rounded",
-                                shape="box",
-                                fontname="Helvetica",
-                                **maybe_pos,
+if SHOW_GRAPHs:
+    def show(
+        correspondence: TLACDCCorrespondence,
+        fname=None,
+        colorscheme: Union[Dict, str] = "Pastel2",
+        minimum_penwidth: float = 0.3,
+        show_full_index: bool = True,
+        remove_self_loops: bool = True,
+        remove_qkv: bool = False,
+        layout: str="dot",
+        edge_type_colouring: bool = False,
+        show_placeholders: bool = False,
+        seed: Optional[int] = None
+    ) -> pgv.AGraph:
+        """
+        Colorscheme: a color for each node name, or a string corresponding to a cmapy color scheme
+        """
+        g = pgv.AGraph(directed=True, bgcolor="transparent", overlap="false", splines="true", layout=layout)
+    
+        if seed is not None:
+            np.random.seed(seed)
+    
+        groups = {}
+        if isinstance(colorscheme, str):
+            colors = build_colorscheme(correspondence, colorscheme, show_full_index=show_full_index)
+        else:
+            colors = colorscheme
+            for name, color in colors.items():
+                if color not in groups:
+                    groups[color] = [name]
+                else:
+                    groups[color].append(name)
+    
+        node_pos = {}
+        if fname is not None:
+            base_fname = ".".join(str(fname).split(".")[:-1])
+    
+            base_path = Path(base_fname)
+            fpath = base_path / "layout.gv"
+            if fpath.exists():
+                g_pos = pgv.AGraph()
+                g_pos.read(fpath)
+                for node in g_pos.nodes():
+                    node_pos[node.name] = node.attr["pos"]
+    
+        # create all nodes
+        for child_hook_name in correspondence.edges:
+            for child_index in correspondence.edges[child_hook_name]:
+                for parent_hook_name in correspondence.edges[child_hook_name][child_index]:
+                    for parent_index in correspondence.edges[child_hook_name][child_index][parent_hook_name]:
+                        edge = correspondence.edges[child_hook_name][child_index][parent_hook_name][parent_index]
+    
+                        parent = correspondence.graph[parent_hook_name][parent_index]
+                        child = correspondence.graph[child_hook_name][child_index]
+    
+                        parent_name = get_node_name(parent, show_full_index=show_full_index)
+                        child_name = get_node_name(child, show_full_index=show_full_index)
+    
+                        if remove_qkv:
+                            parent_name = parent_name.replace("_q>", ">").replace("_k>", ">").replace("_v>", ">")
+                            child_name = child_name.replace("_q>", ">").replace("_k>", ">").replace("_v>", ">")
+    
+                        if remove_self_loops and parent_name == child_name:
+                            # Important this go after the qkv removal
+                            continue
+    
+                        if (edge.present and edge.effect_size is not None) and (edge.edge_type != EdgeType.PLACEHOLDER or show_placeholders):
+                            for node_name in [parent_name, child_name]:
+                                maybe_pos = {}
+                                if node_name in node_pos:
+                                    maybe_pos["pos"] = node_pos[node_name]
+                                g.add_node(
+                                    node_name,
+                                    fillcolor=colors[node_name],
+                                    color="black",
+                                    style="filled, rounded",
+                                    shape="box",
+                                    fontname="Helvetica",
+                                    **maybe_pos,
+                                )
+                            
+                            g.add_edge(
+                                parent_name,
+                                child_name,
+                                penwidth=str(max(minimum_penwidth, edge.effect_size) * 2),
+                                color=colors[parent_name] if not edge_type_colouring else EDGE_TYPE_COLORS[edge.edge_type.value],
                             )
-                        
-                        g.add_edge(
-                            parent_name,
-                            child_name,
-                            penwidth=str(max(minimum_penwidth, edge.effect_size) * 2),
-                            color=colors[parent_name] if not edge_type_colouring else EDGE_TYPE_COLORS[edge.edge_type.value],
-                        )
-
-    if fname is not None:
-        base_fname = ".".join(str(fname).split(".")[:-1])
-
-        base_path = Path(base_fname)
-        base_path.mkdir(exist_ok=True)
-        for k, s in groups.items():
-            g2 = pgv.AGraph(directed=True, bgcolor="transparent", overlap="false", splines="true", layout="neato")
-            for node_name in s:
-                g2.add_node(
-                    node_name,
-                    style="filled, rounded",
-                    shape="box",
-                )
-            for i in range(len(s)):
-                for j in range(i + 1, len(s)):
-                    g2.add_edge(s[i], s[j], style="invis", weight=200)
-            g2.write(path=base_path / f"{k}.gv")
-
-        g.write(path=base_fname + ".gv")
-
-        if not fname.endswith(".gv"): # turn the .gv file into a .png file
-            g.draw(path=fname, prog="dot")
-
-    return g
+    
+        if fname is not None:
+            base_fname = ".".join(str(fname).split(".")[:-1])
+    
+            base_path = Path(base_fname)
+            base_path.mkdir(exist_ok=True)
+            for k, s in groups.items():
+                g2 = pgv.AGraph(directed=True, bgcolor="transparent", overlap="false", splines="true", layout="neato")
+                for node_name in s:
+                    g2.add_node(
+                        node_name,
+                        style="filled, rounded",
+                        shape="box",
+                    )
+                for i in range(len(s)):
+                    for j in range(i + 1, len(s)):
+                        g2.add_edge(s[i], s[j], style="invis", weight=200)
+                g2.write(path=base_path / f"{k}.gv")
+    
+            g.write(path=base_fname + ".gv")
+    
+            if not fname.endswith(".gv"): # turn the .gv file into a .png file
+                g.draw(path=fname, prog="dot")
+    
+        return g
 
 # -------------------------------------------
 # WANDB
