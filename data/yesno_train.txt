@@ -1,0 +1,1800 @@
+Mary moved to the bathroom. Sandra journeyed to the bedroom. Is Sandra in the hallway?	no	yes
+Sandra got the football there. Mary went to the bedroom. Is Mary in the bedroom?	yes	no
+Sandra moved to the office. John went back to the garden. Is Sandra in the office?	yes	no
+Sandra journeyed to the garden. Sandra went back to the bedroom. Is Sandra in the bathroom?	no	yes
+John went to the bathroom. Sandra took the football there. Is John in the bathroom?	yes	no
+Sandra went to the garden. Sandra grabbed the milk there. Is Sandra in the hallway?	no	yes
+Sandra grabbed the football there. Sandra went back to the hallway. Is Sandra in the garden?	no	yes
+Daniel journeyed to the bedroom. John moved to the bedroom. Is Daniel in the hallway?	no	yes
+Mary went back to the bathroom. Daniel went to the office. Is Mary in the bathroom?	yes	no
+Daniel journeyed to the hallway. Mary went back to the kitchen. Is Mary in the kitchen?	yes	no
+John journeyed to the hallway. Sandra took the football there. Is John in the bathroom?	no	yes
+Sandra went back to the bathroom. Sandra took the apple there. Is Sandra in the bathroom?	yes	no
+John went back to the hallway. Daniel travelled to the hallway. Is Daniel in the bathroom?	no	yes
+Mary got the football there. Daniel travelled to the bedroom. Is Daniel in the hallway?	no	yes
+Sandra went back to the office. Mary journeyed to the bedroom. Is Mary in the bedroom?	yes	no
+Sandra went to the kitchen. Sandra travelled to the bathroom. Is Sandra in the bathroom?	yes	no
+John travelled to the garden. Sandra travelled to the garden. Is John in the bedroom?	no	yes
+Daniel grabbed the apple there. Daniel went to the bedroom. Is Daniel in the bedroom?	yes	no
+Mary travelled to the bedroom. Daniel took the football there. Is Mary in the office?	no	yes
+Sandra got the football there. Daniel took the apple there. Mary travelled to the office. Daniel went back to the bathroom. Is Mary in the kitchen?	no	yes
+John went to the hallway. Sandra picked up the apple there. Is John in the hallway?	yes	no
+Daniel travelled to the bathroom. John got the apple there. Is Daniel in the hallway?	no	yes
+John moved to the office. Mary got the football there. Is John in the bathroom?	no	yes
+Mary went to the kitchen. Mary travelled to the office. Is Mary in the hallway?	no	yes
+John took the apple there. Sandra moved to the bedroom. Is Sandra in the bathroom?	no	yes
+Sandra travelled to the bedroom. Daniel journeyed to the hallway. Is Sandra in the bedroom?	yes	no
+Mary went to the kitchen. Daniel travelled to the bedroom. Is Daniel in the bedroom?	yes	no
+Mary moved to the office. Daniel went to the garden. Is Mary in the office?	yes	no
+Sandra travelled to the office. Daniel moved to the hallway. Is Sandra in the office?	yes	no
+John got the football there. Sandra went to the kitchen. Is Sandra in the kitchen?	yes	no
+Daniel journeyed to the hallway. Mary moved to the garden. Is Mary in the garden?	yes	no
+Sandra moved to the hallway. Sandra got the apple there. Is Sandra in the bedroom?	no	yes
+Mary travelled to the hallway. Mary journeyed to the garden. Is Mary in the hallway?	no	yes
+Mary moved to the kitchen. John journeyed to the hallway. Is Mary in the bathroom?	no	yes
+John moved to the garden. Daniel moved to the kitchen. Is Daniel in the garden?	no	yes
+Mary moved to the kitchen. Sandra moved to the office. Is Mary in the kitchen?	yes	no
+Mary travelled to the bathroom. John went back to the kitchen. Is John in the hallway?	no	yes
+Sandra moved to the bedroom. Daniel moved to the office. Is Daniel in the office?	yes	no
+Sandra got the milk there. John went back to the kitchen. Is John in the kitchen?	yes	no
+John moved to the kitchen. Daniel went back to the office. Is John in the kitchen?	yes	no
+John grabbed the milk there. Daniel went back to the kitchen. Is Daniel in the hallway?	no	yes
+Daniel went to the garden. Mary moved to the bedroom. Is Mary in the kitchen?	no	yes
+Mary went back to the hallway. John grabbed the apple there. Is Mary in the hallway?	yes	no
+John got the apple there. Mary grabbed the milk there. Sandra went to the hallway. John moved to the hallway. Is Sandra in the hallway?	yes	no
+Mary travelled to the garden. Daniel moved to the bathroom. Is Mary in the bathroom?	no	yes
+Sandra travelled to the bathroom. John took the football there. Is Sandra in the bathroom?	yes	no
+John travelled to the garden. Mary went to the bathroom. Is Mary in the garden?	no	yes
+Daniel moved to the hallway. Sandra got the apple there. Is Daniel in the bathroom?	no	yes
+Daniel moved to the bathroom. Daniel picked up the football there. Is Daniel in the bathroom?	yes	no
+Daniel went to the kitchen. Daniel grabbed the football there. Is Daniel in the hallway?	no	yes
+Mary journeyed to the bathroom. John moved to the hallway. Is Mary in the bathroom?	yes	no
+Mary grabbed the milk there. Sandra picked up the apple there. John travelled to the kitchen. Sandra put down the apple there. Is John in the office?	no	yes
+Daniel travelled to the bedroom. Mary went to the hallway. Is Daniel in the bedroom?	yes	no
+John went to the kitchen. Mary went back to the garden. Is John in the kitchen?	yes	no
+Sandra travelled to the office. Mary grabbed the milk there. Is Sandra in the office?	yes	no
+Daniel picked up the apple there. Daniel discarded the apple. John got the apple there. Mary went to the bathroom. Is Mary in the bathroom?	yes	no
+Daniel took the milk there. Sandra went back to the bedroom. Is Sandra in the bedroom?	yes	no
+Daniel picked up the football there. Daniel discarded the football. Mary grabbed the football there. Sandra moved to the garden. Is Sandra in the garden?	yes	no
+John travelled to the kitchen. Sandra travelled to the garden. Is Sandra in the garden?	yes	no
+John picked up the football there. John dropped the football. Mary got the apple there. Mary left the apple. John grabbed the football there. Daniel picked up the milk there. John got the apple there. John discarded the football there. Sandra took the football there. Sandra discarded the football there. Sandra got the football there. Daniel dropped the milk. Daniel picked up the milk there. John left the apple. John took the apple there. Sandra left the football. Mary journeyed to the hallway. John went back to the office. Is John in the office?	yes	no
+Mary moved to the garden. Sandra moved to the garden. Is Sandra in the garden?	yes	no
+John took the football there. Daniel journeyed to the hallway. Is Daniel in the bathroom?	no	yes
+Mary journeyed to the bedroom. Sandra took the apple there. Is Mary in the bedroom?	yes	no
+Sandra went back to the bathroom. Mary journeyed to the office. Is Mary in the office?	yes	no
+Mary picked up the football there. Sandra journeyed to the office. Is Sandra in the office?	yes	no
+Sandra travelled to the kitchen. Daniel went back to the kitchen. Is Daniel in the kitchen?	yes	no
+Sandra moved to the hallway. Sandra went to the office. Is Sandra in the office?	yes	no
+Sandra went to the office. Mary picked up the football there. Is Sandra in the office?	yes	no
+Sandra went to the office. John moved to the hallway. Is John in the hallway?	yes	no
+Sandra went to the office. Daniel picked up the milk there. Is Sandra in the office?	yes	no
+Daniel went back to the hallway. John got the apple there. Is Daniel in the hallway?	yes	no
+Mary picked up the apple there. Mary dropped the apple. Daniel went to the bathroom. Daniel journeyed to the garden. Is Daniel in the garden?	yes	no
+Daniel took the apple there. Daniel dropped the apple there. Mary moved to the bathroom. Daniel went back to the office. Is Daniel in the kitchen?	no	yes
+Daniel travelled to the garden. Sandra went back to the hallway. Is Sandra in the bedroom?	no	yes
+Daniel moved to the office. Daniel travelled to the kitchen. Is Daniel in the kitchen?	yes	no
+John travelled to the bedroom. Mary got the football there. Is John in the bedroom?	yes	no
+Daniel got the apple there. John went back to the hallway. Is John in the hallway?	yes	no
+Daniel went to the office. Mary took the apple there. Is Daniel in the office?	yes	no
+John travelled to the garden. Daniel journeyed to the hallway. Is John in the bathroom?	no	yes
+John took the football there. John went back to the hallway. Is John in the kitchen?	no	yes
+Mary grabbed the football there. Mary travelled to the office. Is Mary in the bedroom?	no	yes
+Mary went to the hallway. John travelled to the garden. Is Mary in the kitchen?	no	yes
+John travelled to the garden. John moved to the bedroom. Is John in the bedroom?	yes	no
+Daniel picked up the football there. Mary travelled to the bedroom. Is Mary in the garden?	no	yes
+Mary went to the office. John travelled to the bedroom. Is Mary in the hallway?	no	yes
+Daniel got the football there. Mary took the apple there. John travelled to the hallway. Daniel went back to the bathroom. Is John in the bedroom?	no	yes
+Daniel got the football there. Sandra went to the hallway. Is Sandra in the hallway?	yes	no
+Daniel moved to the bathroom. John picked up the apple there. Is Daniel in the garden?	no	yes
+John moved to the kitchen. Mary journeyed to the hallway. Is John in the garden?	no	yes
+Mary went back to the kitchen. John went to the bathroom. Is Mary in the kitchen?	yes	no
+Daniel went to the bedroom. Sandra got the apple there. Is Daniel in the kitchen?	no	yes
+Mary travelled to the office. Daniel went back to the office. Is Daniel in the bathroom?	no	yes
+Mary took the milk there. Mary dropped the milk. John moved to the hallway. John moved to the bathroom. Is John in the bathroom?	yes	no
+Daniel grabbed the apple there. Sandra travelled to the bedroom. Is Sandra in the bedroom?	yes	no
+Daniel picked up the apple there. John went back to the office. Is John in the hallway?	no	yes
+Mary travelled to the bedroom. Daniel travelled to the garden. Is Daniel in the bathroom?	no	yes
+Sandra went back to the garden. Mary went back to the hallway. Is Mary in the bedroom?	no	yes
+John took the football there. John went to the hallway. Is John in the hallway?	yes	no
+Sandra grabbed the football there. Daniel journeyed to the bathroom. Is Daniel in the bathroom?	yes	no
+Mary grabbed the football there. Daniel travelled to the garden. Is Daniel in the hallway?	no	yes
+Sandra picked up the football there. Mary went to the garden. Is Mary in the bathroom?	no	yes
+John took the apple there. Daniel travelled to the office. Is Daniel in the bedroom?	no	yes
+John went to the bedroom. Mary took the apple there. Is John in the bedroom?	yes	no
+Sandra journeyed to the bathroom. Mary moved to the garden. Is Sandra in the bathroom?	yes	no
+Daniel travelled to the hallway. Mary went to the hallway. Is Mary in the bathroom?	no	yes
+Daniel took the apple there. Sandra moved to the garden. Is Sandra in the hallway?	no	yes
+Sandra travelled to the garden. Daniel travelled to the hallway. Is Daniel in the bedroom?	no	yes
+Mary went to the bedroom. Daniel travelled to the bedroom. Is Daniel in the bedroom?	yes	no
+John went back to the bathroom. John got the apple there. Is John in the bathroom?	yes	no
+Daniel went back to the hallway. Sandra moved to the hallway. Is Daniel in the kitchen?	no	yes
+John got the football there. Mary went to the bathroom. Is Mary in the bathroom?	yes	no
+Mary went back to the garden. Sandra went back to the kitchen. Is Mary in the kitchen?	no	yes
+Mary travelled to the office. Mary went to the bedroom. Is Mary in the bedroom?	yes	no
+Mary moved to the bathroom. John journeyed to the hallway. Is John in the hallway?	yes	no
+Sandra went back to the office. Mary travelled to the bedroom. Is Mary in the bedroom?	yes	no
+Sandra took the apple there. Sandra moved to the bedroom. Is Sandra in the hallway?	no	yes
+Daniel journeyed to the bathroom. John travelled to the hallway. Is Daniel in the hallway?	no	yes
+Mary took the football there. Mary discarded the football. Daniel travelled to the office. John moved to the garden. Is Daniel in the office?	yes	no
+Mary went to the office. Mary moved to the hallway. Is Mary in the kitchen?	no	yes
+Daniel went back to the bedroom. Sandra moved to the hallway. Is Sandra in the hallway?	yes	no
+John went to the bedroom. Daniel journeyed to the bathroom. Is John in the bathroom?	no	yes
+Daniel went to the bathroom. Mary travelled to the bathroom. Is Mary in the kitchen?	no	yes
+Sandra moved to the garden. Sandra picked up the apple there. Is Sandra in the garden?	yes	no
+John went back to the bedroom. John took the football there. Is John in the bedroom?	yes	no
+Mary went to the office. John moved to the bedroom. Is John in the bedroom?	yes	no
+Daniel picked up the apple there. Daniel journeyed to the hallway. Is Daniel in the garden?	no	yes
+John got the football there. John moved to the hallway. Is John in the garden?	no	yes
+Daniel picked up the apple there. Sandra picked up the milk there. Sandra went to the kitchen. Daniel left the apple. Is Sandra in the bedroom?	no	yes
+Mary went back to the bathroom. Sandra went back to the kitchen. Is Sandra in the kitchen?	yes	no
+Daniel went to the hallway. Sandra went to the kitchen. Is Sandra in the bathroom?	no	yes
+Mary went back to the office. Sandra went back to the hallway. Is Mary in the garden?	no	yes
+Daniel went back to the garden. John moved to the bedroom. Is Daniel in the garden?	yes	no
+John travelled to the office. Sandra went back to the bedroom. Is John in the office?	yes	no
+Daniel went to the kitchen. Mary grabbed the football there. Is Daniel in the bedroom?	no	yes
+Mary travelled to the kitchen. Daniel got the apple there. Is Mary in the kitchen?	yes	no
+Daniel journeyed to the bedroom. Sandra took the milk there. Is Daniel in the hallway?	no	yes
+Mary picked up the milk there. Mary discarded the milk. Sandra took the football there. John moved to the office. Is John in the office?	yes	no
+Mary grabbed the milk there. Sandra went back to the bedroom. Is Sandra in the kitchen?	no	yes
+Sandra picked up the milk there. Mary journeyed to the kitchen. Is Mary in the kitchen?	yes	no
+John travelled to the bedroom. Mary travelled to the bathroom. Is Mary in the bathroom?	yes	no
+John went back to the kitchen. Mary went back to the hallway. Is John in the kitchen?	yes	no
+Sandra journeyed to the hallway. John journeyed to the kitchen. Is John in the kitchen?	yes	no
+John took the football there. Sandra got the milk there. Sandra put down the milk. Daniel moved to the bathroom. Is Daniel in the bedroom?	no	yes
+Daniel moved to the office. Mary went back to the bathroom. Is Daniel in the garden?	no	yes
+Sandra took the football there. Sandra took the apple there. Mary went to the hallway. Mary journeyed to the kitchen. Is Mary in the office?	no	yes
+Daniel journeyed to the garden. Sandra moved to the bedroom. Is Daniel in the garden?	yes	no
+Daniel journeyed to the kitchen. Daniel moved to the hallway. Is Daniel in the hallway?	yes	no
+Sandra went back to the hallway. Daniel got the football there. Is Sandra in the bathroom?	no	yes
+Daniel went to the bathroom. Sandra got the milk there. Is Daniel in the bathroom?	yes	no
+Mary went back to the bedroom. Daniel took the football there. Is Mary in the bedroom?	yes	no
+John went back to the office. John went to the bedroom. Is John in the garden?	no	yes
+Sandra moved to the office. Sandra got the apple there. Is Sandra in the bathroom?	no	yes
+John moved to the bedroom. Daniel grabbed the apple there. Is John in the bedroom?	yes	no
+John moved to the hallway. Sandra journeyed to the bathroom. Is Sandra in the bathroom?	yes	no
+Mary journeyed to the bedroom. John went to the kitchen. Is Mary in the bathroom?	no	yes
+Sandra travelled to the hallway. Sandra went to the kitchen. Is Sandra in the bedroom?	no	yes
+John took the apple there. John discarded the apple. Sandra went to the bedroom. John grabbed the apple there. Is Sandra in the bedroom?	yes	no
+John moved to the bedroom. Daniel moved to the bedroom. Is John in the office?	no	yes
+John moved to the office. Daniel picked up the milk there. Is John in the office?	yes	no
+Sandra moved to the office. Sandra picked up the football there. Is Sandra in the office?	yes	no
+Mary moved to the bedroom. John went back to the hallway. Is Mary in the kitchen?	no	yes
+Sandra went back to the kitchen. Sandra journeyed to the office. Is Sandra in the office?	yes	no
+John went to the garden. Sandra journeyed to the bedroom. Is John in the garden?	yes	no
+John went to the bathroom. Daniel went back to the office. Is Daniel in the bedroom?	no	yes
+Daniel went back to the bathroom. John travelled to the hallway. Is John in the hallway?	yes	no
+Daniel travelled to the bedroom. John got the milk there. Is Daniel in the bedroom?	yes	no
+John went back to the hallway. Sandra went to the kitchen. Is John in the kitchen?	no	yes
+John journeyed to the kitchen. Sandra grabbed the milk there. Is John in the kitchen?	yes	no
+Daniel got the football there. Mary got the milk there. Mary put down the milk there. Mary moved to the bathroom. Is Mary in the garden?	no	yes
+Sandra picked up the football there. Sandra grabbed the milk there. Daniel went back to the bathroom. Mary moved to the bathroom. Is Mary in the bathroom?	yes	no
+Sandra travelled to the kitchen. John took the apple there. Is Sandra in the hallway?	no	yes
+Mary travelled to the garden. Sandra took the milk there. Is Mary in the garden?	yes	no
+Sandra travelled to the bedroom. Mary travelled to the office. Is Sandra in the bedroom?	yes	no
+John went back to the bedroom. Daniel grabbed the milk there. Is John in the bathroom?	no	yes
+John travelled to the kitchen. Mary went to the hallway. Is John in the kitchen?	yes	no
+John went to the bathroom. John grabbed the apple there. Is John in the bathroom?	yes	no
+Daniel took the milk there. Mary went to the office. Is Mary in the office?	yes	no
+Mary went back to the office. Mary got the milk there. Is Mary in the garden?	no	yes
+Daniel journeyed to the office. Daniel picked up the football there. Is Daniel in the kitchen?	no	yes
+John went to the garden. Sandra journeyed to the kitchen. Is Sandra in the kitchen?	yes	no
+Mary went to the bathroom. John took the milk there. Is Mary in the hallway?	no	yes
+Daniel journeyed to the hallway. John picked up the apple there. Is Daniel in the hallway?	yes	no
+Sandra grabbed the football there. Sandra left the football. Mary journeyed to the bedroom. Sandra grabbed the football there. Is Mary in the bedroom?	yes	no
+Mary picked up the milk there. Daniel picked up the football there. Sandra went to the garden. Mary put down the milk. Is Sandra in the garden?	yes	no
+Mary moved to the office. John journeyed to the bedroom. Is Mary in the office?	yes	no
+Sandra journeyed to the bedroom. Daniel travelled to the garden. Is Sandra in the bathroom?	no	yes
+Daniel picked up the milk there. Daniel dropped the milk. Sandra went back to the bedroom. Sandra got the football there. Is Sandra in the garden?	no	yes
+Daniel took the milk there. Daniel travelled to the office. Is Daniel in the garden?	no	yes
+Sandra went to the garden. Daniel went back to the bedroom. Is Sandra in the garden?	yes	no
+John got the milk there. Mary went back to the bathroom. Is Mary in the bathroom?	yes	no
+Daniel journeyed to the garden. Mary moved to the office. Is Daniel in the bathroom?	no	yes
+Sandra moved to the kitchen. Sandra moved to the bedroom. Is Sandra in the bedroom?	yes	no
+Mary went to the bathroom. Sandra moved to the garden. Is Sandra in the garden?	yes	no
+John took the football there. Mary grabbed the milk there. Sandra journeyed to the bedroom. Mary left the milk. Is Sandra in the hallway?	no	yes
+John moved to the bedroom. John got the apple there. Is John in the bedroom?	yes	no
+Daniel went to the hallway. Mary travelled to the hallway. Is Mary in the garden?	no	yes
+John got the football there. Daniel went to the office. Is Daniel in the office?	yes	no
+Sandra took the milk there. John journeyed to the kitchen. Is John in the kitchen?	yes	no
+Mary went back to the garden. Sandra journeyed to the bedroom. Is Sandra in the bedroom?	yes	no
+Daniel travelled to the bathroom. Mary picked up the milk there. Is Daniel in the hallway?	no	yes
+Sandra journeyed to the bedroom. Mary moved to the office. Is Sandra in the office?	no	yes
+John travelled to the hallway. Sandra went back to the bedroom. Is Sandra in the bedroom?	yes	no
+Sandra moved to the garden. Daniel journeyed to the kitchen. Is Daniel in the hallway?	no	yes
+Sandra went back to the bedroom. Sandra got the milk there. Is Sandra in the bedroom?	yes	no
+Sandra took the football there. John took the milk there. Mary went to the bathroom. John went back to the kitchen. Is Mary in the hallway?	no	yes
+John got the football there. Mary went back to the kitchen. Is Mary in the kitchen?	yes	no
+Sandra went back to the garden. Mary moved to the kitchen. Is Mary in the office?	no	yes
+Daniel went back to the office. John moved to the hallway. Is John in the kitchen?	no	yes
+John journeyed to the bathroom. Sandra moved to the bathroom. Is Sandra in the bathroom?	yes	no
+John journeyed to the office. Sandra took the football there. Is John in the office?	yes	no
+John went to the office. Sandra picked up the apple there. Is John in the hallway?	no	yes
+Mary moved to the bedroom. Daniel moved to the hallway. Is Mary in the bedroom?	yes	no
+Daniel journeyed to the office. Mary went back to the garden. Is Daniel in the office?	yes	no
+John journeyed to the garden. John got the apple there. Is John in the hallway?	no	yes
+Mary grabbed the apple there. Sandra journeyed to the bathroom. Is Sandra in the office?	no	yes
+John got the apple there. Sandra moved to the bedroom. Is Sandra in the office?	no	yes
+John moved to the office. Sandra travelled to the kitchen. Is John in the office?	yes	no
+Sandra took the apple there. Daniel moved to the kitchen. Is Daniel in the kitchen?	yes	no
+John moved to the kitchen. Mary picked up the football there. Is John in the garden?	no	yes
+Sandra journeyed to the hallway. Daniel travelled to the bedroom. Is Daniel in the kitchen?	no	yes
+John grabbed the apple there. Sandra moved to the office. Is Sandra in the garden?	no	yes
+Sandra went to the garden. Daniel took the milk there. Is Sandra in the office?	no	yes
+Sandra travelled to the bathroom. John picked up the football there. Is Sandra in the bathroom?	yes	no
+Mary journeyed to the garden. Mary got the football there. Is Mary in the hallway?	no	yes
+Mary journeyed to the bedroom. Daniel journeyed to the hallway. Is Daniel in the hallway?	yes	no
+John went back to the office. Sandra travelled to the bathroom. Is Sandra in the kitchen?	no	yes
+Mary picked up the milk there. Mary journeyed to the hallway. Is Mary in the bedroom?	no	yes
+Mary took the milk there. Sandra took the football there. Sandra discarded the football. Mary moved to the bathroom. Is Mary in the bathroom?	yes	no
+Sandra went to the bedroom. Mary went back to the bathroom. Is Sandra in the garden?	no	yes
+Daniel went back to the office. Mary picked up the milk there. Is Daniel in the garden?	no	yes
+Sandra took the football there. Sandra picked up the apple there. John went back to the office. Sandra dropped the apple there. Is John in the office?	yes	no
+Daniel grabbed the football there. Daniel went to the garden. Is Daniel in the kitchen?	no	yes
+Mary went to the hallway. John went back to the hallway. Is Mary in the bedroom?	no	yes
+Mary went to the bathroom. Daniel journeyed to the garden. Is Mary in the hallway?	no	yes
+Sandra moved to the office. John went back to the bedroom. Is Sandra in the hallway?	no	yes
+Daniel went back to the office. Mary went back to the garden. Is Mary in the garden?	yes	no
+Daniel travelled to the garden. Sandra travelled to the office. Is Daniel in the office?	no	yes
+John took the milk there. Mary travelled to the garden. Is Mary in the garden?	yes	no
+Mary moved to the kitchen. John went back to the hallway. Is John in the garden?	no	yes
+Mary moved to the office. Mary moved to the kitchen. Is Mary in the bedroom?	no	yes
+Daniel journeyed to the bathroom. John went to the kitchen. Is Daniel in the hallway?	no	yes
+Sandra travelled to the bathroom. Mary moved to the bedroom. Is Sandra in the bathroom?	yes	no
+Sandra went back to the office. John went back to the garden. Is Sandra in the office?	yes	no
+Sandra moved to the bedroom. Sandra picked up the milk there. Is Sandra in the kitchen?	no	yes
+Daniel moved to the bathroom. John travelled to the hallway. Is John in the hallway?	yes	no
+Sandra took the apple there. Sandra went back to the office. Is Sandra in the office?	yes	no
+Mary moved to the bathroom. Daniel picked up the football there. Is Mary in the garden?	no	yes
+John travelled to the bedroom. John travelled to the bathroom. Is John in the garden?	no	yes
+Daniel travelled to the kitchen. John journeyed to the bedroom. Is John in the bedroom?	yes	no
+Daniel grabbed the football there. Daniel went to the bedroom. Is Daniel in the bedroom?	yes	no
+Daniel moved to the bedroom. Sandra got the apple there. Is Daniel in the bedroom?	yes	no
+Mary took the milk there. Sandra grabbed the apple there. Mary went back to the garden. Sandra left the apple there. Is Mary in the bathroom?	no	yes
+Daniel moved to the kitchen. John moved to the office. Is John in the office?	yes	no
+John journeyed to the bedroom. Daniel travelled to the bedroom. Is Daniel in the bedroom?	yes	no
+Daniel went to the office. Sandra took the milk there. Is Daniel in the office?	yes	no
+Mary got the milk there. Mary left the milk there. Mary got the milk there. Mary went back to the bedroom. Is Mary in the bedroom?	yes	no
+Mary moved to the hallway. Sandra picked up the milk there. Is Mary in the hallway?	yes	no
+Daniel went to the bedroom. Sandra went to the garden. Is Sandra in the bedroom?	no	yes
+Daniel went back to the hallway. John went to the garden. Is John in the garden?	yes	no
+Daniel grabbed the milk there. John travelled to the kitchen. Is John in the hallway?	no	yes
+Mary picked up the apple there. Mary left the apple there. Sandra went to the office. Mary journeyed to the office. Is Sandra in the office?	yes	no
+Daniel travelled to the hallway. Mary moved to the hallway. Is Mary in the kitchen?	no	yes
+Mary journeyed to the hallway. John moved to the bedroom. Is John in the bedroom?	yes	no
+Sandra travelled to the garden. Sandra went to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra travelled to the office. John went to the bathroom. Is John in the hallway?	no	yes
+John went to the kitchen. Sandra travelled to the bathroom. Is John in the kitchen?	yes	no
+Daniel went to the bathroom. Daniel went back to the bedroom. Is Daniel in the bedroom?	yes	no
+Sandra went to the kitchen. Mary took the milk there. Is Sandra in the garden?	no	yes
+Sandra travelled to the bathroom. Sandra moved to the garden. Is Sandra in the bathroom?	no	yes
+John picked up the football there. Mary travelled to the bathroom. Is Mary in the garden?	no	yes
+John picked up the milk there. John picked up the apple there. Mary got the football there. Mary discarded the football. Sandra grabbed the football there. Sandra moved to the kitchen. Is Sandra in the garden?	no	yes
+Daniel went to the hallway. John took the apple there. Is Daniel in the office?	no	yes
+Daniel took the apple there. Daniel went back to the garden. Is Daniel in the garden?	yes	no
+Sandra picked up the milk there. John journeyed to the kitchen. Is John in the bathroom?	no	yes
+John went back to the bedroom. Daniel went to the office. Is John in the bedroom?	yes	no
+Sandra journeyed to the hallway. Mary went back to the bedroom. Is Mary in the kitchen?	no	yes
+Mary got the milk there. Sandra picked up the football there. Sandra travelled to the kitchen. Sandra put down the football. Is Sandra in the office?	no	yes
+Daniel went back to the bedroom. Sandra went back to the hallway. Is Daniel in the bedroom?	yes	no
+Sandra went to the kitchen. Mary got the milk there. Is Sandra in the kitchen?	yes	no
+Daniel travelled to the bedroom. Daniel went back to the hallway. Is Daniel in the bathroom?	no	yes
+John travelled to the bedroom. Daniel journeyed to the garden. Is John in the bedroom?	yes	no
+Mary took the milk there. Sandra moved to the garden. Is Sandra in the garden?	yes	no
+Daniel moved to the hallway. Daniel went back to the office. Is Daniel in the bedroom?	no	yes
+John picked up the football there. Daniel travelled to the hallway. Is Daniel in the hallway?	yes	no
+Daniel went back to the kitchen. Daniel moved to the garden. Is Daniel in the garden?	yes	no
+Daniel moved to the hallway. Sandra moved to the hallway. Is Sandra in the kitchen?	no	yes
+Mary travelled to the hallway. Daniel moved to the hallway. Is Daniel in the hallway?	yes	no
+Daniel went to the garden. Mary went to the bedroom. Is Daniel in the garden?	yes	no
+John journeyed to the bathroom. Mary went to the kitchen. Is Mary in the kitchen?	yes	no
+Sandra went back to the hallway. Daniel went back to the bathroom. Is Daniel in the hallway?	no	yes
+Mary took the milk there. Mary put down the milk. Sandra journeyed to the hallway. Mary picked up the milk there. Is Sandra in the bedroom?	no	yes
+John journeyed to the garden. John went back to the kitchen. Is John in the bedroom?	no	yes
+Sandra journeyed to the bedroom. Daniel grabbed the football there. Is Sandra in the hallway?	no	yes
+Sandra got the football there. John journeyed to the garden. Is John in the garden?	yes	no
+John moved to the bathroom. Mary travelled to the kitchen. Is Mary in the kitchen?	yes	no
+Daniel travelled to the kitchen. Daniel journeyed to the office. Is Daniel in the office?	yes	no
+John picked up the apple there. John discarded the apple there. Daniel went to the garden. Daniel moved to the office. Is Daniel in the hallway?	no	yes
+Sandra moved to the hallway. John went back to the kitchen. Is Sandra in the bedroom?	no	yes
+John moved to the hallway. Daniel travelled to the kitchen. Is Daniel in the kitchen?	yes	no
+Mary went back to the bathroom. Daniel travelled to the bedroom. Is Mary in the bathroom?	yes	no
+Mary went back to the bedroom. John grabbed the apple there. Is Mary in the kitchen?	no	yes
+Mary journeyed to the bedroom. Mary moved to the kitchen. Is Mary in the kitchen?	yes	no
+Sandra journeyed to the garden. Mary went back to the hallway. Is Sandra in the garden?	yes	no
+Sandra went to the bathroom. Daniel travelled to the garden. Is Daniel in the bathroom?	no	yes
+John moved to the hallway. Daniel moved to the hallway. Is Daniel in the bathroom?	no	yes
+Mary travelled to the garden. John went back to the office. Is John in the bathroom?	no	yes
+Daniel travelled to the bathroom. Daniel travelled to the bedroom. Is Daniel in the hallway?	no	yes
+Daniel journeyed to the bathroom. Daniel travelled to the bedroom. Is Daniel in the bathroom?	no	yes
+John took the apple there. Daniel journeyed to the garden. Is Daniel in the garden?	yes	no
+Sandra travelled to the bedroom. Daniel went back to the kitchen. Is Daniel in the kitchen?	yes	no
+Sandra went to the hallway. Daniel went back to the hallway. Is Daniel in the hallway?	yes	no
+John went back to the hallway. Sandra went back to the hallway. Is Sandra in the bathroom?	no	yes
+Sandra travelled to the office. John moved to the bathroom. Is Sandra in the office?	yes	no
+Sandra picked up the apple there. Sandra took the milk there. Daniel travelled to the kitchen. John went to the kitchen. Is Daniel in the office?	no	yes
+Mary took the milk there. Mary put down the milk. John moved to the kitchen. Daniel got the football there. Is John in the kitchen?	yes	no
+John went to the garden. John journeyed to the office. Is John in the office?	yes	no
+Daniel travelled to the office. Sandra went back to the hallway. Is Sandra in the kitchen?	no	yes
+John travelled to the bathroom. John went back to the bedroom. Is John in the bedroom?	yes	no
+Daniel went to the kitchen. John went back to the hallway. Is John in the garden?	no	yes
+Daniel moved to the bedroom. Daniel went to the bathroom. Is Daniel in the bathroom?	yes	no
+Mary picked up the apple there. Sandra went back to the bedroom. Is Sandra in the bedroom?	yes	no
+Mary journeyed to the bathroom. John grabbed the apple there. Is Mary in the garden?	no	yes
+Mary grabbed the football there. John travelled to the hallway. Is John in the hallway?	yes	no
+Daniel journeyed to the bedroom. Sandra moved to the office. Is Daniel in the bedroom?	yes	no
+Mary grabbed the apple there. Mary dropped the apple. John grabbed the apple there. Mary went back to the bedroom. Is Mary in the office?	no	yes
+Sandra travelled to the garden. John moved to the bathroom. Is John in the kitchen?	no	yes
+Sandra went to the office. Mary travelled to the hallway. Is Mary in the hallway?	yes	no
+John got the milk there. John went back to the office. Is John in the office?	yes	no
+Mary took the milk there. John went back to the bedroom. Is John in the office?	no	yes
+Daniel grabbed the milk there. Daniel took the apple there. Sandra went back to the bathroom. Mary moved to the bedroom. Is Mary in the bathroom?	no	yes
+Sandra took the football there. Mary went to the bathroom. Is Mary in the garden?	no	yes
+Daniel went to the bathroom. Sandra journeyed to the office. Is Sandra in the hallway?	no	yes
+Sandra travelled to the bedroom. Sandra travelled to the kitchen. Is Sandra in the kitchen?	yes	no
+Mary got the apple there. Mary went to the bathroom. Is Mary in the bathroom?	yes	no
+Sandra travelled to the office. Daniel journeyed to the bathroom. Is Sandra in the kitchen?	no	yes
+Daniel travelled to the kitchen. John journeyed to the hallway. Is John in the kitchen?	no	yes
+Mary went to the bathroom. Daniel picked up the apple there. Is Mary in the garden?	no	yes
+Sandra travelled to the garden. Mary went to the bedroom. Is Sandra in the garden?	yes	no
+Daniel travelled to the bathroom. Sandra journeyed to the bedroom. Is Daniel in the bathroom?	yes	no
+Daniel journeyed to the hallway. Daniel went back to the kitchen. Is Daniel in the kitchen?	yes	no
+Mary travelled to the hallway. Daniel moved to the garden. Is Mary in the hallway?	yes	no
+Sandra got the apple there. Sandra put down the apple there. Sandra picked up the apple there. Sandra went to the bedroom. Is Sandra in the kitchen?	no	yes
+Sandra travelled to the office. John journeyed to the kitchen. Is John in the kitchen?	yes	no
+John travelled to the bedroom. Sandra journeyed to the office. Is Sandra in the office?	yes	no
+John travelled to the hallway. Daniel grabbed the football there. Is John in the kitchen?	no	yes
+Mary travelled to the hallway. Daniel journeyed to the kitchen. Is Mary in the bedroom?	no	yes
+Sandra journeyed to the office. Mary went back to the kitchen. Is Sandra in the bedroom?	no	yes
+Daniel went back to the bedroom. Daniel went back to the hallway. Is Daniel in the kitchen?	no	yes
+Mary got the apple there. Daniel moved to the hallway. Is Daniel in the hallway?	yes	no
+Sandra grabbed the apple there. Mary grabbed the milk there. John journeyed to the garden. John journeyed to the hallway. Is John in the office?	no	yes
+Sandra took the milk there. John went to the bedroom. Is John in the garden?	no	yes
+Daniel went to the bathroom. Daniel travelled to the hallway. Is Daniel in the bathroom?	no	yes
+Sandra journeyed to the kitchen. John grabbed the milk there. Is Sandra in the kitchen?	yes	no
+John travelled to the bathroom. Mary went to the bathroom. Is Mary in the bathroom?	yes	no
+Mary grabbed the football there. John went to the bedroom. Is John in the bedroom?	yes	no
+Mary travelled to the bedroom. Daniel journeyed to the bedroom. Is Daniel in the kitchen?	no	yes
+John got the apple there. John journeyed to the hallway. Is John in the office?	no	yes
+John went back to the bathroom. Sandra journeyed to the office. Is Sandra in the office?	yes	no
+Sandra picked up the football there. Sandra discarded the football. Mary picked up the milk there. John journeyed to the kitchen. Is John in the kitchen?	yes	no
+John picked up the apple there. Mary moved to the garden. Is Mary in the bathroom?	no	yes
+Mary went back to the hallway. Daniel journeyed to the bedroom. Is Daniel in the bedroom?	yes	no
+John went to the kitchen. Mary moved to the bathroom. Is John in the hallway?	no	yes
+John moved to the kitchen. Mary went to the garden. Is John in the garden?	no	yes
+Sandra went to the kitchen. John went to the kitchen. Is John in the kitchen?	yes	no
+Mary travelled to the bathroom. Sandra journeyed to the kitchen. Is Sandra in the garden?	no	yes
+Sandra travelled to the bathroom. Daniel travelled to the office. Is Daniel in the office?	yes	no
+Daniel journeyed to the kitchen. Daniel went to the bedroom. Is Daniel in the bedroom?	yes	no
+Daniel travelled to the hallway. John went back to the bedroom. Is Daniel in the kitchen?	no	yes
+John went to the bathroom. John travelled to the garden. Is John in the hallway?	no	yes
+Mary moved to the bathroom. John took the milk there. Is Mary in the kitchen?	no	yes
+Daniel travelled to the kitchen. John travelled to the garden. Is John in the bathroom?	no	yes
+Daniel moved to the garden. Daniel went to the hallway. Is Daniel in the bathroom?	no	yes
+Mary took the football there. Daniel went to the garden. Is Daniel in the office?	no	yes
+Sandra moved to the kitchen. Daniel went back to the office. Is Sandra in the office?	no	yes
+Mary got the milk there. Daniel picked up the football there. Daniel left the football. Daniel took the football there. Daniel journeyed to the office. Daniel went back to the garden. Is Daniel in the bedroom?	no	yes
+Mary took the apple there. Sandra got the milk there. John travelled to the hallway. Sandra put down the milk. Is John in the hallway?	yes	no
+Daniel journeyed to the office. Daniel travelled to the kitchen. Is Daniel in the kitchen?	yes	no
+Daniel moved to the hallway. Mary moved to the hallway. Is Daniel in the hallway?	yes	no
+Mary journeyed to the bathroom. Sandra travelled to the bathroom. Is Sandra in the bedroom?	no	yes
+Sandra travelled to the kitchen. Mary took the football there. Is Sandra in the kitchen?	yes	no
+Daniel went to the bedroom. John went to the bedroom. Is John in the office?	no	yes
+Mary moved to the hallway. Sandra went back to the hallway. Is Sandra in the bedroom?	no	yes
+Sandra journeyed to the bathroom. Mary journeyed to the office. Is Mary in the office?	yes	no
+Daniel journeyed to the hallway. Sandra went back to the bathroom. Is Sandra in the bathroom?	yes	no
+Mary went to the bathroom. Mary travelled to the kitchen. Is Mary in the bedroom?	no	yes
+Mary went to the office. John grabbed the apple there. Is Mary in the office?	yes	no
+Sandra moved to the kitchen. Daniel picked up the apple there. Is Sandra in the bathroom?	no	yes
+John travelled to the hallway. Sandra moved to the hallway. Is Sandra in the kitchen?	no	yes
+John travelled to the bedroom. John travelled to the hallway. Is John in the bedroom?	no	yes
+John went back to the bedroom. John journeyed to the office. Is John in the office?	yes	no
+Daniel went back to the kitchen. Daniel went back to the bathroom. Is Daniel in the hallway?	no	yes
+Mary travelled to the office. Sandra travelled to the hallway. Is Mary in the kitchen?	no	yes
+Sandra journeyed to the hallway. John went back to the office. Is John in the bathroom?	no	yes
+John journeyed to the garden. Sandra took the football there. Is John in the hallway?	no	yes
+John grabbed the milk there. Daniel went back to the hallway. Is Daniel in the bedroom?	no	yes
+Sandra picked up the apple there. Mary got the football there. Mary left the football. Mary went to the bathroom. Is Mary in the kitchen?	no	yes
+Daniel moved to the garden. Daniel moved to the bedroom. Is Daniel in the office?	no	yes
+Sandra went back to the office. Sandra went to the bathroom. Is Sandra in the bathroom?	yes	no
+John travelled to the kitchen. Sandra went back to the office. Is John in the bedroom?	no	yes
+Daniel travelled to the office. Daniel travelled to the hallway. Is Daniel in the hallway?	yes	no
+Daniel travelled to the office. Mary journeyed to the office. Is Mary in the office?	yes	no
+John went to the bedroom. Daniel travelled to the office. Is John in the hallway?	no	yes
+John got the milk there. Sandra went to the bathroom. Is Sandra in the bedroom?	no	yes
+Mary went back to the bedroom. Daniel travelled to the bathroom. Is Mary in the garden?	no	yes
+John picked up the milk there. Daniel moved to the kitchen. Is Daniel in the bathroom?	no	yes
+John went back to the kitchen. Daniel grabbed the apple there. Is John in the kitchen?	yes	no
+Mary went to the bathroom. Sandra went to the bedroom. Is Mary in the bedroom?	no	yes
+Sandra travelled to the office. Sandra travelled to the garden. Is Sandra in the garden?	yes	no
+John went back to the hallway. John travelled to the office. Is John in the office?	yes	no
+Daniel went back to the hallway. Mary got the football there. Is Daniel in the office?	no	yes
+John went back to the garden. Mary journeyed to the bathroom. Is John in the bedroom?	no	yes
+John picked up the football there. Daniel travelled to the hallway. Is Daniel in the office?	no	yes
+Daniel moved to the office. Daniel travelled to the bedroom. Is Daniel in the office?	no	yes
+Daniel journeyed to the bedroom. Sandra travelled to the kitchen. Is Daniel in the bedroom?	yes	no
+Mary went back to the hallway. Sandra grabbed the apple there. Is Mary in the office?	no	yes
+Mary went to the bedroom. Mary took the apple there. Is Mary in the bedroom?	yes	no
+Sandra picked up the apple there. John journeyed to the kitchen. Is John in the kitchen?	yes	no
+John moved to the kitchen. Daniel took the apple there. Is John in the kitchen?	yes	no
+Mary picked up the milk there. John journeyed to the bathroom. Is John in the bathroom?	yes	no
+Mary went to the bathroom. Daniel took the milk there. Is Mary in the bathroom?	yes	no
+John went back to the office. John travelled to the hallway. Is John in the hallway?	yes	no
+John took the apple there. Sandra travelled to the kitchen. Is Sandra in the office?	no	yes
+Mary picked up the football there. Mary picked up the milk there. Mary left the milk there. John moved to the hallway. Is John in the kitchen?	no	yes
+Sandra travelled to the kitchen. Sandra journeyed to the hallway. Is Sandra in the hallway?	yes	no
+Daniel went to the bedroom. Mary moved to the kitchen. Is Daniel in the hallway?	no	yes
+John travelled to the office. John moved to the bathroom. Is John in the bathroom?	yes	no
+John travelled to the hallway. Sandra journeyed to the kitchen. Is John in the hallway?	yes	no
+Sandra took the football there. Sandra journeyed to the office. Is Sandra in the kitchen?	no	yes
+Sandra went to the office. Daniel moved to the bathroom. Is Sandra in the office?	yes	no
+Daniel went to the bedroom. Sandra went to the bathroom. Is Daniel in the garden?	no	yes
+John went back to the hallway. Mary moved to the bathroom. Is John in the kitchen?	no	yes
+Daniel went back to the office. John moved to the kitchen. Is John in the bathroom?	no	yes
+John went to the hallway. Mary travelled to the bedroom. Is Mary in the bedroom?	yes	no
+John journeyed to the office. Mary moved to the garden. Is Mary in the office?	no	yes
+Mary grabbed the apple there. Daniel took the milk there. Mary put down the apple. Mary got the apple there. Daniel left the milk there. Mary put down the apple. John went to the kitchen. Sandra went back to the bedroom. Is John in the bedroom?	no	yes
+John journeyed to the bedroom. Sandra travelled to the office. Is John in the bedroom?	yes	no
+Mary journeyed to the bedroom. John travelled to the garden. Is John in the garden?	yes	no
+John went back to the garden. Sandra went back to the garden. Is John in the office?	no	yes
+Daniel went back to the hallway. Mary moved to the office. Is Mary in the office?	yes	no
+Mary grabbed the milk there. Daniel went to the bathroom. Is Daniel in the bathroom?	yes	no
+Daniel journeyed to the garden. Sandra went to the hallway. Is Sandra in the bedroom?	no	yes
+Mary travelled to the bedroom. Sandra moved to the office. Is Sandra in the office?	yes	no
+Sandra went to the garden. Daniel went back to the bedroom. Is Sandra in the garden?	yes	no
+Sandra journeyed to the bedroom. Daniel took the apple there. Is Sandra in the bedroom?	yes	no
+Sandra took the football there. Sandra put down the football. Sandra moved to the bathroom. John got the football there. Is Sandra in the kitchen?	no	yes
+Mary went back to the bedroom. Daniel travelled to the hallway. Is Mary in the bathroom?	no	yes
+Daniel moved to the kitchen. Sandra got the apple there. Is Daniel in the hallway?	no	yes
+Sandra went back to the kitchen. John went to the garden. Is John in the garden?	yes	no
+Mary journeyed to the kitchen. John went to the office. Is Mary in the kitchen?	yes	no
+Daniel grabbed the football there. Sandra journeyed to the bathroom. Is Sandra in the office?	no	yes
+Daniel went to the office. Mary went back to the bedroom. Is Mary in the bedroom?	yes	no
+Sandra went to the hallway. Sandra journeyed to the garden. Is Sandra in the office?	no	yes
+Daniel got the football there. Daniel travelled to the bedroom. Is Daniel in the bedroom?	yes	no
+Daniel took the apple there. Mary journeyed to the bathroom. Is Mary in the garden?	no	yes
+Mary went to the garden. John travelled to the bedroom. Is John in the bedroom?	yes	no
+John travelled to the kitchen. Mary travelled to the hallway. Is Mary in the garden?	no	yes
+John moved to the bedroom. John travelled to the office. Is John in the garden?	no	yes
+Mary moved to the hallway. Sandra journeyed to the bathroom. Is Mary in the hallway?	yes	no
+Mary journeyed to the bathroom. Mary grabbed the football there. Is Mary in the bathroom?	yes	no
+Sandra got the milk there. Mary moved to the garden. Is Mary in the office?	no	yes
+Mary moved to the kitchen. Sandra went back to the kitchen. Is Sandra in the kitchen?	yes	no
+Mary got the apple there. Mary went to the office. Is Mary in the bedroom?	no	yes
+Daniel took the football there. Daniel put down the football. John moved to the hallway. Daniel got the football there. Is John in the office?	no	yes
+Daniel travelled to the kitchen. Mary travelled to the garden. Is Daniel in the bedroom?	no	yes
+Sandra journeyed to the office. Sandra grabbed the milk there. Is Sandra in the bathroom?	no	yes
+Daniel journeyed to the bedroom. Daniel got the milk there. Is Daniel in the bedroom?	yes	no
+John picked up the football there. Mary journeyed to the office. Is Mary in the office?	yes	no
+John travelled to the garden. Sandra journeyed to the garden. Is Sandra in the garden?	yes	no
+Daniel moved to the kitchen. John moved to the bathroom. Is Daniel in the kitchen?	yes	no
+Sandra went back to the garden. Mary picked up the apple there. Is Sandra in the office?	no	yes
+John travelled to the kitchen. John went back to the hallway. Is John in the garden?	no	yes
+John went back to the office. Mary picked up the football there. Is John in the hallway?	no	yes
+Daniel grabbed the football there. Sandra went to the kitchen. Is Sandra in the kitchen?	yes	no
+Daniel went to the garden. Mary went to the kitchen. Is Mary in the hallway?	no	yes
+Mary went to the office. Mary journeyed to the bedroom. Is Mary in the bedroom?	yes	no
+Mary journeyed to the office. Sandra took the apple there. Is Mary in the office?	yes	no
+Daniel got the apple there. Daniel took the milk there. Sandra journeyed to the office. Mary travelled to the hallway. Is Mary in the hallway?	yes	no
+Sandra moved to the kitchen. Mary moved to the bathroom. Is Mary in the garden?	no	yes
+John went to the hallway. Daniel went to the bedroom. Is Daniel in the bedroom?	yes	no
+Mary moved to the garden. John journeyed to the bedroom. Is John in the kitchen?	no	yes
+Sandra picked up the milk there. John journeyed to the bedroom. Is John in the hallway?	no	yes
+Sandra travelled to the bedroom. Sandra went back to the hallway. Is Sandra in the garden?	no	yes
+Daniel went to the kitchen. Mary grabbed the apple there. Is Daniel in the kitchen?	yes	no
+Daniel travelled to the hallway. Sandra went back to the bathroom. Is Daniel in the garden?	no	yes
+Sandra went back to the garden. John travelled to the office. Is Sandra in the bedroom?	no	yes
+Sandra went back to the office. Sandra went back to the bathroom. Is Sandra in the office?	no	yes
+Mary took the football there. John moved to the garden. Is John in the kitchen?	no	yes
+Mary travelled to the garden. Daniel journeyed to the office. Is Mary in the bathroom?	no	yes
+John travelled to the garden. Mary took the apple there. Is John in the garden?	yes	no
+Sandra moved to the office. Mary travelled to the bedroom. Is Mary in the garden?	no	yes
+Sandra went back to the hallway. Sandra got the apple there. Is Sandra in the hallway?	yes	no
+John moved to the bathroom. Daniel travelled to the garden. Is Daniel in the office?	no	yes
+John journeyed to the hallway. Daniel journeyed to the bedroom. Is John in the hallway?	yes	no
+Mary moved to the hallway. Sandra journeyed to the hallway. Is Mary in the hallway?	yes	no
+Daniel travelled to the hallway. John went to the kitchen. Is Daniel in the garden?	no	yes
+Daniel moved to the hallway. Mary got the apple there. Is Daniel in the kitchen?	no	yes
+Sandra took the football there. John went back to the hallway. Is John in the hallway?	yes	no
+Sandra travelled to the hallway. John got the milk there. Is Sandra in the hallway?	yes	no
+Mary journeyed to the bathroom. Sandra journeyed to the garden. Is Mary in the bathroom?	yes	no
+Mary grabbed the apple there. Sandra went back to the bedroom. Is Sandra in the kitchen?	no	yes
+John got the football there. Daniel journeyed to the hallway. Is Daniel in the office?	no	yes
+John travelled to the kitchen. Mary went back to the hallway. Is John in the bathroom?	no	yes
+Mary took the football there. Mary moved to the bathroom. Is Mary in the bathroom?	yes	no
+John went back to the bedroom. Sandra went back to the bedroom. Is Sandra in the office?	no	yes
+John took the apple there. John travelled to the bathroom. Is John in the hallway?	no	yes
+John went to the garden. Mary travelled to the bedroom. Is John in the garden?	yes	no
+Daniel went back to the bedroom. Sandra went to the hallway. Is Daniel in the bedroom?	yes	no
+John went to the bathroom. Daniel went to the bathroom. Is John in the bathroom?	yes	no
+Daniel went to the hallway. Daniel picked up the milk there. Is Daniel in the hallway?	yes	no
+Daniel journeyed to the bedroom. Sandra travelled to the office. Is Daniel in the kitchen?	no	yes
+Sandra travelled to the bathroom. Sandra travelled to the garden. Is Sandra in the garden?	yes	no
+Mary moved to the office. Mary got the milk there. Is Mary in the bathroom?	no	yes
+Mary moved to the garden. Sandra went to the office. Is Mary in the kitchen?	no	yes
+Daniel moved to the garden. Sandra went to the hallway. Is Daniel in the garden?	yes	no
+Sandra went back to the hallway. Mary went to the hallway. Is Sandra in the hallway?	yes	no
+Mary went back to the kitchen. Mary went back to the hallway. Is Mary in the hallway?	yes	no
+John picked up the apple there. Sandra went back to the bedroom. Is Sandra in the bedroom?	yes	no
+Mary grabbed the apple there. Mary put down the apple. Sandra moved to the hallway. Daniel went back to the garden. Is Sandra in the hallway?	yes	no
+Sandra got the football there. Sandra dropped the football there. Mary went back to the kitchen. John went back to the office. Is Mary in the kitchen?	yes	no
+Sandra moved to the office. Daniel got the apple there. Is Sandra in the kitchen?	no	yes
+Mary went back to the bedroom. Sandra picked up the milk there. Is Mary in the bedroom?	yes	no
+Sandra travelled to the hallway. Sandra journeyed to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra moved to the kitchen. Sandra grabbed the football there. Is Sandra in the kitchen?	yes	no
+Daniel grabbed the apple there. Daniel travelled to the office. Is Daniel in the bathroom?	no	yes
+Mary grabbed the football there. John travelled to the hallway. Is John in the garden?	no	yes
+Sandra went to the garden. Daniel went to the bathroom. Is Sandra in the garden?	yes	no
+Mary went to the kitchen. John went back to the hallway. Is Mary in the bathroom?	no	yes
+Sandra moved to the hallway. Sandra got the milk there. Is Sandra in the hallway?	yes	no
+Daniel went to the bedroom. Daniel picked up the milk there. Is Daniel in the bedroom?	yes	no
+Sandra went to the bedroom. Mary grabbed the football there. Is Sandra in the bedroom?	yes	no
+Mary travelled to the hallway. Sandra travelled to the bedroom. Is Mary in the office?	no	yes
+John got the milk there. Mary journeyed to the garden. Is Mary in the bathroom?	no	yes
+Sandra travelled to the hallway. Daniel got the milk there. Is Sandra in the hallway?	yes	no
+John moved to the hallway. Mary went back to the garden. Is Mary in the garden?	yes	no
+Mary travelled to the garden. Sandra went to the garden. Is Mary in the hallway?	no	yes
+Sandra went to the garden. Daniel picked up the apple there. Is Sandra in the garden?	yes	no
+Sandra travelled to the bedroom. Mary travelled to the bathroom. Is Mary in the hallway?	no	yes
+Mary got the milk there. Sandra moved to the office. Is Sandra in the garden?	no	yes
+Daniel grabbed the apple there. Mary travelled to the hallway. Is Mary in the office?	no	yes
+John went back to the garden. Mary journeyed to the bathroom. Is Mary in the bathroom?	yes	no
+John went back to the bedroom. Daniel journeyed to the garden. Is Daniel in the garden?	yes	no
+Daniel took the football there. Daniel discarded the football there. John grabbed the football there. Mary went back to the kitchen. Is Mary in the bathroom?	no	yes
+Mary picked up the milk there. Mary dropped the milk. Daniel travelled to the hallway. Sandra moved to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra picked up the apple there. Mary travelled to the bathroom. Is Mary in the bathroom?	yes	no
+Daniel picked up the milk there. John went back to the bedroom. Is John in the bedroom?	yes	no
+Sandra went back to the kitchen. John went to the hallway. Is John in the kitchen?	no	yes
+Mary journeyed to the kitchen. Daniel went back to the bedroom. Is Daniel in the hallway?	no	yes
+Mary journeyed to the kitchen. Daniel journeyed to the kitchen. Is Mary in the bedroom?	no	yes
+Sandra went back to the hallway. Sandra picked up the football there. Is Sandra in the kitchen?	no	yes
+Daniel travelled to the bedroom. Mary went back to the kitchen. Is Daniel in the bedroom?	yes	no
+Daniel went to the garden. Sandra went back to the kitchen. Is Sandra in the office?	no	yes
+Sandra travelled to the bedroom. Sandra travelled to the office. Is Sandra in the office?	yes	no
+Sandra journeyed to the garden. Mary went back to the kitchen. Is Sandra in the garden?	yes	no
+Mary journeyed to the garden. Daniel picked up the milk there. Is Mary in the hallway?	no	yes
+Daniel travelled to the kitchen. Daniel picked up the football there. Is Daniel in the kitchen?	yes	no
+Mary journeyed to the office. John travelled to the hallway. Is Mary in the office?	yes	no
+Sandra got the football there. Daniel went back to the hallway. Is Daniel in the kitchen?	no	yes
+John grabbed the milk there. Mary travelled to the hallway. Is Mary in the hallway?	yes	no
+Sandra moved to the kitchen. Daniel moved to the kitchen. Is Daniel in the kitchen?	yes	no
+Daniel grabbed the apple there. Mary got the milk there. Mary dropped the milk. Mary travelled to the bedroom. Is Mary in the bedroom?	yes	no
+Sandra got the apple there. Sandra went back to the bedroom. Is Sandra in the hallway?	no	yes
+Mary went to the garden. Daniel went back to the office. Is Mary in the garden?	yes	no
+Sandra moved to the garden. Daniel travelled to the hallway. Is Sandra in the hallway?	no	yes
+Sandra went back to the hallway. Sandra picked up the apple there. Is Sandra in the hallway?	yes	no
+Mary went to the bedroom. Daniel picked up the milk there. Is Mary in the bedroom?	yes	no
+Mary moved to the bathroom. Daniel went back to the bedroom. Is Mary in the office?	no	yes
+Mary got the milk there. Mary travelled to the hallway. Is Mary in the hallway?	yes	no
+John went to the hallway. John travelled to the kitchen. Is John in the bedroom?	no	yes
+Mary journeyed to the kitchen. Sandra moved to the garden. Is Sandra in the hallway?	no	yes
+Daniel journeyed to the kitchen. Sandra took the milk there. Is Daniel in the office?	no	yes
+John went back to the office. John travelled to the garden. Is John in the garden?	yes	no
+Mary picked up the football there. Sandra went back to the kitchen. Is Sandra in the kitchen?	yes	no
+Mary grabbed the milk there. Daniel got the football there. Daniel dropped the football. Daniel got the football there. Sandra picked up the apple there. Sandra discarded the apple. Sandra got the apple there. Daniel journeyed to the kitchen. Is Daniel in the bedroom?	no	yes
+Mary went back to the bathroom. Mary went to the kitchen. Is Mary in the hallway?	no	yes
+Sandra went to the hallway. Daniel went to the bedroom. Is Sandra in the bathroom?	no	yes
+Daniel went back to the office. Sandra grabbed the football there. Is Daniel in the bathroom?	no	yes
+John went back to the garden. Sandra grabbed the football there. Is John in the garden?	yes	no
+Mary took the milk there. Mary left the milk. Mary travelled to the bedroom. Mary got the football there. Is Mary in the bedroom?	yes	no
+Mary travelled to the bedroom. John got the milk there. Is Mary in the bedroom?	yes	no
+John picked up the apple there. John dropped the apple there. Daniel went to the bedroom. Sandra moved to the kitchen. Is Sandra in the kitchen?	yes	no
+John went back to the bedroom. Mary went back to the bathroom. Is John in the hallway?	no	yes
+Mary travelled to the kitchen. John moved to the office. Is Mary in the hallway?	no	yes
+John went to the office. John took the milk there. Is John in the garden?	no	yes
+John journeyed to the kitchen. Daniel picked up the milk there. Is John in the kitchen?	yes	no
+John moved to the hallway. Mary took the football there. Is John in the hallway?	yes	no
+Daniel went back to the kitchen. Daniel grabbed the apple there. Is Daniel in the kitchen?	yes	no
+Mary went back to the office. Sandra picked up the apple there. Is Mary in the office?	yes	no
+Mary took the apple there. Daniel journeyed to the office. Is Daniel in the office?	yes	no
+John went to the garden. John went to the bedroom. Is John in the hallway?	no	yes
+Mary grabbed the football there. Sandra went to the bathroom. Is Sandra in the bathroom?	yes	no
+Mary picked up the apple there. Sandra journeyed to the bathroom. Is Sandra in the bathroom?	yes	no
+Sandra journeyed to the bedroom. Mary went back to the hallway. Is Sandra in the kitchen?	no	yes
+Mary journeyed to the hallway. Mary picked up the football there. Is Mary in the garden?	no	yes
+Mary grabbed the apple there. Mary discarded the apple. Sandra moved to the bedroom. John moved to the garden. Is John in the bedroom?	no	yes
+Mary went back to the bedroom. Daniel journeyed to the bedroom. Is Mary in the bedroom?	yes	no
+John moved to the office. Daniel moved to the bedroom. Is John in the office?	yes	no
+Mary got the apple there. Sandra got the football there. Mary journeyed to the garden. Mary dropped the apple. Is Mary in the bathroom?	no	yes
+John journeyed to the bathroom. Daniel journeyed to the bathroom. Is John in the kitchen?	no	yes
+Mary took the football there. Mary dropped the football. Sandra picked up the football there. Sandra went back to the bathroom. Is Sandra in the bathroom?	yes	no
+Mary got the football there. John journeyed to the bathroom. Is John in the garden?	no	yes
+Sandra travelled to the garden. Daniel journeyed to the garden. Is Sandra in the kitchen?	no	yes
+John got the football there. John moved to the bedroom. Is John in the bedroom?	yes	no
+John took the football there. John went to the bathroom. Is John in the garden?	no	yes
+John went to the hallway. John went to the garden. Is John in the garden?	yes	no
+John went to the bedroom. John got the football there. Is John in the office?	no	yes
+Sandra went to the bedroom. Sandra took the apple there. Is Sandra in the bedroom?	yes	no
+Mary picked up the milk there. Daniel took the apple there. Daniel put down the apple. John went back to the kitchen. Is John in the kitchen?	yes	no
+John moved to the kitchen. John journeyed to the garden. Is John in the garden?	yes	no
+Mary went to the hallway. Sandra went to the garden. Is Mary in the office?	no	yes
+John moved to the bedroom. Mary journeyed to the bedroom. Is John in the kitchen?	no	yes
+Daniel took the milk there. Daniel left the milk. Mary went back to the kitchen. Daniel travelled to the bathroom. Is Daniel in the bathroom?	yes	no
+John journeyed to the office. Daniel travelled to the hallway. Is Daniel in the bathroom?	no	yes
+Mary travelled to the hallway. Daniel grabbed the milk there. Is Mary in the hallway?	yes	no
+Mary picked up the apple there. Daniel journeyed to the kitchen. Is Daniel in the hallway?	no	yes
+Sandra journeyed to the bathroom. Daniel journeyed to the office. Is Daniel in the kitchen?	no	yes
+Mary journeyed to the office. Daniel went back to the bedroom. Is Daniel in the bedroom?	yes	no
+Daniel grabbed the milk there. Daniel picked up the apple there. Daniel dropped the milk. Mary moved to the office. Is Mary in the bedroom?	no	yes
+Daniel got the football there. Daniel moved to the garden. Is Daniel in the garden?	yes	no
+Daniel took the milk there. Daniel went to the garden. Is Daniel in the garden?	yes	no
+Mary moved to the bedroom. Daniel travelled to the bathroom. Is Daniel in the kitchen?	no	yes
+John travelled to the office. Mary travelled to the hallway. Is John in the kitchen?	no	yes
+Daniel went to the bedroom. Mary went to the kitchen. Is Mary in the bedroom?	no	yes
+Daniel picked up the apple there. Daniel journeyed to the bedroom. Is Daniel in the hallway?	no	yes
+Sandra went back to the bedroom. Mary journeyed to the bathroom. Is Mary in the bathroom?	yes	no
+John got the football there. Daniel picked up the milk there. Mary travelled to the bedroom. Daniel discarded the milk there. Is Mary in the bedroom?	yes	no
+Sandra went back to the hallway. John travelled to the bedroom. Is Sandra in the office?	no	yes
+Sandra went back to the bathroom. Mary took the apple there. Is Sandra in the garden?	no	yes
+Daniel moved to the hallway. John journeyed to the garden. Is Daniel in the hallway?	yes	no
+Mary went to the bathroom. Sandra took the football there. Is Mary in the bathroom?	yes	no
+Mary moved to the bathroom. Sandra took the football there. Is Mary in the bathroom?	yes	no
+Mary went back to the office. Daniel travelled to the hallway. Is Daniel in the hallway?	yes	no
+Mary went to the hallway. Mary travelled to the office. Is Mary in the kitchen?	no	yes
+Mary travelled to the office. Sandra grabbed the apple there. Is Mary in the garden?	no	yes
+Mary went to the kitchen. John grabbed the apple there. Is Mary in the office?	no	yes
+Mary took the football there. Daniel travelled to the kitchen. Is Daniel in the kitchen?	yes	no
+Mary got the milk there. Mary journeyed to the bedroom. Is Mary in the bedroom?	yes	no
+Mary moved to the bathroom. Sandra travelled to the kitchen. Is Sandra in the bathroom?	no	yes
+Mary went back to the garden. Daniel moved to the bedroom. Is Mary in the garden?	yes	no
+John went back to the kitchen. Daniel journeyed to the hallway. Is John in the kitchen?	yes	no
+Mary went to the kitchen. Daniel picked up the milk there. Is Mary in the kitchen?	yes	no
+Mary went back to the bedroom. Daniel got the football there. Is Mary in the bedroom?	yes	no
+Mary journeyed to the office. Sandra journeyed to the office. Is Sandra in the bathroom?	no	yes
+Mary journeyed to the office. Sandra travelled to the hallway. Is Mary in the office?	yes	no
+John went back to the office. John journeyed to the garden. Is John in the garden?	yes	no
+Mary got the apple there. Sandra travelled to the bedroom. Is Sandra in the bedroom?	yes	no
+Mary grabbed the milk there. Mary discarded the milk. Mary went back to the bathroom. Sandra went back to the bathroom. Is Sandra in the bathroom?	yes	no
+Sandra took the football there. Sandra travelled to the garden. Is Sandra in the garden?	yes	no
+Mary got the football there. Mary moved to the bathroom. Is Mary in the office?	no	yes
+John moved to the office. John journeyed to the bedroom. Is John in the bathroom?	no	yes
+Sandra got the football there. Mary took the apple there. Mary left the apple there. Daniel travelled to the office. Is Daniel in the office?	yes	no
+John grabbed the milk there. John dropped the milk. John journeyed to the bathroom. Mary went to the bathroom. Is Mary in the bathroom?	yes	no
+John went back to the garden. Sandra journeyed to the bedroom. Is John in the bedroom?	no	yes
+Sandra picked up the apple there. Daniel went back to the bedroom. Is Daniel in the bedroom?	yes	no
+Sandra took the milk there. Sandra went to the kitchen. Is Sandra in the kitchen?	yes	no
+John went to the hallway. Sandra journeyed to the hallway. Is Sandra in the bedroom?	no	yes
+Sandra got the football there. Sandra went back to the office. Is Sandra in the hallway?	no	yes
+Sandra took the apple there. Daniel journeyed to the garden. Is Daniel in the garden?	yes	no
+John travelled to the hallway. John journeyed to the bathroom. Is John in the hallway?	no	yes
+Daniel travelled to the garden. Mary journeyed to the hallway. Is Mary in the hallway?	yes	no
+Mary took the milk there. Mary left the milk. John went back to the kitchen. Mary went back to the bedroom. Is John in the kitchen?	yes	no
+Mary went back to the bedroom. Sandra went back to the bedroom. Is Sandra in the bedroom?	yes	no
+John went to the hallway. Mary journeyed to the hallway. Is Mary in the hallway?	yes	no
+John moved to the garden. Daniel travelled to the garden. Is John in the office?	no	yes
+Daniel took the apple there. Sandra travelled to the bedroom. Is Sandra in the bedroom?	yes	no
+Mary moved to the bedroom. Mary journeyed to the office. Is Mary in the office?	yes	no
+Mary travelled to the hallway. John went to the bedroom. Is Mary in the hallway?	yes	no
+John grabbed the apple there. John journeyed to the kitchen. Is John in the kitchen?	yes	no
+Sandra travelled to the hallway. Sandra went back to the office. Is Sandra in the bathroom?	no	yes
+Mary picked up the apple there. John went to the kitchen. Is John in the office?	no	yes
+Sandra journeyed to the hallway. John picked up the apple there. Is Sandra in the hallway?	yes	no
+John grabbed the apple there. Mary moved to the office. Is Mary in the bathroom?	no	yes
+John went to the bedroom. Daniel moved to the office. Is Daniel in the hallway?	no	yes
+Sandra picked up the football there. Sandra went back to the hallway. Is Sandra in the hallway?	yes	no
+Sandra took the football there. Daniel took the milk there. Daniel put down the milk. Daniel grabbed the milk there. Daniel moved to the office. Daniel went to the bedroom. Is Daniel in the office?	no	yes
+Daniel went to the bathroom. Mary went to the hallway. Is Daniel in the hallway?	no	yes
+Mary went to the hallway. John journeyed to the kitchen. Is John in the kitchen?	yes	no
+Daniel picked up the milk there. Daniel moved to the office. Is Daniel in the bedroom?	no	yes
+Daniel went back to the kitchen. Sandra took the milk there. Is Daniel in the kitchen?	yes	no
+Mary picked up the apple there. Mary dropped the apple. John moved to the bedroom. Sandra travelled to the bathroom. Is John in the bedroom?	yes	no
+Sandra went back to the kitchen. Sandra travelled to the bedroom. Is Sandra in the hallway?	no	yes
+Mary went to the bedroom. Daniel travelled to the bedroom. Is Daniel in the kitchen?	no	yes
+John took the football there. Daniel journeyed to the bedroom. Is Daniel in the bedroom?	yes	no
+John went back to the hallway. Daniel went to the bedroom. Is John in the garden?	no	yes
+Mary travelled to the garden. Mary moved to the bathroom. Is Mary in the bathroom?	yes	no
+Mary moved to the kitchen. Sandra went to the office. Is Sandra in the office?	yes	no
+Daniel went back to the office. Mary went to the hallway. Is Mary in the office?	no	yes
+Daniel travelled to the office. John travelled to the office. Is Daniel in the kitchen?	no	yes
+Daniel grabbed the apple there. Mary grabbed the football there. Sandra journeyed to the garden. Mary dropped the football there. Is Sandra in the garden?	yes	no
+Mary grabbed the apple there. Sandra grabbed the milk there. Sandra left the milk. Sandra grabbed the milk there. Daniel moved to the garden. Mary took the football there. Is Daniel in the garden?	yes	no
+Sandra went to the bathroom. John travelled to the hallway. Is John in the bathroom?	no	yes
+Mary moved to the hallway. Mary got the football there. Is Mary in the kitchen?	no	yes
+John journeyed to the kitchen. Sandra travelled to the kitchen. Is Sandra in the kitchen?	yes	no
+John picked up the football there. Sandra went back to the bathroom. Is Sandra in the bedroom?	no	yes
+Sandra moved to the office. Daniel journeyed to the bathroom. Is Sandra in the garden?	no	yes
+Sandra took the apple there. Sandra moved to the garden. Is Sandra in the bathroom?	no	yes
+Mary journeyed to the hallway. John moved to the office. Is Mary in the bathroom?	no	yes
+John went to the hallway. Mary moved to the hallway. Is John in the hallway?	yes	no
+John journeyed to the kitchen. Daniel went to the bathroom. Is Daniel in the bedroom?	no	yes
+John went back to the hallway. John got the apple there. Is John in the bedroom?	no	yes
+Mary got the apple there. Mary discarded the apple there. John went to the bedroom. Mary travelled to the bathroom. Is Mary in the bathroom?	yes	no
+Daniel travelled to the garden. Sandra went to the kitchen. Is Daniel in the bathroom?	no	yes
+Sandra took the apple there. John went to the hallway. Is John in the bedroom?	no	yes
+John moved to the kitchen. Daniel journeyed to the hallway. Is John in the office?	no	yes
+John went to the bedroom. Daniel went to the hallway. Is Daniel in the hallway?	yes	no
+John went back to the office. Daniel went to the office. Is John in the hallway?	no	yes
+Daniel grabbed the apple there. Mary moved to the garden. Is Mary in the garden?	yes	no
+John went to the hallway. Mary travelled to the bedroom. Is John in the hallway?	yes	no
+John travelled to the kitchen. Mary picked up the football there. Is John in the kitchen?	yes	no
+Mary journeyed to the garden. Mary took the milk there. Is Mary in the office?	no	yes
+Mary went to the bedroom. Mary journeyed to the office. Is Mary in the office?	yes	no
+Daniel took the apple there. Mary moved to the bedroom. Is Mary in the office?	no	yes
+Sandra grabbed the apple there. Sandra went back to the hallway. Is Sandra in the hallway?	yes	no
+Daniel moved to the bathroom. Sandra picked up the apple there. Is Daniel in the bathroom?	yes	no
+Sandra moved to the bedroom. Mary went back to the kitchen. Is Sandra in the hallway?	no	yes
+Daniel went to the kitchen. John went to the kitchen. Is Daniel in the kitchen?	yes	no
+Sandra got the football there. Mary got the milk there. John went to the kitchen. Daniel went to the office. Is Daniel in the office?	yes	no
+Mary got the apple there. John travelled to the office. Is John in the office?	yes	no
+Sandra went back to the hallway. Sandra journeyed to the garden. Is Sandra in the kitchen?	no	yes
+Sandra got the apple there. Mary journeyed to the bedroom. Is Mary in the office?	no	yes
+John moved to the bedroom. Daniel journeyed to the kitchen. Is Daniel in the hallway?	no	yes
+Mary journeyed to the office. Mary went to the kitchen. Is Mary in the office?	no	yes
+John journeyed to the hallway. John travelled to the kitchen. Is John in the kitchen?	yes	no
+John journeyed to the office. Daniel went back to the hallway. Is Daniel in the bathroom?	no	yes
+John journeyed to the office. Mary went back to the office. Is John in the garden?	no	yes
+John took the apple there. Mary moved to the hallway. Is Mary in the hallway?	yes	no
+Daniel moved to the hallway. John took the football there. Is Daniel in the bedroom?	no	yes
+John picked up the milk there. John left the milk there. Daniel went to the bedroom. Daniel moved to the office. Is Daniel in the office?	yes	no
+Sandra moved to the kitchen. Sandra went to the garden. Is Sandra in the garden?	yes	no
+John journeyed to the kitchen. Sandra travelled to the kitchen. Is Sandra in the kitchen?	yes	no
+John journeyed to the hallway. John journeyed to the garden. Is John in the office?	no	yes
+Sandra took the football there. Mary travelled to the bathroom. Is Mary in the office?	no	yes
+Daniel moved to the bedroom. Daniel travelled to the garden. Is Daniel in the bedroom?	no	yes
+Mary travelled to the bathroom. John picked up the apple there. Is Mary in the bathroom?	yes	no
+Daniel picked up the milk there. John moved to the kitchen. Is John in the office?	no	yes
+Daniel went to the hallway. Mary travelled to the bathroom. Is Daniel in the hallway?	yes	no
+Daniel went back to the bedroom. Daniel went back to the kitchen. Is Daniel in the kitchen?	yes	no
+Mary took the football there. John travelled to the bedroom. Is John in the garden?	no	yes
+Mary got the milk there. Mary discarded the milk. Daniel journeyed to the bathroom. John grabbed the apple there. Is Daniel in the bathroom?	yes	no
+Sandra journeyed to the bathroom. Sandra grabbed the football there. Is Sandra in the kitchen?	no	yes
+John journeyed to the kitchen. Mary went back to the hallway. Is Mary in the bedroom?	no	yes
+Daniel went to the hallway. John journeyed to the bedroom. Is John in the bedroom?	yes	no
+Sandra took the football there. Sandra put down the football there. Mary journeyed to the kitchen. John picked up the apple there. Is Mary in the garden?	no	yes
+John got the milk there. John discarded the milk there. John grabbed the milk there. John put down the milk. Mary journeyed to the bathroom. Daniel got the milk there. Is Mary in the kitchen?	no	yes
+Mary went to the hallway. John moved to the bedroom. Is John in the hallway?	no	yes
+Mary got the football there. Mary journeyed to the hallway. Is Mary in the bedroom?	no	yes
+Daniel got the milk there. Sandra moved to the kitchen. Is Sandra in the kitchen?	yes	no
+John went to the office. Mary journeyed to the garden. Is Mary in the office?	no	yes
+Mary journeyed to the garden. Sandra travelled to the garden. Is Sandra in the hallway?	no	yes
+Mary went to the hallway. Mary went back to the garden. Is Mary in the kitchen?	no	yes
+Mary went back to the bedroom. Mary journeyed to the bathroom. Is Mary in the bathroom?	yes	no
+Mary went back to the hallway. Mary got the football there. Is Mary in the hallway?	yes	no
+Daniel picked up the milk there. Daniel went back to the kitchen. Is Daniel in the kitchen?	yes	no
+John went back to the kitchen. Daniel went back to the bathroom. Is Daniel in the bathroom?	yes	no
+Daniel went back to the bedroom. John went to the bathroom. Is Daniel in the office?	no	yes
+Mary journeyed to the bedroom. Daniel got the football there. Is Mary in the garden?	no	yes
+Sandra moved to the bedroom. Daniel picked up the milk there. Is Sandra in the bedroom?	yes	no
+John took the apple there. John put down the apple. Mary journeyed to the bathroom. John grabbed the apple there. Is Mary in the bathroom?	yes	no
+Daniel went to the bathroom. Sandra went to the office. Is Daniel in the hallway?	no	yes
+Sandra moved to the hallway. Mary went to the bedroom. Is Mary in the kitchen?	no	yes
+John got the football there. John went to the garden. Is John in the bathroom?	no	yes
+Mary took the apple there. Mary left the apple. Daniel went back to the garden. Mary moved to the kitchen. Is Mary in the hallway?	no	yes
+Mary got the football there. Mary went back to the office. Is Mary in the office?	yes	no
+Sandra took the apple there. Sandra put down the apple. Sandra picked up the apple there. John journeyed to the kitchen. Is John in the kitchen?	yes	no
+Daniel took the football there. Sandra went to the garden. Is Sandra in the bedroom?	no	yes
+John went to the bedroom. Mary travelled to the hallway. Is John in the bedroom?	yes	no
+Sandra went to the hallway. Mary went back to the bathroom. Is Mary in the bedroom?	no	yes
+Sandra picked up the milk there. Mary got the apple there. Sandra went back to the bedroom. John moved to the bathroom. Is John in the office?	no	yes
+John went back to the kitchen. Daniel travelled to the garden. Is Daniel in the garden?	yes	no
+Sandra journeyed to the hallway. Mary journeyed to the office. Is Sandra in the hallway?	yes	no
+Sandra moved to the bathroom. Sandra travelled to the hallway. Is Sandra in the bedroom?	no	yes
+Daniel moved to the kitchen. Mary grabbed the milk there. Is Daniel in the kitchen?	yes	no
+John grabbed the football there. John left the football. Sandra travelled to the bedroom. Sandra went back to the hallway. Is Sandra in the hallway?	yes	no
+Mary travelled to the hallway. Mary went back to the office. Is Mary in the garden?	no	yes
+Daniel travelled to the office. Mary travelled to the garden. Is Daniel in the garden?	no	yes
+Daniel moved to the garden. Daniel grabbed the apple there. Is Daniel in the garden?	yes	no
+Mary went to the office. Daniel went back to the bedroom. Is Mary in the kitchen?	no	yes
+Sandra went to the hallway. Mary moved to the hallway. Is Mary in the bedroom?	no	yes
+Daniel took the milk there. Sandra moved to the office. Is Sandra in the office?	yes	no
+Sandra went to the office. Sandra went to the hallway. Is Sandra in the bathroom?	no	yes
+John got the milk there. Daniel took the football there. Sandra journeyed to the bedroom. John journeyed to the garden. Is John in the garden?	yes	no
+John took the apple there. Daniel went back to the kitchen. Is Daniel in the office?	no	yes
+Mary travelled to the office. Mary moved to the hallway. Is Mary in the bathroom?	no	yes
+Mary grabbed the milk there. Sandra moved to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra travelled to the garden. Mary travelled to the office. Is Mary in the office?	yes	no
+John took the milk there. Daniel moved to the kitchen. Is Daniel in the bathroom?	no	yes
+Daniel travelled to the kitchen. Sandra journeyed to the bathroom. Is Sandra in the bedroom?	no	yes
+Sandra journeyed to the kitchen. Sandra went back to the bathroom. Is Sandra in the hallway?	no	yes
+John travelled to the office. John went back to the garden. Is John in the bathroom?	no	yes
+Sandra journeyed to the bedroom. Mary went to the kitchen. Is Mary in the hallway?	no	yes
+Sandra went back to the bathroom. Mary journeyed to the hallway. Is Sandra in the kitchen?	no	yes
+Daniel took the football there. Daniel discarded the football. John went back to the garden. Daniel took the football there. Is John in the garden?	yes	no
+Mary journeyed to the garden. Daniel went to the kitchen. Is Mary in the office?	no	yes
+John journeyed to the kitchen. John went back to the bathroom. Is John in the bathroom?	yes	no
+Mary travelled to the bedroom. Mary journeyed to the bathroom. Is Mary in the hallway?	no	yes
+Sandra got the milk there. Sandra dropped the milk. Sandra got the milk there. Daniel moved to the kitchen. Is Daniel in the bathroom?	no	yes
+Mary picked up the football there. Daniel got the milk there. Daniel left the milk. Daniel went back to the office. Is Daniel in the bedroom?	no	yes
+Sandra went to the bedroom. Daniel moved to the hallway. Is Daniel in the kitchen?	no	yes
+Mary went back to the office. John went back to the office. Is Mary in the office?	yes	no
+Daniel went back to the bedroom. John went back to the hallway. Is John in the kitchen?	no	yes
+Sandra moved to the bathroom. Sandra journeyed to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra went to the office. Mary got the milk there. Is Sandra in the hallway?	no	yes
+Sandra took the football there. Mary picked up the apple there. Mary discarded the apple there. Daniel grabbed the milk there. Sandra put down the football. Mary moved to the office. Is Mary in the hallway?	no	yes
+John went back to the bedroom. John went back to the garden. Is John in the garden?	yes	no
+Sandra went back to the bedroom. John went back to the bathroom. Is John in the kitchen?	no	yes
+John moved to the kitchen. Mary got the apple there. Is John in the kitchen?	yes	no
+Mary went back to the garden. Mary travelled to the bedroom. Is Mary in the bedroom?	yes	no
+Sandra journeyed to the bedroom. Sandra travelled to the office. Is Sandra in the office?	yes	no
+Sandra moved to the bathroom. John travelled to the garden. Is John in the kitchen?	no	yes
+Mary travelled to the garden. Daniel moved to the kitchen. Is Mary in the garden?	yes	no
+Daniel travelled to the office. John travelled to the bedroom. Is John in the garden?	no	yes
+Daniel moved to the hallway. Mary journeyed to the office. Is Mary in the office?	yes	no
+Mary went to the office. Daniel went back to the hallway. Is Daniel in the kitchen?	no	yes
+Mary went to the kitchen. Sandra picked up the milk there. Is Mary in the garden?	no	yes
+Daniel picked up the apple there. Sandra moved to the garden. Is Sandra in the kitchen?	no	yes
+Sandra got the apple there. Sandra discarded the apple. Sandra got the apple there. Daniel journeyed to the hallway. Is Daniel in the bedroom?	no	yes
+John grabbed the milk there. Sandra went back to the bedroom. Is Sandra in the bedroom?	yes	no
+Mary went back to the kitchen. Mary journeyed to the bedroom. Is Mary in the hallway?	no	yes
+Sandra went back to the garden. Sandra went back to the bedroom. Is Sandra in the bedroom?	yes	no
+John travelled to the garden. Daniel journeyed to the garden. Is Daniel in the garden?	yes	no
+Daniel went to the bathroom. Sandra went back to the kitchen. Is Daniel in the kitchen?	no	yes
+Sandra picked up the milk there. John travelled to the kitchen. Is John in the bathroom?	no	yes
+John went to the bathroom. John went back to the hallway. Is John in the hallway?	yes	no
+Sandra grabbed the apple there. John went to the bathroom. Is John in the hallway?	no	yes
+Daniel went back to the kitchen. Daniel journeyed to the bathroom. Is Daniel in the kitchen?	no	yes
+Daniel travelled to the garden. Mary picked up the football there. Is Daniel in the garden?	yes	no
+Daniel went back to the bedroom. John went back to the office. Is John in the office?	yes	no
+Daniel travelled to the bathroom. Daniel journeyed to the bedroom. Is Daniel in the bedroom?	yes	no
+Daniel picked up the apple there. Daniel dropped the apple. Daniel went to the office. John journeyed to the bathroom. Is Daniel in the office?	yes	no
+Daniel moved to the garden. Sandra moved to the bathroom. Is Daniel in the bathroom?	no	yes
+Daniel travelled to the bathroom. John got the apple there. Is Daniel in the bathroom?	yes	no
+John went to the bathroom. John travelled to the garden. Is John in the bathroom?	no	yes
+John went back to the office. Daniel journeyed to the bathroom. Is John in the bedroom?	no	yes
+Daniel grabbed the apple there. Daniel moved to the office. Is Daniel in the bedroom?	no	yes
+Mary went back to the bedroom. Daniel journeyed to the office. Is Mary in the garden?	no	yes
+Mary moved to the bedroom. Sandra moved to the hallway. Is Sandra in the hallway?	yes	no
+John went to the hallway. Sandra journeyed to the bedroom. Is Sandra in the bedroom?	yes	no
+Mary moved to the bathroom. Sandra took the football there. Is Mary in the bathroom?	yes	no
+Mary went to the office. Mary went to the bedroom. Is Mary in the office?	no	yes
+Sandra moved to the garden. Sandra grabbed the apple there. Is Sandra in the bedroom?	no	yes
+Mary grabbed the milk there. John went to the garden. Is John in the garden?	yes	no
+John went back to the bathroom. Sandra picked up the football there. Is John in the hallway?	no	yes
+Daniel journeyed to the office. John picked up the milk there. Is Daniel in the bathroom?	no	yes
+Daniel moved to the hallway. Daniel journeyed to the garden. Is Daniel in the kitchen?	no	yes
+John went to the hallway. Daniel journeyed to the hallway. Is John in the bedroom?	no	yes
+Daniel moved to the bedroom. Sandra went back to the office. Is Sandra in the office?	yes	no
+John moved to the bathroom. John took the football there. Is John in the hallway?	no	yes
+Sandra took the football there. Daniel went to the garden. Is Daniel in the garden?	yes	no
+Mary got the milk there. Sandra grabbed the football there. Mary dropped the milk. Mary moved to the hallway. Is Mary in the office?	no	yes
+Sandra travelled to the hallway. Sandra journeyed to the bedroom. Is Sandra in the bedroom?	yes	no
+Daniel picked up the football there. Daniel travelled to the hallway. Is Daniel in the hallway?	yes	no
+Sandra journeyed to the garden. Mary went to the bathroom. Is Sandra in the office?	no	yes
+Mary got the apple there. John moved to the garden. Is John in the bathroom?	no	yes
+Sandra got the milk there. Mary went back to the office. Is Mary in the garden?	no	yes
+Daniel moved to the hallway. Daniel picked up the milk there. Is Daniel in the kitchen?	no	yes
+Sandra went to the office. John took the football there. Is Sandra in the bedroom?	no	yes
+Mary went back to the bedroom. Sandra picked up the milk there. Is Mary in the bedroom?	yes	no
+Sandra moved to the bathroom. Sandra got the milk there. Is Sandra in the garden?	no	yes
+Daniel got the football there. John travelled to the kitchen. Is John in the bathroom?	no	yes
+John got the milk there. Mary journeyed to the office. Is Mary in the garden?	no	yes
+Sandra went back to the hallway. Sandra travelled to the kitchen. Is Sandra in the bedroom?	no	yes
+John grabbed the football there. Mary moved to the bathroom. Is Mary in the bathroom?	yes	no
+Mary journeyed to the bathroom. Sandra picked up the milk there. Is Mary in the kitchen?	no	yes
+Mary went back to the garden. Daniel journeyed to the kitchen. Is Mary in the hallway?	no	yes
+Mary went back to the office. Sandra journeyed to the kitchen. Is Mary in the office?	yes	no
+Mary moved to the hallway. Sandra got the milk there. Is Mary in the hallway?	yes	no
+Daniel moved to the bedroom. John moved to the bathroom. Is John in the kitchen?	no	yes
+Sandra picked up the football there. Daniel went back to the office. Is Daniel in the bedroom?	no	yes
+John went back to the garden. Daniel journeyed to the bathroom. Is Daniel in the bathroom?	yes	no
+John went to the hallway. John went to the kitchen. Is John in the kitchen?	yes	no
+Sandra went back to the office. Daniel journeyed to the garden. Is Sandra in the hallway?	no	yes
+Mary travelled to the kitchen. Mary journeyed to the bedroom. Is Mary in the kitchen?	no	yes
+John went back to the garden. Daniel moved to the office. Is Daniel in the office?	yes	no
+Sandra picked up the milk there. Daniel went to the garden. Is Daniel in the hallway?	no	yes
+Sandra went back to the bedroom. Mary journeyed to the office. Is Sandra in the bedroom?	yes	no
+Daniel went to the hallway. Sandra went back to the kitchen. Is Daniel in the hallway?	yes	no
+Sandra journeyed to the kitchen. Sandra moved to the hallway. Is Sandra in the bathroom?	no	yes
+Mary travelled to the office. John went to the hallway. Is Mary in the bathroom?	no	yes
+Mary got the football there. Daniel went to the kitchen. Is Daniel in the kitchen?	yes	no
+Mary moved to the garden. Sandra went back to the garden. Is Mary in the kitchen?	no	yes
+John travelled to the bedroom. Daniel went back to the kitchen. Is Daniel in the garden?	no	yes
+Sandra moved to the hallway. Mary travelled to the garden. Is Sandra in the bathroom?	no	yes
+Daniel took the football there. Sandra went to the bathroom. Is Sandra in the hallway?	no	yes
+Sandra went back to the garden. Mary moved to the garden. Is Mary in the garden?	yes	no
+Mary went to the hallway. Sandra went to the kitchen. Is Sandra in the office?	no	yes
+Daniel travelled to the bathroom. Daniel picked up the milk there. Is Daniel in the kitchen?	no	yes
+Mary picked up the football there. Daniel took the apple there. Mary moved to the garden. John went to the bathroom. Is Mary in the bedroom?	no	yes
+Daniel went back to the office. John travelled to the hallway. Is John in the hallway?	yes	no
+John moved to the garden. John went back to the kitchen. Is John in the garden?	no	yes
+John journeyed to the kitchen. John moved to the garden. Is John in the bedroom?	no	yes
+John went to the garden. Mary moved to the bedroom. Is John in the bathroom?	no	yes
+Daniel picked up the football there. Daniel moved to the kitchen. Is Daniel in the kitchen?	yes	no
+Sandra moved to the garden. Daniel went back to the office. Is Daniel in the office?	yes	no
+John picked up the football there. John dropped the football. Mary travelled to the bathroom. Daniel travelled to the office. Is Mary in the bathroom?	yes	no
+John grabbed the football there. John travelled to the garden. Is John in the garden?	yes	no
+Daniel went back to the hallway. Sandra went to the hallway. Is Sandra in the office?	no	yes
+John went back to the hallway. Daniel took the milk there. Is John in the hallway?	yes	no
+Daniel went to the garden. John went to the bathroom. Is John in the office?	no	yes
+Daniel picked up the milk there. Mary journeyed to the garden. Is Mary in the kitchen?	no	yes
+Sandra went to the office. Daniel travelled to the office. Is Sandra in the garden?	no	yes
+John picked up the apple there. John discarded the apple. Mary went to the office. John picked up the apple there. Is Mary in the bedroom?	no	yes
+John moved to the bathroom. Sandra took the apple there. Is John in the bathroom?	yes	no
+Sandra moved to the bedroom. Sandra went to the garden. Is Sandra in the garden?	yes	no
+Sandra travelled to the bedroom. Mary got the milk there. Is Sandra in the bedroom?	yes	no
+John picked up the milk there. Mary travelled to the bathroom. Is Mary in the bedroom?	no	yes
+Mary grabbed the milk there. Mary got the football there. John moved to the hallway. Sandra moved to the garden. Is John in the kitchen?	no	yes
+Mary got the milk there. Daniel went to the kitchen. Is Daniel in the bathroom?	no	yes
+Sandra travelled to the bedroom. Daniel went to the office. Is Sandra in the bathroom?	no	yes
+Sandra took the football there. John grabbed the milk there. Sandra dropped the football. John journeyed to the hallway. Is John in the bathroom?	no	yes
+John moved to the bedroom. Sandra journeyed to the kitchen. Is Sandra in the kitchen?	yes	no
+Daniel journeyed to the office. Mary travelled to the kitchen. Is Mary in the kitchen?	yes	no
+Daniel moved to the hallway. Mary journeyed to the garden. Is Mary in the garden?	yes	no
+Daniel went back to the bedroom. Daniel went to the hallway. Is Daniel in the kitchen?	no	yes
+John went to the bedroom. Sandra moved to the bedroom. Is John in the office?	no	yes
+John went to the garden. Mary travelled to the kitchen. Is John in the garden?	yes	no
+John journeyed to the bedroom. Daniel went to the garden. Is Daniel in the office?	no	yes
+Daniel moved to the garden. John took the milk there. Is Daniel in the office?	no	yes
+John journeyed to the bedroom. Mary went back to the garden. Is Mary in the garden?	yes	no
+Daniel went to the bathroom. John went back to the bathroom. Is Daniel in the bedroom?	no	yes
+Mary grabbed the apple there. John went back to the bathroom. Is John in the bathroom?	yes	no
+Daniel travelled to the bedroom. Sandra journeyed to the bedroom. Is Sandra in the bedroom?	yes	no
+Mary went back to the office. Mary journeyed to the kitchen. Is Mary in the hallway?	no	yes
+Mary grabbed the apple there. Daniel went to the garden. Is Daniel in the garden?	yes	no
+Sandra travelled to the garden. Mary moved to the bathroom. Is Sandra in the bathroom?	no	yes
+John went to the hallway. Sandra journeyed to the office. Is Sandra in the bathroom?	no	yes
+Daniel picked up the milk there. John took the football there. Mary moved to the garden. John discarded the football there. Is Mary in the garden?	yes	no
+Mary got the football there. Mary dropped the football. John got the apple there. Sandra moved to the bedroom. Is Sandra in the bedroom?	yes	no
+Sandra got the football there. Sandra dropped the football. Daniel went back to the garden. John journeyed to the bathroom. Is John in the kitchen?	no	yes
+John moved to the bedroom. Mary picked up the milk there. Is John in the office?	no	yes
+Sandra travelled to the kitchen. Mary went back to the bathroom. Is Sandra in the kitchen?	yes	no
+John journeyed to the bathroom. Mary went back to the garden. Is John in the bathroom?	yes	no
+John went to the office. Sandra took the football there. Is John in the bathroom?	no	yes
+John journeyed to the bedroom. Sandra journeyed to the kitchen. Is John in the bedroom?	yes	no
+Sandra got the football there. Daniel moved to the bathroom. Is Daniel in the bathroom?	yes	no
+Daniel travelled to the garden. Mary travelled to the garden. Is Mary in the hallway?	no	yes
+Daniel went back to the office. Daniel went back to the hallway. Is Daniel in the hallway?	yes	no
+Daniel journeyed to the hallway. Daniel moved to the bedroom. Is Daniel in the bedroom?	yes	no
+Daniel went back to the office. Mary took the apple there. Is Daniel in the office?	yes	no
+John moved to the bedroom. Daniel took the milk there. Is John in the bedroom?	yes	no
+Sandra picked up the milk there. Mary went back to the hallway. Is Mary in the bedroom?	no	yes
+Sandra took the apple there. Sandra travelled to the bedroom. Is Sandra in the garden?	no	yes
+Daniel moved to the office. Mary travelled to the garden. Is Mary in the garden?	yes	no
+Daniel got the milk there. Daniel travelled to the bathroom. Is Daniel in the bathroom?	yes	no
+Sandra moved to the garden. John travelled to the bedroom. Is Sandra in the bedroom?	no	yes
+Mary took the milk there. Daniel got the apple there. Daniel went to the office. Sandra travelled to the bathroom. Is Daniel in the office?	yes	no
+Sandra moved to the office. Mary went to the bedroom. Is Sandra in the office?	yes	no
+Sandra moved to the office. Daniel travelled to the hallway. Is Daniel in the bathroom?	no	yes
+Mary went to the bathroom. John travelled to the bathroom. Is Mary in the office?	no	yes
+Daniel picked up the football there. Mary journeyed to the bathroom. Is Mary in the bathroom?	yes	no
+Daniel travelled to the bathroom. Sandra moved to the kitchen. Is Daniel in the bathroom?	yes	no
+John travelled to the bathroom. Daniel went to the bedroom. Is Daniel in the bedroom?	yes	no
+Sandra moved to the bathroom. Daniel travelled to the office. Is Daniel in the office?	yes	no
+Mary travelled to the garden. Mary travelled to the bathroom. Is Mary in the office?	no	yes
+John journeyed to the office. Daniel journeyed to the garden. Is John in the kitchen?	no	yes
+Sandra got the apple there. Sandra journeyed to the bedroom. Is Sandra in the bedroom?	yes	no
+Daniel went back to the garden. Daniel journeyed to the hallway. Is Daniel in the hallway?	yes	no
+John went to the hallway. Sandra grabbed the milk there. Is John in the hallway?	yes	no
+Sandra went back to the kitchen. Sandra got the apple there. Is Sandra in the office?	no	yes
+John went back to the kitchen. John took the milk there. Is John in the kitchen?	yes	no
+Daniel picked up the apple there. Mary picked up the football there. John moved to the bedroom. Daniel dropped the apple. Is John in the bedroom?	yes	no
+Daniel moved to the office. Mary took the milk there. Is Daniel in the bathroom?	no	yes
+Mary grabbed the football there. Sandra grabbed the milk there. Sandra left the milk. Daniel moved to the hallway. Is Daniel in the bathroom?	no	yes
+John went to the bedroom. John took the apple there. Is John in the office?	no	yes
+Daniel got the milk there. John went back to the bathroom. Is John in the office?	no	yes
+Sandra grabbed the milk there. Mary grabbed the football there. Daniel went back to the hallway. Sandra left the milk. Is Daniel in the garden?	no	yes
+Sandra went to the garden. Sandra moved to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra picked up the milk there. Sandra put down the milk. Sandra moved to the office. Daniel went back to the garden. Is Daniel in the garden?	yes	no
+John went back to the garden. John went to the bathroom. Is John in the bathroom?	yes	no
+Mary picked up the apple there. Daniel journeyed to the kitchen. Is Daniel in the kitchen?	yes	no
+John took the apple there. Mary journeyed to the hallway. Is Mary in the bedroom?	no	yes
+Sandra travelled to the garden. John took the milk there. Is Sandra in the bathroom?	no	yes
+Daniel journeyed to the bedroom. Daniel journeyed to the garden. Is Daniel in the bathroom?	no	yes
+Mary went back to the hallway. John went back to the hallway. Is John in the bedroom?	no	yes
+Sandra got the milk there. Sandra dropped the milk. John went to the hallway. Sandra journeyed to the bedroom. Is Sandra in the bedroom?	yes	no
+Daniel grabbed the football there. Mary travelled to the bedroom. Is Mary in the hallway?	no	yes
+John travelled to the hallway. Mary went back to the bathroom. Is John in the garden?	no	yes
+Mary went back to the office. Daniel took the milk there. Is Mary in the office?	yes	no
+Sandra travelled to the hallway. John moved to the hallway. Is Sandra in the bathroom?	no	yes
+Mary took the apple there. John got the milk there. Sandra went back to the bathroom. John journeyed to the kitchen. Is Sandra in the bathroom?	yes	no
+Mary travelled to the bedroom. Daniel grabbed the milk there. Is Mary in the kitchen?	no	yes
+Daniel grabbed the football there. Daniel journeyed to the bedroom. Is Daniel in the bedroom?	yes	no
+Mary picked up the apple there. Mary discarded the apple. Daniel went back to the hallway. Mary went to the garden. Is Mary in the office?	no	yes
+Sandra travelled to the kitchen. Daniel went back to the bedroom. Is Daniel in the garden?	no	yes
+John took the milk there. John went to the garden. Is John in the bathroom?	no	yes
+John got the apple there. Mary got the football there. John went back to the bedroom. Daniel journeyed to the garden. Is John in the garden?	no	yes
+Mary grabbed the apple there. Mary went to the kitchen. Is Mary in the bathroom?	no	yes
+Mary went back to the kitchen. John journeyed to the garden. Is John in the hallway?	no	yes
+Sandra grabbed the milk there. Sandra left the milk. Daniel went to the office. Mary went to the bathroom. Is Daniel in the bedroom?	no	yes
+Sandra moved to the office. John got the apple there. Is Sandra in the bathroom?	no	yes
+Mary got the football there. Sandra went to the bedroom. Is Sandra in the kitchen?	no	yes
+Daniel moved to the kitchen. John picked up the apple there. Is Daniel in the garden?	no	yes
+John went back to the kitchen. John went back to the bedroom. Is John in the kitchen?	no	yes
+John went to the bathroom. John went to the bedroom. Is John in the bedroom?	yes	no
+Daniel grabbed the football there. Daniel discarded the football. Daniel moved to the bathroom. Daniel travelled to the kitchen. Is Daniel in the bathroom?	no	yes
+Daniel picked up the football there. Sandra moved to the kitchen. Is Sandra in the kitchen?	yes	no
+Daniel went to the hallway. Mary went back to the bathroom. Is Mary in the bedroom?	no	yes
+Mary grabbed the apple there. Daniel moved to the hallway. Is Daniel in the garden?	no	yes
+Mary travelled to the bathroom. Sandra moved to the office. Is Mary in the bathroom?	yes	no
+John moved to the bedroom. Sandra travelled to the bedroom. Is Sandra in the bedroom?	yes	no
+Daniel moved to the garden. Mary journeyed to the office. Is Daniel in the bedroom?	no	yes
+John travelled to the bedroom. John took the apple there. Is John in the office?	no	yes
+Daniel went back to the hallway. Mary went back to the bathroom. Is Daniel in the hallway?	yes	no
+John moved to the hallway. John moved to the office. Is John in the hallway?	no	yes
+Sandra took the apple there. Daniel grabbed the football there. John moved to the bathroom. John went back to the kitchen. Is John in the kitchen?	yes	no
+Sandra picked up the milk there. John moved to the hallway. Is John in the bathroom?	no	yes
+Daniel travelled to the kitchen. John moved to the bathroom. Is John in the bathroom?	yes	no
+Mary travelled to the bedroom. John grabbed the apple there. Is Mary in the bedroom?	yes	no
+Daniel picked up the milk there. Sandra journeyed to the bedroom. Is Sandra in the hallway?	no	yes
+Mary moved to the bedroom. Mary went back to the kitchen. Is Mary in the hallway?	no	yes
+John travelled to the kitchen. Mary journeyed to the bedroom. Is Mary in the office?	no	yes
+Sandra went back to the office. Sandra got the football there. Is Sandra in the office?	yes	no
+Sandra picked up the milk there. Sandra left the milk. Sandra got the milk there. Daniel went to the garden. Is Daniel in the garden?	yes	no
+John went back to the bedroom. Daniel journeyed to the bathroom. Is John in the office?	no	yes
+Daniel got the football there. Sandra went to the bathroom. Is Sandra in the garden?	no	yes
+Sandra took the milk there. Sandra discarded the milk there. Sandra went back to the kitchen. John travelled to the office. Is John in the office?	yes	no
+Daniel travelled to the office. Sandra took the milk there. Is Daniel in the office?	yes	no
+Daniel took the milk there. Mary journeyed to the bedroom. Is Mary in the office?	no	yes
+Sandra moved to the bedroom. Sandra picked up the apple there. Is Sandra in the office?	no	yes
+John travelled to the hallway. Mary journeyed to the kitchen. Is Mary in the hallway?	no	yes
+Mary journeyed to the hallway. Sandra travelled to the hallway. Is Sandra in the kitchen?	no	yes
+John picked up the apple there. John journeyed to the bathroom. Is John in the kitchen?	no	yes
+Sandra got the milk there. Mary moved to the garden. Is Mary in the office?	no	yes
+John went back to the bathroom. Daniel travelled to the garden. Is Daniel in the bedroom?	no	yes
+John journeyed to the hallway. John travelled to the bedroom. Is John in the bedroom?	yes	no
+Mary travelled to the garden. Mary travelled to the hallway. Is Mary in the bathroom?	no	yes
+Daniel travelled to the garden. Sandra went to the office. Is Daniel in the garden?	yes	no
+Daniel took the milk there. Daniel travelled to the bathroom. Is Daniel in the bathroom?	yes	no
+Daniel went to the bathroom. Sandra went back to the kitchen. Is Daniel in the office?	no	yes
+Daniel went back to the hallway. John journeyed to the garden. Is John in the office?	no	yes
+John went to the hallway. Daniel travelled to the hallway. Is Daniel in the hallway?	yes	no
+John got the milk there. Sandra moved to the kitchen. Is Sandra in the bedroom?	no	yes
+Sandra journeyed to the garden. Daniel moved to the garden. Is Sandra in the office?	no	yes
+Mary journeyed to the kitchen. Daniel moved to the bathroom. Is Mary in the bathroom?	no	yes
+Mary went back to the kitchen. John travelled to the bathroom. Is Mary in the kitchen?	yes	no
+Sandra journeyed to the kitchen. Sandra went back to the bathroom. Is Sandra in the bathroom?	yes	no
+Daniel moved to the office. Daniel went back to the garden. Is Daniel in the bathroom?	no	yes
+Mary grabbed the football there. Mary dropped the football. Daniel travelled to the bathroom. Daniel travelled to the office. Is Daniel in the office?	yes	no
+Mary took the apple there. Sandra went to the bedroom. Is Sandra in the bathroom?	no	yes
+John went back to the bedroom. John went to the garden. Is John in the garden?	yes	no
+Sandra went back to the bedroom. Daniel journeyed to the garden. Is Daniel in the garden?	yes	no
+Sandra went to the kitchen. Mary picked up the football there. Is Sandra in the garden?	no	yes
+Daniel went back to the garden. Sandra got the apple there. Is Daniel in the hallway?	no	yes
+Daniel travelled to the garden. John went to the garden. Is Daniel in the bathroom?	no	yes
+Sandra got the milk there. John went to the garden. Is John in the garden?	yes	no
+John went to the garden. John moved to the hallway. Is John in the office?	no	yes
+John moved to the hallway. Daniel travelled to the bedroom. Is John in the bathroom?	no	yes
+Sandra went back to the bedroom. John journeyed to the office. Is Sandra in the office?	no	yes
+John picked up the football there. Mary journeyed to the bedroom. Is Mary in the bedroom?	yes	no
+Daniel picked up the football there. Daniel went to the kitchen. Is Daniel in the bedroom?	no	yes
+John went back to the bathroom. John went to the office. Is John in the bedroom?	no	yes
+John moved to the bathroom. Daniel moved to the bedroom. Is Daniel in the garden?	no	yes
+Mary went to the office. Sandra picked up the football there. Is Mary in the office?	yes	no
+Sandra moved to the garden. Mary went to the garden. Is Mary in the office?	no	yes
+Mary went to the office. John picked up the apple there. Is Mary in the garden?	no	yes
+Mary journeyed to the office. John picked up the milk there. Is Mary in the office?	yes	no
+Mary picked up the football there. Mary put down the football. John grabbed the milk there. John left the milk. Mary moved to the hallway. John moved to the bedroom. Is John in the bedroom?	yes	no
+Sandra travelled to the garden. Daniel grabbed the football there. Is Sandra in the hallway?	no	yes
+Sandra moved to the garden. John travelled to the kitchen. Is John in the kitchen?	yes	no
+Daniel journeyed to the hallway. Mary went to the bedroom. Is Mary in the bedroom?	yes	no
+Mary picked up the apple there. Mary put down the apple. Mary travelled to the kitchen. John travelled to the kitchen. Is John in the kitchen?	yes	no
+Daniel went to the bedroom. Sandra moved to the bedroom. Is Daniel in the bedroom?	yes	no
+Mary moved to the bathroom. Sandra picked up the apple there. Is Mary in the bathroom?	yes	no
+Sandra moved to the kitchen. Daniel grabbed the milk there. Is Sandra in the office?	no	yes
+Mary went back to the bedroom. Daniel travelled to the bedroom. Is Daniel in the bedroom?	yes	no
+Sandra grabbed the football there. Daniel travelled to the garden. Is Daniel in the garden?	yes	no
+Mary moved to the garden. Mary moved to the bedroom. Is Mary in the hallway?	no	yes
+John went to the kitchen. Mary travelled to the kitchen. Is Mary in the kitchen?	yes	no
+Sandra journeyed to the bathroom. Daniel took the milk there. Is Sandra in the hallway?	no	yes
+Daniel travelled to the hallway. Mary went back to the hallway. Is Mary in the garden?	no	yes
+Mary moved to the bathroom. Daniel went back to the bedroom. Is Mary in the bathroom?	yes	no
+Mary took the milk there. Sandra picked up the football there. Sandra went back to the bedroom. Daniel journeyed to the office. Is Sandra in the bedroom?	yes	no
+John went back to the office. Sandra moved to the bathroom. Is Sandra in the bathroom?	yes	no
+John grabbed the apple there. Mary travelled to the hallway. Is Mary in the hallway?	yes	no
+John journeyed to the kitchen. Mary picked up the football there. Is John in the hallway?	no	yes
+Sandra picked up the football there. Mary journeyed to the garden. Is Mary in the hallway?	no	yes
+Mary travelled to the hallway. Mary went to the office. Is Mary in the office?	yes	no
+Sandra picked up the milk there. Sandra put down the milk. Mary journeyed to the office. Sandra took the milk there. Is Mary in the office?	yes	no
+John went to the bathroom. John got the football there. Is John in the bathroom?	yes	no
+Sandra grabbed the milk there. Sandra put down the milk. Sandra journeyed to the hallway. Daniel went to the bedroom. Is Daniel in the bedroom?	yes	no
+Mary went to the bathroom. Daniel grabbed the apple there. Is Mary in the bathroom?	yes	no
+Mary got the football there. Sandra got the apple there. Sandra discarded the apple. Mary left the football. Sandra grabbed the apple there. Sandra left the apple. Sandra picked up the apple there. Sandra journeyed to the hallway. Is Sandra in the hallway?	yes	no
+Daniel went to the hallway. Daniel journeyed to the bedroom. Is Daniel in the bedroom?	yes	no
+John moved to the bedroom. John went to the hallway. Is John in the hallway?	yes	no
+Mary moved to the bathroom. Daniel moved to the bathroom. Is Mary in the kitchen?	no	yes
+Daniel got the milk there. John moved to the bathroom. Is John in the bathroom?	yes	no
+Sandra got the milk there. Daniel went to the kitchen. Is Daniel in the bathroom?	no	yes
+Mary went to the bedroom. John moved to the kitchen. Is John in the office?	no	yes
+Sandra travelled to the bathroom. Mary travelled to the garden. Is Mary in the garden?	yes	no
+Mary travelled to the bedroom. John went back to the bathroom. Is John in the bathroom?	yes	no
+John moved to the bathroom. Sandra picked up the apple there. Is John in the garden?	no	yes
+Sandra moved to the office. Sandra journeyed to the kitchen. Is Sandra in the kitchen?	yes	no
+Mary journeyed to the kitchen. Daniel journeyed to the bedroom. Is Daniel in the bathroom?	no	yes
+John moved to the hallway. Sandra went back to the office. Is John in the hallway?	yes	no
+Mary went back to the bathroom. Sandra journeyed to the bedroom. Is Sandra in the bedroom?	yes	no
+Daniel travelled to the hallway. Daniel journeyed to the bedroom. Is Daniel in the bedroom?	yes	no
+Sandra went back to the hallway. Mary went back to the garden. Is Sandra in the hallway?	yes	no
+Mary picked up the football there. Sandra travelled to the office. Is Sandra in the garden?	no	yes
+John got the apple there. John moved to the bathroom. Is John in the bathroom?	yes	no
+Daniel took the apple there. John journeyed to the office. Is John in the garden?	no	yes
+Mary moved to the garden. Mary journeyed to the kitchen. Is Mary in the bedroom?	no	yes
+Sandra journeyed to the office. Daniel took the apple there. Is Sandra in the garden?	no	yes
+John journeyed to the kitchen. John travelled to the hallway. Is John in the bathroom?	no	yes
+Sandra picked up the football there. Sandra journeyed to the garden. Is Sandra in the garden?	yes	no
+John moved to the office. Sandra travelled to the garden. Is John in the office?	yes	no
+Daniel grabbed the milk there. Daniel travelled to the kitchen. Is Daniel in the bedroom?	no	yes
+Daniel went back to the bathroom. Sandra got the football there. Is Daniel in the bathroom?	yes	no
+Sandra moved to the kitchen. Mary went back to the kitchen. Is Mary in the bathroom?	no	yes
+John moved to the office. Sandra grabbed the football there. Is John in the bathroom?	no	yes
+Sandra travelled to the bedroom. John took the football there. Is Sandra in the bedroom?	yes	no
+John went back to the kitchen. Sandra journeyed to the bathroom. Is John in the kitchen?	yes	no
+Mary journeyed to the hallway. Mary took the apple there. Is Mary in the office?	no	yes
+Mary journeyed to the bathroom. Mary travelled to the office. Is Mary in the office?	yes	no
+John journeyed to the office. Mary journeyed to the bathroom. Is John in the office?	yes	no
+Daniel travelled to the garden. Daniel got the milk there. Is Daniel in the garden?	yes	no
+Mary grabbed the milk there. John went to the garden. Is John in the kitchen?	no	yes
+John went back to the hallway. John grabbed the milk there. Is John in the bathroom?	no	yes
+Mary travelled to the garden. Daniel travelled to the office. Is Daniel in the office?	yes	no
+John moved to the office. Daniel travelled to the bedroom. Is Daniel in the bedroom?	yes	no
+John travelled to the garden. Daniel went back to the kitchen. Is John in the bedroom?	no	yes
+Daniel took the milk there. Sandra travelled to the kitchen. Is Sandra in the garden?	no	yes
+Sandra went to the kitchen. Sandra went back to the garden. Is Sandra in the office?	no	yes
+Mary travelled to the garden. Mary grabbed the apple there. Is Mary in the garden?	yes	no
+Daniel went to the office. Mary went to the office. Is Mary in the office?	yes	no
+Daniel journeyed to the office. John picked up the milk there. Is Daniel in the office?	yes	no
+Daniel journeyed to the garden. Daniel journeyed to the hallway. Is Daniel in the bedroom?	no	yes
+Mary took the football there. Daniel went back to the office. Is Daniel in the office?	yes	no
+Sandra took the milk there. Daniel got the apple there. Daniel took the football there. John went to the garden. Is John in the garden?	yes	no
+Mary went to the bathroom. John grabbed the football there. Is Mary in the garden?	no	yes
+Sandra went back to the hallway. John journeyed to the kitchen. Is Sandra in the bathroom?	no	yes
+John travelled to the hallway. Mary got the apple there. Is John in the kitchen?	no	yes
+John moved to the office. John journeyed to the kitchen. Is John in the kitchen?	yes	no
+Daniel got the milk there. Daniel left the milk. Daniel journeyed to the hallway. John journeyed to the hallway. Is John in the hallway?	yes	no
+Mary took the football there. Mary went back to the garden. Is Mary in the garden?	yes	no
+Daniel went to the garden. John got the apple there. Is Daniel in the bedroom?	no	yes
+Daniel got the milk there. Mary went back to the kitchen. Is Mary in the hallway?	no	yes
+John took the football there. Sandra moved to the hallway. Is Sandra in the hallway?	yes	no
+John got the football there. Sandra moved to the kitchen. Is Sandra in the kitchen?	yes	no
+John took the football there. Sandra took the milk there. Sandra put down the milk. Sandra went to the office. Is Sandra in the office?	yes	no
+Mary grabbed the apple there. Daniel journeyed to the office. Is Daniel in the office?	yes	no
+Sandra went to the kitchen. Mary grabbed the football there. Is Sandra in the bathroom?	no	yes
+John took the apple there. Sandra went to the bedroom. Is Sandra in the garden?	no	yes
+Mary journeyed to the office. John went back to the kitchen. Is John in the kitchen?	yes	no
+Daniel took the milk there. Sandra travelled to the bedroom. Is Sandra in the hallway?	no	yes
+Sandra got the milk there. Sandra dropped the milk. Daniel travelled to the office. Sandra picked up the milk there. Is Daniel in the office?	yes	no
+Sandra moved to the hallway. Sandra moved to the bathroom. Is Sandra in the bathroom?	yes	no
+Daniel picked up the football there. Daniel left the football. Mary got the apple there. John got the football there. Sandra travelled to the bedroom. Mary got the milk there. Is Sandra in the bathroom?	no	yes
+Sandra took the milk there. Sandra discarded the milk. Daniel travelled to the kitchen. Mary went back to the kitchen. Is Daniel in the kitchen?	yes	no
+John went back to the bedroom. John picked up the apple there. Is John in the bedroom?	yes	no
+Daniel picked up the football there. Daniel went to the office. Is Daniel in the bedroom?	no	yes
+Mary took the milk there. Sandra travelled to the bedroom. Is Sandra in the bathroom?	no	yes
+Mary grabbed the football there. Daniel travelled to the office. Is Daniel in the hallway?	no	yes
+Sandra got the football there. Sandra moved to the kitchen. Is Sandra in the kitchen?	yes	no
+Mary moved to the bathroom. Daniel journeyed to the bathroom. Is Mary in the bedroom?	no	yes
+John travelled to the bedroom. Mary went back to the garden. Is John in the kitchen?	no	yes
+Sandra moved to the bedroom. Sandra travelled to the kitchen. Is Sandra in the bedroom?	no	yes
+Mary got the apple there. John took the milk there. Sandra travelled to the office. John discarded the milk. Is Sandra in the bathroom?	no	yes
+John picked up the apple there. John went to the office. Is John in the office?	yes	no
+John went back to the kitchen. Daniel went back to the kitchen. Is John in the kitchen?	yes	no
+John journeyed to the bathroom. Mary moved to the bedroom. Is John in the bathroom?	yes	no
+Mary picked up the milk there. Mary picked up the apple there. John journeyed to the bedroom. Mary discarded the apple. Is John in the bedroom?	yes	no
+John went back to the hallway. Sandra grabbed the football there. Is John in the kitchen?	no	yes
+Daniel travelled to the kitchen. Mary travelled to the bedroom. Is Daniel in the kitchen?	yes	no
+Sandra went to the office. Sandra went to the bathroom. Is Sandra in the bathroom?	yes	no
+Mary went to the garden. Mary journeyed to the office. Is Mary in the bathroom?	no	yes
+John moved to the bathroom. John went to the office. Is John in the bathroom?	no	yes
+Mary went back to the hallway. John went to the bedroom. Is Mary in the hallway?	yes	no
+Mary went back to the hallway. Mary went to the bedroom. Is Mary in the bedroom?	yes	no
+Mary got the apple there. John travelled to the kitchen. Is John in the kitchen?	yes	no
+Sandra went back to the hallway. John moved to the bathroom. Is Sandra in the hallway?	yes	no
+Daniel took the football there. Sandra grabbed the milk there. Daniel took the apple there. John moved to the garden. Is John in the kitchen?	no	yes
+Sandra journeyed to the kitchen. John picked up the apple there. Is Sandra in the hallway?	no	yes
+Daniel grabbed the milk there. Sandra journeyed to the kitchen. Is Sandra in the bedroom?	no	yes
+Sandra went back to the office. Mary took the milk there. Is Sandra in the bathroom?	no	yes
+Daniel picked up the football there. Daniel left the football. Daniel moved to the hallway. Daniel journeyed to the garden. Is Daniel in the garden?	yes	no
+Sandra went back to the bathroom. Sandra went to the office. Is Sandra in the bathroom?	no	yes
+Daniel journeyed to the garden. Daniel travelled to the bathroom. Is Daniel in the bathroom?	yes	no
+Mary travelled to the garden. Daniel went to the garden. Is Daniel in the office?	no	yes
+Daniel went to the bathroom. Daniel journeyed to the bedroom. Is Daniel in the bedroom?	yes	no
+Daniel travelled to the garden. Mary travelled to the hallway. Is Mary in the hallway?	yes	no
+Mary travelled to the hallway. Mary moved to the bedroom. Is Mary in the bedroom?	yes	no
+Sandra picked up the football there. Sandra journeyed to the bathroom. Is Sandra in the bedroom?	no	yes
+Daniel travelled to the bathroom. Daniel moved to the garden. Is Daniel in the bedroom?	no	yes
+Sandra moved to the office. Daniel journeyed to the bathroom. Is Daniel in the hallway?	no	yes
+Sandra travelled to the bathroom. Daniel journeyed to the bedroom. Is Daniel in the kitchen?	no	yes
+John journeyed to the kitchen. John went back to the office. Is John in the bathroom?	no	yes
+Sandra travelled to the hallway. Sandra moved to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra grabbed the apple there. Sandra went back to the bathroom. Is Sandra in the bathroom?	yes	no
+John travelled to the bedroom. Mary grabbed the milk there. Is John in the bedroom?	yes	no
+John travelled to the office. Mary went back to the bedroom. Is John in the hallway?	no	yes
+Sandra travelled to the kitchen. John took the milk there. Is Sandra in the bedroom?	no	yes
+Mary went back to the bathroom. Sandra went to the office. Is Mary in the hallway?	no	yes
+Daniel got the apple there. Mary went back to the bedroom. Is Mary in the bathroom?	no	yes
+Sandra journeyed to the bathroom. John travelled to the garden. Is Sandra in the bathroom?	yes	no
+Mary went to the kitchen. Mary travelled to the garden. Is Mary in the garden?	yes	no
+John went to the bedroom. Mary travelled to the bathroom. Is John in the garden?	no	yes
+John went back to the garden. John went back to the office. Is John in the office?	yes	no
+Mary went to the office. Mary moved to the garden. Is Mary in the office?	no	yes
+Sandra travelled to the office. Sandra moved to the garden. Is Sandra in the hallway?	no	yes
+Mary journeyed to the hallway. Sandra journeyed to the kitchen. Is Sandra in the bedroom?	no	yes
+Mary travelled to the kitchen. John went to the bedroom. Is John in the bedroom?	yes	no
+Sandra travelled to the kitchen. Mary went back to the garden. Is Mary in the garden?	yes	no
+Mary grabbed the milk there. Mary discarded the milk. Daniel moved to the hallway. John picked up the football there. Is Daniel in the hallway?	yes	no
+Daniel moved to the garden. Mary journeyed to the bathroom. Is Mary in the bathroom?	yes	no
+John picked up the milk there. John went to the kitchen. Is John in the bedroom?	no	yes
+Mary moved to the office. Mary moved to the kitchen. Is Mary in the kitchen?	yes	no
+Sandra grabbed the football there. Sandra went back to the garden. Is Sandra in the garden?	yes	no
+John took the milk there. Mary grabbed the apple there. Mary went back to the office. Daniel went to the garden. Is Daniel in the garden?	yes	no
+John went back to the bathroom. John went to the garden. Is John in the garden?	yes	no
+Mary journeyed to the garden. Mary travelled to the hallway. Is Mary in the kitchen?	no	yes
+John went back to the garden. John journeyed to the bedroom. Is John in the hallway?	no	yes
+Mary took the football there. Sandra grabbed the milk there. Mary left the football. Daniel travelled to the garden. Is Daniel in the bedroom?	no	yes
+Mary went back to the office. Mary journeyed to the garden. Is Mary in the garden?	yes	no
+Daniel went to the kitchen. Sandra grabbed the milk there. Is Daniel in the garden?	no	yes
+Daniel went back to the office. John took the milk there. Is Daniel in the kitchen?	no	yes
+Daniel travelled to the bedroom. Daniel picked up the football there. Is Daniel in the bedroom?	yes	no
+Sandra journeyed to the kitchen. Daniel travelled to the bedroom. Is Sandra in the kitchen?	yes	no
+Sandra went back to the office. Mary moved to the office. Is Mary in the kitchen?	no	yes
+Sandra moved to the office. Daniel moved to the bathroom. Is Sandra in the garden?	no	yes
+John grabbed the football there. John left the football there. Sandra moved to the kitchen. John went back to the garden. Is John in the office?	no	yes
+John moved to the bedroom. John travelled to the bathroom. Is John in the bathroom?	yes	no
+John travelled to the office. Daniel picked up the football there. Is John in the office?	yes	no
+Mary went to the bathroom. Sandra journeyed to the garden. Is Mary in the bathroom?	yes	no
+Sandra went to the bedroom. Sandra went to the hallway. Is Sandra in the hallway?	yes	no
+Mary picked up the apple there. Mary went back to the office. Is Mary in the bathroom?	no	yes
+Mary moved to the hallway. Sandra moved to the bedroom. Is Sandra in the bedroom?	yes	no
+Sandra moved to the bedroom. Mary travelled to the bedroom. Is Sandra in the bedroom?	yes	no
+Daniel journeyed to the hallway. John went to the bedroom. Is John in the bedroom?	yes	no
+Daniel went to the bedroom. Daniel travelled to the bathroom. Is Daniel in the bathroom?	yes	no
+John grabbed the milk there. Daniel got the apple there. Sandra moved to the bedroom. John journeyed to the garden. Is Sandra in the bathroom?	no	yes
+Mary went to the hallway. Sandra travelled to the bedroom. Is Mary in the hallway?	yes	no
+Sandra journeyed to the kitchen. Sandra picked up the milk there. Is Sandra in the kitchen?	yes	no
+Mary took the apple there. Sandra took the milk there. Sandra travelled to the kitchen. John moved to the bathroom. Is John in the kitchen?	no	yes
+Daniel went to the bedroom. Mary got the apple there. Is Daniel in the bedroom?	yes	no
+Daniel journeyed to the kitchen. Sandra took the milk there. Is Daniel in the kitchen?	yes	no
+Mary moved to the bedroom. Daniel moved to the garden. Is Daniel in the office?	no	yes
+Daniel went back to the hallway. John grabbed the apple there. Is Daniel in the bathroom?	no	yes
+John moved to the garden. Sandra journeyed to the office. Is Sandra in the hallway?	no	yes
+Daniel went back to the hallway. Daniel went to the bathroom. Is Daniel in the bathroom?	yes	no
+Mary journeyed to the garden. Daniel travelled to the bathroom. Is Mary in the garden?	yes	no
+Sandra got the football there. John went to the bathroom. Is John in the bathroom?	yes	no
+Sandra travelled to the garden. John got the football there. Is Sandra in the garden?	yes	no
+Sandra travelled to the garden. Daniel moved to the bathroom. Is Sandra in the garden?	yes	no
+Daniel journeyed to the hallway. Mary got the milk there. Is Daniel in the hallway?	yes	no
+John went back to the hallway. Mary grabbed the apple there. Is John in the hallway?	yes	no
+Mary went to the bathroom. Sandra grabbed the football there. Is Mary in the kitchen?	no	yes
+Sandra went to the bathroom. John grabbed the milk there. Is Sandra in the hallway?	no	yes
+Sandra went back to the garden. Mary went back to the kitchen. Is Mary in the hallway?	no	yes
+John went to the office. Daniel got the milk there. Is John in the garden?	no	yes
+Sandra took the football there. Daniel picked up the apple there. John went back to the hallway. Mary journeyed to the hallway. Is Mary in the hallway?	yes	no
+Mary went to the bathroom. John went to the bathroom. Is Mary in the office?	no	yes
+Mary grabbed the football there. Mary took the apple there. Mary put down the football. Daniel journeyed to the office. Is Daniel in the hallway?	no	yes
+John went back to the bathroom. Sandra travelled to the bedroom. Is John in the garden?	no	yes
+John went back to the bathroom. John moved to the kitchen. Is John in the kitchen?	yes	no
+Mary travelled to the garden. Sandra went to the kitchen. Is Sandra in the garden?	no	yes
+Mary journeyed to the hallway. Daniel picked up the football there. Is Mary in the hallway?	yes	no
+Mary travelled to the garden. Mary got the milk there. Is Mary in the garden?	yes	no
+John journeyed to the office. Mary took the football there. Is John in the office?	yes	no
+Sandra went back to the bathroom. Sandra grabbed the apple there. Is Sandra in the bathroom?	yes	no
+John got the apple there. John took the milk there. John discarded the milk. John picked up the milk there. Daniel went back to the garden. Mary moved to the garden. Is Mary in the office?	no	yes
+John grabbed the football there. John discarded the football. John grabbed the football there. Sandra got the apple there. Sandra put down the apple. John travelled to the kitchen. Is John in the garden?	no	yes
+John got the milk there. John left the milk. John travelled to the garden. Daniel moved to the hallway. Is Daniel in the office?	no	yes
+John went to the kitchen. Daniel moved to the garden. Is John in the garden?	no	yes
+Daniel went to the bathroom. Sandra travelled to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra moved to the hallway. Daniel journeyed to the bathroom. Is Daniel in the hallway?	no	yes
+Daniel grabbed the milk there. Daniel journeyed to the bedroom. Is Daniel in the kitchen?	no	yes
+Sandra picked up the milk there. John went to the bathroom. Is John in the bathroom?	yes	no
+Daniel grabbed the football there. Mary journeyed to the hallway. Is Mary in the kitchen?	no	yes
+Daniel moved to the bedroom. Daniel journeyed to the kitchen. Is Daniel in the kitchen?	yes	no
+Sandra journeyed to the garden. John went to the kitchen. Is John in the office?	no	yes
+John moved to the bathroom. Daniel grabbed the football there. Is John in the bathroom?	yes	no
+Sandra took the milk there. John went to the kitchen. Is John in the kitchen?	yes	no
+Daniel went back to the hallway. John moved to the kitchen. Is John in the bedroom?	no	yes
+Daniel travelled to the bathroom. Daniel picked up the apple there. Is Daniel in the bedroom?	no	yes
+Daniel picked up the milk there. Sandra journeyed to the office. Is Sandra in the office?	yes	no
+Mary travelled to the kitchen. Mary went back to the garden. Is Mary in the bathroom?	no	yes
+Daniel moved to the bathroom. Sandra went to the bathroom. Is Daniel in the bathroom?	yes	no
+Mary journeyed to the office. Mary moved to the bathroom. Is Mary in the bathroom?	yes	no
+Daniel journeyed to the garden. Mary went to the office. Is Mary in the office?	yes	no
+John moved to the hallway. Sandra moved to the garden. Is John in the office?	no	yes
+Mary journeyed to the bedroom. Sandra went back to the hallway. Is Mary in the bedroom?	yes	no
+Daniel took the milk there. Daniel put down the milk. Mary travelled to the office. Sandra went back to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra got the apple there. Sandra went back to the garden. Is Sandra in the hallway?	no	yes
+Sandra went to the garden. John moved to the garden. Is John in the hallway?	no	yes
+Daniel went to the bedroom. John went to the kitchen. Is John in the bedroom?	no	yes
+Mary went to the office. Mary moved to the bedroom. Is Mary in the bedroom?	yes	no
+Sandra travelled to the garden. John journeyed to the hallway. Is Sandra in the bedroom?	no	yes
+Sandra went to the bedroom. Sandra went to the bathroom. Is Sandra in the bathroom?	yes	no
+Daniel went to the office. Mary travelled to the bathroom. Is Daniel in the kitchen?	no	yes
+John travelled to the bathroom. Daniel picked up the milk there. Is John in the hallway?	no	yes
+Sandra grabbed the apple there. Mary went back to the bathroom. Is Mary in the bathroom?	yes	no
+Mary went back to the garden. John went to the bedroom. Is Mary in the hallway?	no	yes
+Sandra moved to the bedroom. John travelled to the office. Is John in the office?	yes	no
+Sandra moved to the hallway. Sandra grabbed the milk there. Is Sandra in the hallway?	yes	no
+John picked up the football there. John travelled to the bedroom. Is John in the garden?	no	yes
+John travelled to the bedroom. Daniel took the apple there. Is John in the bedroom?	yes	no
+Daniel moved to the bathroom. Mary took the football there. Is Daniel in the kitchen?	no	yes
+Daniel went back to the kitchen. Daniel went back to the bedroom. Is Daniel in the kitchen?	no	yes
+Daniel journeyed to the garden. Daniel journeyed to the bathroom. Is Daniel in the bedroom?	no	yes
+John went back to the garden. Daniel picked up the milk there. Is John in the garden?	yes	no
+Sandra went to the garden. Daniel got the apple there. Is Sandra in the office?	no	yes
+Daniel moved to the bedroom. Mary took the apple there. Is Daniel in the bedroom?	yes	no
+Sandra went to the garden. Sandra moved to the bathroom. Is Sandra in the bathroom?	yes	no
+Daniel travelled to the hallway. John got the milk there. Is Daniel in the garden?	no	yes
+Daniel journeyed to the office. Sandra moved to the bathroom. Is Sandra in the garden?	no	yes
+Mary moved to the kitchen. Mary took the apple there. Is Mary in the kitchen?	yes	no
+Sandra moved to the office. John journeyed to the kitchen. Is Sandra in the office?	yes	no
+Daniel picked up the milk there. Daniel dropped the milk. Daniel picked up the milk there. Daniel left the milk. Sandra went to the office. Daniel grabbed the milk there. Is Sandra in the office?	yes	no
+Sandra journeyed to the bedroom. Daniel journeyed to the hallway. Is Daniel in the hallway?	yes	no
+Sandra moved to the kitchen. Sandra travelled to the office. Is Sandra in the garden?	no	yes
+Daniel went back to the hallway. Daniel went to the bedroom. Is Daniel in the garden?	no	yes
+Mary got the football there. John journeyed to the bedroom. Is John in the office?	no	yes
+Daniel took the football there. Sandra moved to the bathroom. Is Sandra in the office?	no	yes
+Mary journeyed to the hallway. John got the milk there. Is Mary in the bedroom?	no	yes
+Daniel went back to the hallway. Mary went to the kitchen. Is Daniel in the office?	no	yes
+Sandra went to the garden. John moved to the office. Is John in the bedroom?	no	yes
+Mary went back to the office. Daniel picked up the milk there. Is Mary in the bathroom?	no	yes
+Sandra moved to the garden. Daniel went back to the bedroom. Is Daniel in the kitchen?	no	yes
+Mary journeyed to the bathroom. Mary grabbed the milk there. Is Mary in the kitchen?	no	yes
+John grabbed the football there. John went to the garden. Is John in the garden?	yes	no
+Daniel went back to the bathroom. Daniel moved to the hallway. Is Daniel in the kitchen?	no	yes
+Mary went back to the bathroom. John got the football there. Is Mary in the bedroom?	no	yes
+Daniel picked up the apple there. Sandra went back to the kitchen. Is Sandra in the kitchen?	yes	no
+Mary journeyed to the kitchen. Sandra journeyed to the garden. Is Mary in the kitchen?	yes	no
+Daniel went back to the kitchen. John went to the bathroom. Is Daniel in the kitchen?	yes	no
+Daniel took the football there. Daniel dropped the football there. Daniel travelled to the kitchen. Mary journeyed to the kitchen. Is Daniel in the kitchen?	yes	no
+Sandra went to the garden. Sandra went back to the office. Is Sandra in the kitchen?	no	yes
+Daniel moved to the bathroom. Mary got the milk there. Is Daniel in the kitchen?	no	yes
+John went to the bedroom. Daniel grabbed the milk there. Is John in the bedroom?	yes	no
+Sandra went back to the bedroom. Sandra went back to the garden. Is Sandra in the garden?	yes	no
+Sandra moved to the bathroom. Sandra journeyed to the bedroom. Is Sandra in the bedroom?	yes	no
+Daniel moved to the bathroom. Sandra journeyed to the bathroom. Is Daniel in the bathroom?	yes	no
+Mary journeyed to the bathroom. Daniel went back to the hallway. Is Daniel in the bedroom?	no	yes
+Mary went back to the bathroom. Sandra travelled to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra went to the bathroom. Mary went to the office. Is Mary in the office?	yes	no
+Daniel grabbed the apple there. Daniel put down the apple. Daniel went to the office. Mary went to the garden. Is Daniel in the office?	yes	no
+Sandra moved to the office. Mary went back to the hallway. Is Mary in the hallway?	yes	no
+Sandra went back to the garden. John went back to the kitchen. Is John in the bedroom?	no	yes
+Sandra grabbed the milk there. Daniel grabbed the apple there. Daniel dropped the apple. John went back to the hallway. Is John in the hallway?	yes	no
+John grabbed the football there. Daniel took the apple there. Daniel travelled to the hallway. Mary went back to the kitchen. Is Daniel in the hallway?	yes	no
+Sandra took the football there. Sandra discarded the football. Sandra travelled to the garden. John travelled to the office. Is John in the office?	yes	no
+John went to the kitchen. Mary grabbed the apple there. Is John in the hallway?	no	yes
+Daniel went back to the bathroom. John moved to the bedroom. Is Daniel in the bathroom?	yes	no
+Sandra journeyed to the kitchen. John went back to the bedroom. Is Sandra in the kitchen?	yes	no
+Mary went to the hallway. John travelled to the office. Is Mary in the hallway?	yes	no
+Mary went to the bathroom. John moved to the bedroom. Is John in the hallway?	no	yes
+John grabbed the football there. Mary moved to the hallway. Is Mary in the bedroom?	no	yes
+John moved to the office. John picked up the apple there. Is John in the kitchen?	no	yes
+Mary journeyed to the bathroom. John went back to the bathroom. Is Mary in the garden?	no	yes
+Daniel picked up the milk there. Daniel went to the office. Is Daniel in the kitchen?	no	yes
+Mary journeyed to the garden. Mary went to the hallway. Is Mary in the hallway?	yes	no
+John journeyed to the garden. John travelled to the kitchen. Is John in the bedroom?	no	yes
+Mary moved to the office. Mary travelled to the kitchen. Is Mary in the kitchen?	yes	no
+Daniel grabbed the football there. John grabbed the apple there. John put down the apple. Sandra grabbed the milk there. Daniel travelled to the hallway. Sandra left the milk. Is Daniel in the kitchen?	no	yes
+Sandra went to the office. John went to the hallway. Is John in the bedroom?	no	yes
+Mary took the apple there. Sandra journeyed to the bathroom. Is Sandra in the bathroom?	yes	no
+Mary journeyed to the kitchen. Mary travelled to the office. Is Mary in the hallway?	no	yes
+John journeyed to the hallway. Mary picked up the football there. Is John in the bedroom?	no	yes
+Daniel picked up the milk there. Mary went to the bedroom. Is Mary in the bedroom?	yes	no
+Sandra grabbed the apple there. Mary picked up the milk there. John travelled to the kitchen. Sandra discarded the apple. Is John in the kitchen?	yes	no
+Sandra got the apple there. Daniel grabbed the football there. John took the milk there. Mary went back to the hallway. Is Mary in the hallway?	yes	no
+Sandra went to the kitchen. John moved to the kitchen. Is Sandra in the office?	no	yes
+John grabbed the football there. Daniel went back to the bedroom. Is Daniel in the bedroom?	yes	no
+Daniel went to the kitchen. John took the milk there. Is Daniel in the kitchen?	yes	no
+John travelled to the hallway. Daniel picked up the milk there. Is John in the hallway?	yes	no
+John journeyed to the bedroom. Daniel journeyed to the garden. Is Daniel in the office?	no	yes
+Sandra went back to the bathroom. John journeyed to the bathroom. Is John in the bathroom?	yes	no
+Daniel moved to the office. John picked up the apple there. Is Daniel in the office?	yes	no
+Mary journeyed to the bedroom. John got the apple there. Is Mary in the bedroom?	yes	no
+Sandra picked up the apple there. John grabbed the football there. John put down the football. Sandra left the apple. John grabbed the football there. Sandra journeyed to the garden. Is Sandra in the garden?	yes	no
+John went to the hallway. Daniel travelled to the hallway. Is John in the hallway?	yes	no
+Mary went back to the garden. Daniel travelled to the bedroom. Is Mary in the bedroom?	no	yes
+Mary grabbed the milk there. John moved to the bedroom. Is John in the kitchen?	no	yes
+Daniel got the milk there. Daniel discarded the milk. Mary picked up the apple there. Daniel got the milk there. Daniel put down the milk. John travelled to the garden. Is John in the bathroom?	no	yes
+Daniel travelled to the kitchen. Mary moved to the bedroom. Is Daniel in the bedroom?	no	yes
+Daniel took the football there. Daniel dropped the football there. Mary went to the bathroom. Mary grabbed the apple there. Is Mary in the hallway?	no	yes
+Mary journeyed to the office. John went to the bathroom. Is Mary in the office?	yes	no
+Mary got the milk there. Mary travelled to the garden. Is Mary in the bathroom?	no	yes
+Sandra moved to the bedroom. Mary grabbed the football there. Is Sandra in the bedroom?	yes	no
+Daniel travelled to the bedroom. Daniel travelled to the office. Is Daniel in the office?	yes	no
+Sandra went to the kitchen. Daniel took the apple there. Is Sandra in the kitchen?	yes	no
+John journeyed to the garden. Mary grabbed the football there. Is John in the garden?	yes	no
+Mary travelled to the office. John got the apple there. Is Mary in the office?	yes	no
+Sandra moved to the hallway. Daniel went to the kitchen. Is Daniel in the kitchen?	yes	no
+John moved to the bedroom. Sandra moved to the bedroom. Is Sandra in the bedroom?	yes	no
+John got the milk there. John dropped the milk. Sandra went back to the kitchen. Sandra picked up the milk there. Is Sandra in the kitchen?	yes	no
+Daniel grabbed the football there. Sandra travelled to the bedroom. Is Sandra in the hallway?	no	yes
+John picked up the football there. Daniel journeyed to the bedroom. Is Daniel in the bedroom?	yes	no
+John took the football there. Daniel moved to the hallway. Is Daniel in the hallway?	yes	no
+John went to the office. Daniel moved to the office. Is Daniel in the hallway?	no	yes
+Sandra took the football there. Sandra travelled to the hallway. Is Sandra in the garden?	no	yes
+Daniel travelled to the bathroom. John travelled to the garden. Is Daniel in the bathroom?	yes	no
+John picked up the milk there. Daniel went back to the office. Is Daniel in the kitchen?	no	yes
+Mary travelled to the office. Daniel journeyed to the kitchen. Is Mary in the office?	yes	no
+John went back to the office. Sandra journeyed to the kitchen. Is Sandra in the office?	no	yes
+John moved to the office. Mary grabbed the apple there. Is John in the office?	yes	no
+Mary took the football there. Sandra went back to the bedroom. Is Sandra in the kitchen?	no	yes
+John went back to the hallway. John journeyed to the garden. Is John in the bathroom?	no	yes
+Daniel travelled to the hallway. Daniel went to the bedroom. Is Daniel in the bedroom?	yes	no
+John got the milk there. Mary grabbed the apple there. Daniel got the football there. Mary travelled to the hallway. Is Mary in the garden?	no	yes
+Mary went to the hallway. John grabbed the apple there. Is Mary in the garden?	no	yes
+Daniel went back to the bedroom. Mary took the football there. Is Daniel in the bedroom?	yes	no
+John went back to the kitchen. John went back to the bathroom. Is John in the bathroom?	yes	no
+Sandra travelled to the bathroom. Sandra moved to the kitchen. Is Sandra in the kitchen?	yes	no
+Mary grabbed the milk there. John went back to the bedroom. Is John in the bedroom?	yes	no
+John got the apple there. Sandra grabbed the milk there. Sandra journeyed to the bedroom. John went back to the bathroom. Is John in the bathroom?	yes	no
+Sandra moved to the bedroom. John moved to the hallway. Is Sandra in the bathroom?	no	yes
+Sandra travelled to the bedroom. Daniel moved to the bedroom. Is Daniel in the garden?	no	yes
+Daniel moved to the bathroom. Daniel took the football there. Is Daniel in the office?	no	yes
+Sandra moved to the kitchen. John journeyed to the garden. Is Sandra in the kitchen?	yes	no
+Mary travelled to the garden. Mary moved to the bathroom. Is Mary in the bedroom?	no	yes
+John moved to the garden. Mary went to the office. Is John in the garden?	yes	no
+Mary got the apple there. Sandra moved to the kitchen. Is Sandra in the garden?	no	yes
+Sandra took the milk there. Sandra dropped the milk. Sandra grabbed the milk there. Mary grabbed the football there. Sandra put down the milk there. Daniel journeyed to the bedroom. Is Daniel in the bedroom?	yes	no
+Mary travelled to the bedroom. Sandra travelled to the bedroom. Is Sandra in the bathroom?	no	yes
+Mary went to the bedroom. Sandra journeyed to the kitchen. Is Sandra in the kitchen?	yes	no
+Mary went back to the bathroom. Sandra journeyed to the kitchen. Is Sandra in the kitchen?	yes	no
+Mary moved to the bedroom. Daniel grabbed the apple there. Is Mary in the bedroom?	yes	no
+Sandra journeyed to the kitchen. Sandra travelled to the bedroom. Is Sandra in the bedroom?	yes	no
+John moved to the hallway. John journeyed to the office. Is John in the bathroom?	no	yes
+Daniel travelled to the office. John went to the office. Is Daniel in the bathroom?	no	yes
+Daniel went to the garden. John picked up the apple there. Is Daniel in the kitchen?	no	yes
+Sandra went back to the bathroom. Mary got the milk there. Is Sandra in the bedroom?	no	yes
+Mary moved to the garden. John journeyed to the hallway. Is Mary in the garden?	yes	no
+John moved to the hallway. Mary went to the garden. Is Mary in the kitchen?	no	yes
+Daniel got the apple there. John picked up the football there. Daniel went back to the office. Daniel discarded the apple. Is Daniel in the office?	yes	no
+Mary took the football there. Mary went to the kitchen. Is Mary in the hallway?	no	yes
+Daniel grabbed the apple there. Daniel journeyed to the hallway. Is Daniel in the hallway?	yes	no
+Daniel picked up the milk there. John picked up the apple there. Mary travelled to the garden. Daniel travelled to the kitchen. Is Daniel in the bedroom?	no	yes
+Sandra went back to the bathroom. John journeyed to the kitchen. Is Sandra in the bathroom?	yes	no
+Mary went to the office. Daniel went back to the bathroom. Is Mary in the office?	yes	no
+Sandra travelled to the hallway. Daniel moved to the garden. Is Daniel in the garden?	yes	no
+Daniel grabbed the football there. Daniel journeyed to the bedroom. Is Daniel in the hallway?	no	yes
+Daniel journeyed to the bedroom. Daniel travelled to the kitchen. Is Daniel in the bathroom?	no	yes
+John went to the bedroom. Daniel journeyed to the garden. Is John in the bedroom?	yes	no
+John journeyed to the hallway. Daniel took the milk there. Is John in the hallway?	yes	no
+Mary got the milk there. John went back to the garden. Is John in the garden?	yes	no
+John moved to the hallway. Daniel moved to the bathroom. Is Daniel in the bathroom?	yes	no
+Daniel journeyed to the kitchen. John travelled to the office. Is Daniel in the kitchen?	yes	no
+Sandra picked up the football there. Sandra dropped the football. John journeyed to the hallway. Sandra went to the bathroom. Is John in the hallway?	yes	no
+Daniel journeyed to the bathroom. Sandra moved to the bedroom. Is Daniel in the bathroom?	yes	no
+Daniel moved to the bathroom. Daniel journeyed to the bedroom. Is Daniel in the bedroom?	yes	no
+Sandra journeyed to the hallway. John moved to the bedroom. Is John in the bedroom?	yes	no
+Mary went to the office. Daniel journeyed to the bathroom. Is Daniel in the bedroom?	no	yes
+Daniel went to the bathroom. Daniel travelled to the bedroom. Is Daniel in the bedroom?	yes	no
+Sandra picked up the apple there. Daniel went back to the garden. Is Daniel in the office?	no	yes
+Daniel went to the kitchen. John travelled to the hallway. Is Daniel in the bathroom?	no	yes
+Mary went to the kitchen. Sandra travelled to the bedroom. Is Sandra in the bedroom?	yes	no
+John got the apple there. John dropped the apple. Mary got the milk there. Mary put down the milk. John journeyed to the bedroom. Sandra went back to the kitchen. Is Sandra in the hallway?	no	yes
+John moved to the office. Daniel grabbed the milk there. Is John in the office?	yes	no
+Daniel went to the hallway. Mary journeyed to the office. Is Daniel in the hallway?	yes	no
+Daniel travelled to the kitchen. Sandra went back to the bathroom. Is Daniel in the kitchen?	yes	no
+Mary went to the kitchen. Sandra picked up the football there. Is Mary in the garden?	no	yes
+Mary picked up the football there. Mary journeyed to the hallway. Is Mary in the office?	no	yes
+Mary went to the bathroom. Sandra picked up the milk there. Is Mary in the office?	no	yes
+Mary got the milk there. John went to the bathroom. Is John in the bathroom?	yes	no
+Sandra travelled to the kitchen. Sandra travelled to the bedroom. Is Sandra in the kitchen?	no	yes
+Daniel went back to the kitchen. Mary travelled to the bathroom. Is Daniel in the kitchen?	yes	no
+Mary journeyed to the bathroom. Sandra moved to the garden. Is Mary in the kitchen?	no	yes
+Sandra picked up the football there. Sandra went back to the garden. Is Sandra in the garden?	yes	no
+Daniel got the milk there. Daniel discarded the milk. Mary got the apple there. Sandra journeyed to the hallway. Is Sandra in the garden?	no	yes
+Sandra journeyed to the garden. Daniel went back to the garden. Is Daniel in the garden?	yes	no
+Sandra journeyed to the bedroom. Daniel journeyed to the office. Is Sandra in the bedroom?	yes	no
+Sandra went back to the bathroom. Sandra journeyed to the bedroom. Is Sandra in the bedroom?	yes	no
+Daniel took the apple there. John grabbed the milk there. Daniel discarded the apple. Mary travelled to the bedroom. Is Mary in the bedroom?	yes	no
+Daniel grabbed the apple there. Daniel went to the hallway. Is Daniel in the garden?	no	yes
+John took the apple there. John travelled to the garden. Is John in the garden?	yes	no
+Daniel travelled to the bedroom. Daniel journeyed to the garden. Is Daniel in the garden?	yes	no
+John moved to the bathroom. Mary travelled to the bathroom. Is Mary in the kitchen?	no	yes
+Sandra got the apple there. Daniel went to the kitchen. Is Daniel in the kitchen?	yes	no
+Daniel journeyed to the office. Mary travelled to the hallway. Is Daniel in the office?	yes	no
+Sandra travelled to the bedroom. Daniel journeyed to the office. Is Sandra in the bedroom?	yes	no
+Mary journeyed to the kitchen. Mary grabbed the milk there. Is Mary in the kitchen?	yes	no
+John journeyed to the garden. Sandra went back to the kitchen. Is John in the garden?	yes	no
+Sandra moved to the bedroom. John went to the kitchen. Is Sandra in the bedroom?	yes	no
+Daniel moved to the garden. John went to the kitchen. Is John in the kitchen?	yes	no
+Mary moved to the hallway. John went to the bedroom. Is John in the hallway?	no	yes
+Mary went to the office. John picked up the football there. Is Mary in the bedroom?	no	yes
+John went to the bathroom. Sandra moved to the hallway. Is Sandra in the garden?	no	yes
+Mary picked up the football there. Sandra went to the hallway. Is Sandra in the hallway?	yes	no
+John picked up the apple there. Daniel picked up the milk there. John dropped the apple. Daniel dropped the milk. Sandra journeyed to the garden. Daniel grabbed the milk there. Is Sandra in the kitchen?	no	yes
+Sandra went to the office. Daniel went to the garden. Is Sandra in the garden?	no	yes
+Daniel went back to the bathroom. Mary moved to the hallway. Is Daniel in the bathroom?	yes	no
+Sandra went to the garden. John journeyed to the bathroom. Is Sandra in the office?	no	yes
+Daniel journeyed to the kitchen. John went back to the garden. Is John in the garden?	yes	no
+Daniel got the milk there. Daniel went back to the bathroom. Is Daniel in the bathroom?	yes	no
+Mary went back to the bedroom. Sandra travelled to the office. Is Sandra in the office?	yes	no
+Sandra travelled to the bathroom. John journeyed to the garden. Is John in the bathroom?	no	yes
+Sandra got the milk there. Mary went to the bedroom. Is Mary in the kitchen?	no	yes
+Mary moved to the kitchen. Sandra got the apple there. Is Mary in the bathroom?	no	yes
+Sandra journeyed to the garden. Sandra moved to the office. Is Sandra in the office?	yes	no
+Mary moved to the bedroom. Daniel got the football there. Is Mary in the bedroom?	yes	no
+Daniel grabbed the apple there. Daniel travelled to the bathroom. Is Daniel in the bathroom?	yes	no
+Mary travelled to the office. Daniel took the football there. Is Mary in the office?	yes	no
+Daniel grabbed the milk there. Mary travelled to the kitchen. Is Mary in the garden?	no	yes
+Daniel moved to the office. Daniel grabbed the apple there. Is Daniel in the office?	yes	no
+Sandra went back to the bedroom. John went to the hallway. Is Sandra in the office?	no	yes
+John picked up the milk there. Sandra went to the hallway. Is Sandra in the kitchen?	no	yes
+Sandra went back to the office. Mary journeyed to the bathroom. Is Sandra in the bedroom?	no	yes
+Sandra moved to the hallway. Sandra went back to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra grabbed the football there. Mary went back to the bedroom. Is Mary in the bedroom?	yes	no
+Sandra grabbed the milk there. Daniel moved to the hallway. Is Daniel in the hallway?	yes	no
+Sandra moved to the bedroom. Sandra went back to the hallway. Is Sandra in the hallway?	yes	no
+Sandra journeyed to the bathroom. John grabbed the football there. Is Sandra in the garden?	no	yes
+John moved to the garden. Sandra journeyed to the hallway. Is John in the office?	no	yes
+John moved to the office. Mary grabbed the football there. Is John in the office?	yes	no
+Mary took the milk there. Mary went to the kitchen. Is Mary in the kitchen?	yes	no
+Sandra went back to the office. Daniel journeyed to the kitchen. Is Sandra in the office?	yes	no
+John went to the office. Daniel moved to the bathroom. Is Daniel in the bathroom?	yes	no
+Sandra moved to the kitchen. Sandra travelled to the office. Is Sandra in the bathroom?	no	yes
+Sandra journeyed to the garden. Daniel went to the kitchen. Is Daniel in the kitchen?	yes	no
+Sandra travelled to the hallway. Daniel got the milk there. Is Sandra in the kitchen?	no	yes
+John moved to the garden. Mary went to the office. Is Mary in the office?	yes	no
+Sandra went to the office. Daniel picked up the football there. Is Sandra in the kitchen?	no	yes
+Mary went to the garden. John moved to the office. Is John in the office?	yes	no
+Mary picked up the milk there. John took the apple there. Mary left the milk there. Sandra journeyed to the garden. Is Sandra in the bathroom?	no	yes
+Daniel travelled to the kitchen. Sandra went to the bedroom. Is Daniel in the garden?	no	yes
+Sandra picked up the milk there. Mary grabbed the football there. Daniel moved to the garden. Mary went to the office. Is Daniel in the office?	no	yes
+Daniel moved to the hallway. John grabbed the apple there. Is Daniel in the hallway?	yes	no
+John got the milk there. Daniel travelled to the kitchen. Is Daniel in the kitchen?	yes	no
+Mary went back to the kitchen. John went back to the bedroom. Is John in the bathroom?	no	yes
+Daniel travelled to the hallway. Sandra grabbed the apple there. Is Daniel in the office?	no	yes
+Daniel journeyed to the bathroom. Sandra moved to the bedroom. Is Daniel in the bathroom?	yes	no
+Daniel went back to the kitchen. Daniel travelled to the bathroom. Is Daniel in the bedroom?	no	yes
+Mary took the apple there. Daniel travelled to the office. Is Daniel in the office?	yes	no
+John journeyed to the garden. John went to the kitchen. Is John in the office?	no	yes
+John moved to the kitchen. Mary picked up the milk there. Is John in the bathroom?	no	yes
+Mary travelled to the kitchen. Mary went to the bathroom. Is Mary in the kitchen?	no	yes
+John took the milk there. Mary travelled to the kitchen. Is Mary in the hallway?	no	yes
+Mary grabbed the apple there. Mary left the apple. John journeyed to the kitchen. Daniel went to the garden. Is Daniel in the office?	no	yes
+Sandra picked up the football there. Sandra took the milk there. John went back to the hallway. John journeyed to the bedroom. Is John in the bedroom?	yes	no
+Daniel went back to the bathroom. Daniel travelled to the hallway. Is Daniel in the bedroom?	no	yes
+John journeyed to the garden. Daniel went back to the garden. Is John in the garden?	yes	no
+Mary travelled to the kitchen. Daniel picked up the apple there. Is Mary in the garden?	no	yes
+Daniel grabbed the milk there. Sandra moved to the bedroom. Is Sandra in the garden?	no	yes
+Sandra went back to the hallway. Daniel went back to the bedroom. Is Sandra in the kitchen?	no	yes
+Daniel journeyed to the hallway. John moved to the office. Is Daniel in the office?	no	yes
+Mary journeyed to the bedroom. Daniel moved to the kitchen. Is Mary in the bedroom?	yes	no
+Mary grabbed the apple there. Daniel journeyed to the bedroom. Is Daniel in the bathroom?	no	yes
+John moved to the hallway. Sandra got the milk there. Is John in the hallway?	yes	no
+Mary went back to the kitchen. John took the milk there. Is Mary in the kitchen?	yes	no
+Sandra moved to the hallway. Daniel moved to the bedroom. Is Daniel in the hallway?	no	yes
+Sandra went back to the bedroom. Mary travelled to the office. Is Sandra in the bedroom?	yes	no
+Daniel grabbed the football there. Daniel discarded the football. John journeyed to the office. Sandra journeyed to the hallway. Is John in the office?	yes	no
+Daniel went to the garden. John took the apple there. Is Daniel in the bathroom?	no	yes
+John journeyed to the hallway. Daniel travelled to the bathroom. Is Daniel in the bathroom?	yes	no
+Mary went back to the bedroom. John took the apple there. Is Mary in the hallway?	no	yes
+John moved to the bedroom. Mary moved to the bedroom. Is Mary in the bedroom?	yes	no
+Sandra got the football there. Sandra put down the football there. Sandra journeyed to the hallway. Mary moved to the hallway. Is Mary in the kitchen?	no	yes
+John journeyed to the bathroom. Daniel journeyed to the hallway. Is Daniel in the bathroom?	no	yes
+Mary picked up the apple there. John journeyed to the bedroom. Is John in the bedroom?	yes	no
+Mary travelled to the garden. John got the milk there. Is Mary in the office?	no	yes
+Mary moved to the garden. Mary moved to the hallway. Is Mary in the office?	no	yes
+Mary moved to the kitchen. Mary travelled to the office. Is Mary in the hallway?	no	yes
+Mary went to the garden. Sandra travelled to the garden. Is Sandra in the garden?	yes	no
+Sandra took the milk there. John got the apple there. Sandra dropped the milk. John went to the garden. Is John in the hallway?	no	yes
+Mary picked up the milk there. Sandra journeyed to the garden. Is Sandra in the office?	no	yes
+Sandra journeyed to the garden. Daniel picked up the milk there. Is Sandra in the office?	no	yes
+Sandra got the milk there. Sandra went back to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra grabbed the apple there. John travelled to the bedroom. Is John in the bedroom?	yes	no
+Mary moved to the kitchen. Mary went to the garden. Is Mary in the garden?	yes	no
+John moved to the bathroom. Mary got the football there. Is John in the bathroom?	yes	no
+John travelled to the garden. Sandra went back to the bathroom. Is Sandra in the kitchen?	no	yes
+Daniel took the football there. John travelled to the kitchen. Is John in the kitchen?	yes	no
+John went back to the hallway. Mary went to the kitchen. Is Mary in the kitchen?	yes	no
+Sandra went to the office. Daniel went back to the office. Is Daniel in the office?	yes	no
+Sandra went to the office. Daniel went to the kitchen. Is Daniel in the kitchen?	yes	no
+Daniel travelled to the bedroom. Mary picked up the milk there. Is Daniel in the bedroom?	yes	no
+John picked up the football there. Mary went back to the garden. Is Mary in the kitchen?	no	yes
+Mary went back to the bedroom. Sandra took the apple there. Is Mary in the bedroom?	yes	no
+Sandra picked up the apple there. John moved to the kitchen. Is John in the office?	no	yes
+John moved to the bedroom. John picked up the football there. Is John in the bedroom?	yes	no
+John travelled to the hallway. John took the milk there. Is John in the hallway?	yes	no
+Daniel moved to the hallway. Sandra travelled to the kitchen. Is Daniel in the office?	no	yes
+Mary picked up the apple there. Mary travelled to the garden. Is Mary in the garden?	yes	no
+Daniel got the milk there. Daniel discarded the milk. John went back to the garden. John went back to the bedroom. Is John in the bedroom?	yes	no
+Daniel went back to the hallway. Sandra went back to the garden. Is Daniel in the hallway?	yes	no
+Sandra grabbed the milk there. Sandra went back to the bedroom. Is Sandra in the hallway?	no	yes
+John moved to the bedroom. Daniel took the milk there. Is John in the office?	no	yes
+Sandra went back to the hallway. Daniel travelled to the office. Is Sandra in the bathroom?	no	yes
+John moved to the hallway. John took the football there. Is John in the hallway?	yes	no
+Mary journeyed to the office. John moved to the hallway. Is Mary in the bedroom?	no	yes
+John journeyed to the bedroom. John picked up the football there. Is John in the bedroom?	yes	no
+Mary journeyed to the office. Daniel went to the bathroom. Is Mary in the bathroom?	no	yes
+John travelled to the office. Mary got the football there. Is John in the office?	yes	no
+John got the apple there. John dropped the apple. Mary took the milk there. Mary left the milk. Mary went to the hallway. Sandra travelled to the office. Is Mary in the garden?	no	yes
+John journeyed to the kitchen. Sandra went back to the bedroom. Is John in the kitchen?	yes	no
+Daniel moved to the kitchen. Mary took the milk there. Is Daniel in the bedroom?	no	yes
+Daniel travelled to the hallway. Sandra travelled to the garden. Is Daniel in the hallway?	yes	no
+John journeyed to the kitchen. Mary travelled to the office. Is Mary in the office?	yes	no
+John went to the garden. John went to the bathroom. Is John in the bathroom?	yes	no
+John moved to the office. Sandra went to the kitchen. Is Sandra in the office?	no	yes
+John grabbed the football there. Mary got the milk there. Daniel journeyed to the bedroom. Sandra journeyed to the bedroom. Is Sandra in the office?	no	yes
+John journeyed to the hallway. Sandra got the apple there. Is John in the bedroom?	no	yes
+Sandra picked up the milk there. Sandra travelled to the hallway. Is Sandra in the hallway?	yes	no
+John travelled to the office. John picked up the apple there. Is John in the bathroom?	no	yes
+Mary went back to the office. Sandra went back to the bedroom. Is Sandra in the hallway?	no	yes
+Sandra moved to the bedroom. Daniel went to the kitchen. Is Daniel in the bathroom?	no	yes
+Sandra got the apple there. John grabbed the football there. Daniel went to the garden. Daniel went back to the bathroom. Is Daniel in the bathroom?	yes	no
+Sandra moved to the kitchen. Sandra journeyed to the office. Is Sandra in the office?	yes	no
+Daniel travelled to the bedroom. Daniel moved to the garden. Is Daniel in the garden?	yes	no
+Sandra went back to the hallway. John got the milk there. Is Sandra in the kitchen?	no	yes
+Sandra went back to the kitchen. Mary went back to the office. Is Mary in the kitchen?	no	yes
+Daniel picked up the milk there. John got the football there. Daniel put down the milk. Daniel went to the garden. Is Daniel in the bathroom?	no	yes
+Sandra got the milk there. Mary journeyed to the hallway. Is Mary in the bedroom?	no	yes
+John went to the bedroom. Mary went to the bathroom. Is Mary in the bathroom?	yes	no
+Mary picked up the football there. Sandra grabbed the milk there. Mary left the football there. Daniel moved to the office. Is Daniel in the office?	yes	no
+Daniel journeyed to the bathroom. Daniel travelled to the garden. Is Daniel in the office?	no	yes
+Sandra went back to the bedroom. Mary went back to the office. Is Mary in the kitchen?	no	yes
+Mary moved to the hallway. John moved to the kitchen. Is Mary in the office?	no	yes
+Sandra picked up the milk there. Mary went back to the bedroom. Is Mary in the hallway?	no	yes
+John grabbed the apple there. Sandra picked up the milk there. Sandra put down the milk. Daniel picked up the milk there. John dropped the apple. Sandra moved to the kitchen. Is Sandra in the hallway?	no	yes
+Sandra went to the garden. Daniel went back to the kitchen. Is Daniel in the kitchen?	yes	no
+Daniel went back to the garden. Daniel picked up the apple there. Is Daniel in the garden?	yes	no
+Daniel grabbed the milk there. John picked up the football there. John went back to the bedroom. Daniel went to the hallway. Is John in the bathroom?	no	yes
+Mary journeyed to the office. Daniel took the football there. Is Mary in the office?	yes	no
+Daniel got the apple there. Mary got the football there. Mary discarded the football. Mary journeyed to the bathroom. Is Mary in the garden?	no	yes
+John went back to the hallway. John journeyed to the bedroom. Is John in the bedroom?	yes	no
+Daniel journeyed to the garden. Mary went to the kitchen. Is Daniel in the office?	no	yes
+Sandra journeyed to the hallway. Daniel took the football there. Is Sandra in the hallway?	yes	no
+John got the milk there. John went to the hallway. Is John in the hallway?	yes	no
+Daniel journeyed to the kitchen. Mary got the milk there. Is Daniel in the kitchen?	yes	no
+Sandra went to the kitchen. John journeyed to the kitchen. Is John in the kitchen?	yes	no
+Sandra picked up the football there. John got the apple there. Mary journeyed to the bathroom. John journeyed to the bathroom. Is John in the bathroom?	yes	no
+Sandra went to the hallway. John moved to the bedroom. Is Sandra in the hallway?	yes	no
+Daniel journeyed to the office. Daniel moved to the hallway. Is Daniel in the bathroom?	no	yes
+Mary moved to the kitchen. Sandra journeyed to the office. Is Mary in the kitchen?	yes	no
+Daniel travelled to the hallway. John went back to the bathroom. Is John in the kitchen?	no	yes
+Mary grabbed the football there. Sandra went to the office. Is Sandra in the garden?	no	yes
+Mary went back to the bedroom. John went to the bathroom. Is Mary in the office?	no	yes
+John picked up the football there. John took the apple there. Mary moved to the office. John journeyed to the bathroom. Is Mary in the bathroom?	no	yes
+John picked up the milk there. John dropped the milk. Sandra travelled to the bedroom. John took the milk there. Is Sandra in the garden?	no	yes
+Sandra travelled to the garden. Daniel travelled to the kitchen. Is Sandra in the bathroom?	no	yes
+Sandra moved to the kitchen. Daniel went back to the bathroom. Is Sandra in the hallway?	no	yes
+Sandra picked up the football there. Mary journeyed to the hallway. Is Mary in the bedroom?	no	yes
+Mary went back to the hallway. John grabbed the milk there. Is Mary in the bathroom?	no	yes
+Sandra journeyed to the garden. John travelled to the garden. Is John in the hallway?	no	yes
+Mary took the milk there. John went to the garden. Is John in the garden?	yes	no
+Sandra went to the bathroom. John journeyed to the hallway. Is Sandra in the garden?	no	yes
+Sandra travelled to the bedroom. Daniel grabbed the football there. Is Sandra in the bedroom?	yes	no
+Mary got the apple there. Mary grabbed the milk there. Mary moved to the garden. Mary went back to the bedroom. Is Mary in the bedroom?	yes	no
+John picked up the football there. John went to the hallway. Is John in the hallway?	yes	no
+John grabbed the football there. John went to the garden. Is John in the bedroom?	no	yes
+Daniel journeyed to the garden. Mary went to the hallway. Is Daniel in the bedroom?	no	yes
+Daniel grabbed the apple there. John went to the garden. Is John in the bathroom?	no	yes
+Mary picked up the apple there. Daniel travelled to the bathroom. Is Daniel in the bathroom?	yes	no
+Mary went to the kitchen. Daniel took the football there. Is Mary in the kitchen?	yes	no
+Sandra went back to the bathroom. Daniel moved to the kitchen. Is Sandra in the bedroom?	no	yes
+John went back to the bathroom. Mary moved to the office. Is Mary in the bedroom?	no	yes
+Sandra got the football there. Mary went back to the office. Is Mary in the office?	yes	no
+Mary went to the office. Sandra journeyed to the office. Is Sandra in the hallway?	no	yes
+Sandra journeyed to the hallway. Sandra picked up the milk there. Is Sandra in the office?	no	yes
+John went to the bedroom. John moved to the garden. Is John in the bedroom?	no	yes
+Sandra travelled to the garden. Sandra went back to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra journeyed to the garden. Sandra travelled to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra went back to the bedroom. Sandra travelled to the hallway. Is Sandra in the hallway?	yes	no
+Mary picked up the football there. Daniel went back to the bedroom. Is Daniel in the bedroom?	yes	no
+John grabbed the milk there. Mary journeyed to the kitchen. Is Mary in the garden?	no	yes
+Sandra went back to the bathroom. Sandra took the milk there. Is Sandra in the garden?	no	yes
+Mary journeyed to the office. John went back to the office. Is John in the office?	yes	no
+Daniel went to the bedroom. Sandra went back to the hallway. Is Sandra in the garden?	no	yes
+John got the milk there. Mary grabbed the football there. John dropped the milk. Sandra went back to the office. Is Sandra in the office?	yes	no
+John travelled to the garden. Daniel went to the garden. Is John in the garden?	yes	no
+Mary journeyed to the office. Daniel took the milk there. Is Mary in the bathroom?	no	yes
+Sandra moved to the bedroom. John went to the bedroom. Is Sandra in the hallway?	no	yes
+John got the milk there. John journeyed to the hallway. Is John in the hallway?	yes	no
+Daniel went back to the bathroom. Mary travelled to the hallway. Is Daniel in the kitchen?	no	yes
+Daniel went to the kitchen. Daniel moved to the garden. Is Daniel in the bedroom?	no	yes
+Sandra got the milk there. Sandra moved to the bedroom. Is Sandra in the bedroom?	yes	no
+Sandra took the milk there. Sandra discarded the milk. Sandra grabbed the milk there. Sandra left the milk. Mary travelled to the bedroom. Mary went to the office. Is Mary in the office?	yes	no
+Mary moved to the office. Sandra picked up the apple there. Is Mary in the kitchen?	no	yes
+Daniel got the football there. Daniel went to the garden. Is Daniel in the garden?	yes	no
+Mary picked up the apple there. Daniel went back to the office. Is Daniel in the garden?	no	yes
+Sandra grabbed the apple there. Sandra got the football there. Daniel grabbed the milk there. Daniel travelled to the garden. Is Daniel in the bathroom?	no	yes
+Mary travelled to the bedroom. John got the football there. Is Mary in the bedroom?	yes	no
+Sandra journeyed to the bedroom. Sandra picked up the football there. Is Sandra in the bedroom?	yes	no
+Mary went to the bedroom. Mary went to the hallway. Is Mary in the hallway?	yes	no
+John moved to the hallway. Mary picked up the milk there. Is John in the office?	no	yes
+John travelled to the bedroom. Mary went to the office. Is John in the hallway?	no	yes
+Daniel took the milk there. Sandra went to the kitchen. Is Sandra in the kitchen?	yes	no
+Daniel moved to the bathroom. Mary went back to the bathroom. Is Daniel in the bathroom?	yes	no
+Daniel went to the bedroom. Sandra journeyed to the office. Is Daniel in the bedroom?	yes	no
+Sandra moved to the bedroom. Mary went to the bathroom. Is Mary in the hallway?	no	yes
+Sandra travelled to the kitchen. Mary took the apple there. Is Sandra in the office?	no	yes
+Daniel grabbed the football there. Daniel went to the garden. Is Daniel in the bedroom?	no	yes
+Daniel went back to the office. Sandra travelled to the bedroom. Is Sandra in the bedroom?	yes	no
+Sandra picked up the apple there. Daniel travelled to the office. Is Daniel in the office?	yes	no
+John travelled to the office. Mary journeyed to the garden. Is John in the garden?	no	yes
+Mary grabbed the apple there. Mary dropped the apple. Daniel went back to the bathroom. Mary got the apple there. Is Daniel in the bathroom?	yes	no
+Mary went to the hallway. Sandra took the football there. Is Mary in the garden?	no	yes
+Mary went back to the bedroom. Daniel went to the kitchen. Is Daniel in the kitchen?	yes	no
+John travelled to the garden. Sandra journeyed to the hallway. Is John in the bathroom?	no	yes
+Daniel journeyed to the bedroom. Sandra went to the kitchen. Is Sandra in the kitchen?	yes	no
+John journeyed to the bedroom. John journeyed to the garden. Is John in the garden?	yes	no
+John moved to the bedroom. John took the football there. Is John in the hallway?	no	yes
+Sandra journeyed to the garden. Sandra travelled to the hallway. Is Sandra in the bedroom?	no	yes
+Daniel picked up the apple there. Daniel put down the apple. Sandra travelled to the office. Sandra moved to the garden. Is Sandra in the kitchen?	no	yes
+Sandra moved to the garden. John went back to the bedroom. Is Sandra in the office?	no	yes
+Mary picked up the apple there. Daniel went to the garden. Is Daniel in the garden?	yes	no
+John took the apple there. Sandra got the football there. Sandra travelled to the office. John dropped the apple there. Is Sandra in the office?	yes	no
+Daniel travelled to the hallway. John took the apple there. Is Daniel in the kitchen?	no	yes
+Daniel took the apple there. Mary went to the hallway. Is Mary in the bathroom?	no	yes
+Sandra travelled to the bedroom. Daniel went back to the bedroom. Is Daniel in the kitchen?	no	yes
+John went back to the kitchen. Daniel moved to the office. Is John in the bathroom?	no	yes
+Sandra picked up the apple there. Sandra left the apple. John went back to the bedroom. Mary journeyed to the office. Is Mary in the office?	yes	no
+Daniel journeyed to the bedroom. Daniel moved to the kitchen. Is Daniel in the bathroom?	no	yes
+John went to the kitchen. Mary went back to the bedroom. Is John in the bathroom?	no	yes
+John picked up the milk there. John went back to the bathroom. Is John in the bedroom?	no	yes
+John journeyed to the bedroom. Sandra travelled to the garden. Is John in the bedroom?	yes	no
+John travelled to the bathroom. Daniel travelled to the garden. Is John in the garden?	no	yes
+Mary got the football there. Sandra travelled to the garden. Is Sandra in the kitchen?	no	yes
+Sandra travelled to the garden. John went back to the hallway. Is Sandra in the garden?	yes	no
+Mary grabbed the football there. Mary discarded the football. John went back to the kitchen. Sandra went to the garden. Is Sandra in the garden?	yes	no
+Sandra journeyed to the bathroom. Sandra journeyed to the kitchen. Is Sandra in the office?	no	yes
+Mary went to the garden. Sandra travelled to the bedroom. Is Mary in the garden?	yes	no
+Sandra went to the kitchen. Mary went back to the garden. Is Sandra in the kitchen?	yes	no
+Mary travelled to the hallway. John went back to the garden. Is John in the garden?	yes	no
+Daniel got the apple there. Daniel moved to the office. Is Daniel in the office?	yes	no
+Mary went to the garden. Mary picked up the apple there. Is Mary in the garden?	yes	no
+Mary journeyed to the office. Daniel travelled to the office. Is Daniel in the hallway?	no	yes
+Sandra journeyed to the bedroom. Mary went back to the garden. Is Sandra in the kitchen?	no	yes
+Sandra moved to the office. John journeyed to the hallway. Is Sandra in the hallway?	no	yes
+Sandra grabbed the apple there. Sandra left the apple there. Sandra picked up the apple there. Mary went to the hallway. Is Mary in the bedroom?	no	yes
+John journeyed to the hallway. Daniel journeyed to the kitchen. Is John in the kitchen?	no	yes
+Sandra moved to the hallway. John travelled to the hallway. Is Sandra in the hallway?	yes	no
+Sandra went back to the office. Daniel went to the bathroom. Is Daniel in the bathroom?	yes	no
+Daniel journeyed to the hallway. Sandra went to the office. Is Daniel in the hallway?	yes	no
+Sandra journeyed to the garden. Mary took the football there. Is Sandra in the garden?	yes	no
+Mary got the milk there. Sandra got the apple there. John travelled to the office. Mary moved to the bathroom. Is Mary in the bathroom?	yes	no
+Daniel went back to the kitchen. Mary grabbed the milk there. Is Daniel in the kitchen?	yes	no
+Mary journeyed to the hallway. Mary went to the bedroom. Is Mary in the hallway?	no	yes
+Mary travelled to the hallway. Sandra went back to the bathroom. Is Mary in the hallway?	yes	no
+John went to the bathroom. Daniel got the football there. Is John in the office?	no	yes
+Daniel moved to the hallway. Mary took the football there. Is Daniel in the hallway?	yes	no
+Sandra travelled to the kitchen. Sandra went to the bathroom. Is Sandra in the kitchen?	no	yes
+Mary grabbed the milk there. Mary travelled to the hallway. Is Mary in the bathroom?	no	yes
+Daniel travelled to the office. Sandra went back to the garden. Is Daniel in the office?	yes	no
+Daniel travelled to the bedroom. Mary travelled to the hallway. Is Mary in the bedroom?	no	yes
+Mary moved to the office. Mary travelled to the kitchen. Is Mary in the kitchen?	yes	no
+Daniel grabbed the apple there. Sandra got the football there. Daniel picked up the milk there. Daniel discarded the apple there. Mary moved to the bedroom. Mary got the apple there. Is Mary in the bedroom?	yes	no
+Daniel travelled to the bathroom. Mary moved to the bedroom. Is Mary in the bathroom?	no	yes
+Sandra went to the bathroom. Daniel went to the bedroom. Is Daniel in the garden?	no	yes
+Mary went back to the hallway. Mary travelled to the garden. Is Mary in the hallway?	no	yes
+Mary picked up the milk there. John grabbed the football there. John discarded the football. Sandra went back to the bedroom. Is Sandra in the bedroom?	yes	no
+Mary went back to the hallway. John got the football there. Is Mary in the hallway?	yes	no
+John went to the kitchen. Daniel went back to the hallway. Is John in the kitchen?	yes	no
+Sandra moved to the hallway. Sandra grabbed the football there. Is Sandra in the garden?	no	yes
+Mary went to the bathroom. Sandra travelled to the garden. Is Sandra in the garden?	yes	no
+Daniel grabbed the apple there. Daniel moved to the bathroom. Is Daniel in the bedroom?	no	yes
+Mary journeyed to the garden. Mary went to the office. Is Mary in the bathroom?	no	yes
+Mary journeyed to the bedroom. Daniel took the apple there. Is Mary in the bedroom?	yes	no
+John travelled to the office. Daniel went to the office. Is John in the hallway?	no	yes
+Sandra got the apple there. John travelled to the bathroom. Is John in the bedroom?	no	yes
+Mary grabbed the milk there. Daniel picked up the football there. John got the apple there. Sandra went to the kitchen. Is Sandra in the kitchen?	yes	no
+Sandra moved to the garden. Sandra picked up the milk there. Is Sandra in the bathroom?	no	yes
+Sandra moved to the kitchen. Mary grabbed the football there. Is Sandra in the kitchen?	yes	no
+Daniel moved to the kitchen. Daniel went to the bathroom. Is Daniel in the bedroom?	no	yes
+Daniel went back to the garden. John journeyed to the hallway. Is Daniel in the hallway?	no	yes
+John journeyed to the bathroom. Sandra went to the bathroom. Is Sandra in the bathroom?	yes	no
+Sandra travelled to the kitchen. Mary got the football there. Is Sandra in the kitchen?	yes	no
+Mary moved to the kitchen. Sandra moved to the hallway. Is Sandra in the kitchen?	no	yes
+John went to the hallway. Sandra picked up the football there. Is John in the hallway?	yes	no
+John picked up the apple there. Sandra travelled to the office. Is Sandra in the office?	yes	no
+Daniel went back to the bedroom. Sandra travelled to the hallway. Is Sandra in the hallway?	yes	no
+Sandra took the apple there. John moved to the kitchen. Is John in the garden?	no	yes
+John went back to the bathroom. John grabbed the milk there. Is John in the bathroom?	yes	no
+Daniel went back to the office. Mary went back to the bathroom. Is Mary in the bathroom?	yes	no
+Daniel moved to the bedroom. Mary got the football there. Is Daniel in the bedroom?	yes	no
+Sandra went back to the kitchen. Daniel moved to the office. Is Sandra in the kitchen?	yes	no
+Mary travelled to the office. Daniel went back to the bathroom. Is Mary in the office?	yes	no
+Daniel took the apple there. Daniel put down the apple there. Mary journeyed to the office. Daniel went to the kitchen. Is Mary in the office?	yes	no
+Daniel travelled to the bathroom. Mary travelled to the hallway. Is Daniel in the bathroom?	yes	no
+Sandra grabbed the football there. Sandra travelled to the kitchen. Is Sandra in the kitchen?	yes	no
+Mary moved to the garden. Mary went back to the bedroom. Is Mary in the office?	no	yes
+Mary travelled to the bathroom. Mary went to the hallway. Is Mary in the hallway?	yes	no
+Daniel journeyed to the bedroom. Sandra went to the hallway. Is Sandra in the hallway?	yes	no
+John went back to the bedroom. John travelled to the office. Is John in the office?	yes	no
+Sandra went to the garden. John moved to the garden. Is Sandra in the bedroom?	no	yes
+Mary got the football there. Daniel picked up the apple there. John went to the kitchen. Sandra travelled to the office. Is John in the kitchen?	yes	no
+Sandra went to the office. John got the milk there. Is Sandra in the office?	yes	no
+Daniel picked up the apple there. John went back to the garden. Is John in the kitchen?	no	yes
+Mary went to the bedroom. Mary went to the hallway. Is Mary in the hallway?	yes	no
+John moved to the hallway. Sandra got the milk there. Is John in the hallway?	yes	no
+John took the football there. Mary picked up the apple there. Daniel went back to the office. Sandra went to the kitchen. Is Sandra in the hallway?	no	yes
+Mary picked up the football there. Daniel moved to the office. Is Daniel in the bedroom?	no	yes
+John took the football there. John travelled to the office. Is John in the office?	yes	no
+John moved to the garden. Daniel went to the bathroom. Is John in the garden?	yes	no
+Sandra picked up the apple there. John moved to the bathroom. Is John in the bathroom?	yes	no
+John journeyed to the hallway. Daniel journeyed to the bedroom. Is Daniel in the hallway?	no	yes
+Daniel went back to the bedroom. John went back to the bathroom. Is John in the bathroom?	yes	no
+John went back to the hallway. Sandra took the football there. Is John in the bedroom?	no	yes
+Daniel travelled to the bedroom. Sandra went to the office. Is Sandra in the office?	yes	no
+Daniel grabbed the football there. John moved to the office. Is John in the bedroom?	no	yes
+John journeyed to the hallway. John moved to the bathroom. Is John in the kitchen?	no	yes
+Mary grabbed the milk there. Mary dropped the milk. John went to the hallway. Sandra moved to the bathroom. Is Sandra in the office?	no	yes
+Sandra moved to the garden. Sandra went to the bathroom. Is Sandra in the bathroom?	yes	no
+Mary grabbed the apple there. Mary journeyed to the bathroom. Is Mary in the kitchen?	no	yes
+Sandra went to the bathroom. Mary went to the bathroom. Is Sandra in the kitchen?	no	yes
+Sandra got the apple there. Sandra put down the apple. Mary picked up the apple there. John went to the office. Is John in the office?	yes	no
+Daniel went to the office. John travelled to the bedroom. Is John in the office?	no	yes
+Mary travelled to the kitchen. Sandra travelled to the office. Is Mary in the bathroom?	no	yes
+Daniel went to the office. Sandra journeyed to the hallway. Is Sandra in the kitchen?	no	yes
