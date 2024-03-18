@@ -55,7 +55,9 @@ second_metric = None  # some tasks only have one metric
 if TASK == "reasoning":
     num_examples = 5
     things = get_all_reasoning_things(
-        num_examples=num_examples, device=DEVICE, metric_name=METRIC
+        num_examples=num_examples, device=DEVICE, metric_name=METRIC,
+        file1="data/yesno_train.txt",
+        file2="data/yesno_train.txt",
     )
 elif TASK == "ioi":
     num_examples = 5
