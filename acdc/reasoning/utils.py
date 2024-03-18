@@ -73,9 +73,9 @@ def get_all_reasoning_things(num_examples,
 
     tl_model.tokenizer.padding_side = "left"
 
-    all_data = clean_data + corrupt_data
-    tokenized_data = tl_model.tokenizer(all_data, padding='max_length', return_tensors="pt")
-    max_length = tokenized_data["input_ids"].shape[1]
+    clean_ = tl_model.tokenizer(clean_data, padding='max_length', return_tensors="pt")
+    corrupt_ = tl_model.tokenizer(corrupt_data, padding='max_length', return_tensors="pt")
+    max_length = max(max(clean_["input_ids"].shape[1]), max(corrupt_["input_ids"].shape[1]))
 
     # extract only the prompt (no answer)
     clean_data = [d[0] for d in clean_data]
