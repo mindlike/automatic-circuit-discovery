@@ -56,8 +56,8 @@ if TASK == "reasoning":
     num_examples = 5
     things = get_all_reasoning_things(
         num_examples=num_examples, device=DEVICE, metric_name=METRIC,
-        file1="data/yesno_train.txt",
-        file2="data/yesno_train.txt",
+        file1="data/yesno_train_small.txt",
+        file2="data/yesno_train_small_corrupt.txt",
     )
 elif TASK == "ioi":
     num_examples = 5

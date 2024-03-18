@@ -1,0 +1,10 @@
+Mary moved to the bathroom. Sandra journeyed to the bedroom. Is Sandra in the bedroom?  yes
+Sandra got the football there. Mary went to the bedroom. Is Mary in the hallway?    no
+Sandra moved to the office. John went back to the garden. Is Sandra in the garden?  no
+Sandra journeyed to the garden. Sandra went back to the bedroom. Is Sandra in the bedroom? yes
+John went to the bathroom. Sandra took the football there. Is John in the garden? no
+Sandra went to the garden. Sandra grabbed the milk there. Is Sandra in the garden? yes
+Sandra grabbed the football there. Sandra went back to the hallway. Is Sandra in the hallway?    yes
+Daniel journeyed to the bedroom. John moved to the bedroom. Is Daniel in the bedroom?   yes
+Mary went back to the bathroom. Daniel went to the office. Is Mary in the office? no
+Daniel journeyed to the hallway. Mary went back to the kitchen. Is Mary in the hallway? no

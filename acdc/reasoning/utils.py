@@ -56,36 +56,67 @@ def get_all_reasoning_things(num_examples,
                              kl_return_one_element=True,
                             ):
 
-    # Load the pre-trained model
+    # # Load the pre-trained model
+    # tl_model = get_gpt2_small(device=device)
+
+    # # Load the prompts
+    # clean_data = [d for d in load_prompts(file1) if len(d[0]) < 105]
+    # assert len(clean_data) >= num_examples * 2
+
+    # # limit #examples to to twice num_examples to have validation and test set
+    # clean_data = clean_data[:num_examples*2]
+
+    # # Load the corrupt data ### NEEDS TO BE A DIFFERENT FILE (?)
+    # corrupt_data = [d for d in load_prompts(file2) if len(d[0]) < 105]
+    # assert len(corrupt_data) >= num_examples * 2
+    # corrupt_data = corrupt_data[:num_examples*2]
+
+    # tl_model.tokenizer.padding_side = "left"
+
+    # clean_ = tl_model.tokenizer(clean_data, padding='max_length', return_tensors="pt")
+    # corrupt_ = tl_model.tokenizer(corrupt_data, padding='max_length', return_tensors="pt")
+    # max_length = max(max(clean_["input_ids"].shape[1]), max(corrupt_["input_ids"].shape[1]))
+
+    # # extract only the prompt (no answer)
+    # clean_data = [d[0] for d in clean_data]
+    # # tokenize questions with left padding -- the padding means we needn't worry about seq_len
+    # clean_input = tl_model.tokenizer(clean_data, padding=True, max_length=max_length, return_tensors="pt")
+    # # tokenize answers
+    # clean_answers = tl_model.tokenizer([" " + d[1] for d in clean_data], return_tensors="pt")
+
+    # corrupt_data = [d[0] for d in corrupt_data]
+    # corrupt_input = tl_model.tokenizer(corrupt_data, padding=True, max_length=max_length, return_tensors="pt")
+    # corrupt_answers = tl_model.tokenizer([" " + d[1] for d in corrupt_data], return_tensors="pt")
+
+    # loading model
     tl_model = get_gpt2_small(device=device)
 
-    # Load the prompts
-    clean_data = [d for d in load_prompts(file1) if len(d[0]) < 105]
+    # loading clean prompts creating two splits
+    clean_data = [d for d in load_prompts("data/yesno_train.txt") if len(d[0]) < 105]
     assert len(clean_data) >= num_examples * 2
-
-    # limit #examples to to twice num_examples to have validation and test set
     clean_data = clean_data[:num_examples*2]
 
-    # Load the corrupt data ### NEEDS TO BE A DIFFERENT FILE (?)
-    corrupt_data = [d for d in load_prompts(file2) if len(d[0]) < 105]
+    # loading corrupt prompts creating two splits
+    corrupt_data = [d for d in load_prompts("data/yesno_train.txt") if len(d[0]) < 105]
     assert len(corrupt_data) >= num_examples * 2
     corrupt_data = corrupt_data[:num_examples*2]
 
+    # specifying padding side (left)
     tl_model.tokenizer.padding_side = "left"
 
-    clean_ = tl_model.tokenizer(clean_data, padding='max_length', return_tensors="pt")
-    corrupt_ = tl_model.tokenizer(corrupt_data, padding='max_length', return_tensors="pt")
-    max_length = max(max(clean_["input_ids"].shape[1]), max(corrupt_["input_ids"].shape[1]))
-
-    # extract only the prompt (no answer)
+    # extracting questions only
     clean_data = [d[0] for d in clean_data]
-    # tokenize questions with left padding -- the padding means we needn't worry about seq_len
-    clean_input = tl_model.tokenizer(clean_data, padding=True, max_length=max_length, return_tensors="pt")
-    # tokenize answers
-    clean_answers = tl_model.tokenizer([" " + d[1] for d in clean_data], return_tensors="pt")
-
     corrupt_data = [d[0] for d in corrupt_data]
-    corrupt_input = tl_model.tokenizer(corrupt_data, padding=True, max_length=max_length, return_tensors="pt")
+
+    # finding the longest tokenised sequence
+    clean_ = tl_model.tokenizer(clean_data, padding='longest', return_tensors="pt")
+    corrupt_ = tl_model.tokenizer(corrupt_data, padding='longest', return_tensors="pt")
+    max_length = max(clean_["input_ids"].shape[1], corrupt_["input_ids"].shape[1])
+
+    # tokeinising questions with left padding
+    clean_input = tl_model.tokenizer(clean_data, padding='max_length', max_length=max_length, return_tensors="pt")
+    clean_answers = tl_model.tokenizer([" " + d[1] for d in clean_data], return_tensors="pt")
+    corrupt_input = tl_model.tokenizer(corrupt_data, padding='max_length', max_length=max_length, return_tensors="pt")
     corrupt_answers = tl_model.tokenizer([" " + d[1] for d in corrupt_data], return_tensors="pt")
 
     # tokenized objects contain inputs_ids and an attention mask
