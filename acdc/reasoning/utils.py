@@ -92,12 +92,12 @@ def get_all_reasoning_things(num_examples,
     tl_model = get_gpt2_small(device=device)
 
     # loading clean prompts creating two splits
-    clean_data = [d for d in load_prompts("data/yesno_train.txt") if len(d[0]) < 105]
+    clean_data = [d for d in load_prompts(file1) if len(d[0]) < 105]
     assert len(clean_data) >= num_examples * 2
     clean_data = clean_data[:num_examples*2]
 
     # loading corrupt prompts creating two splits
-    corrupt_data = [d for d in load_prompts("data/yesno_train.txt") if len(d[0]) < 105]
+    corrupt_data = [d for d in load_prompts(file2) if len(d[0]) < 105]
     assert len(corrupt_data) >= num_examples * 2
     corrupt_data = corrupt_data[:num_examples*2]
 
